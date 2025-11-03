@@ -4,4 +4,4 @@
 
 layout: home
 ---
-![Noten Teppich](/assets/images/Notenteppich.jpg)
+Documentation about the Foldie Links App.
