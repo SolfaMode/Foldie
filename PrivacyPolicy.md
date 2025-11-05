@@ -1,3 +1,9 @@
+---
+layout: page
+title: Privacy Policy
+permalink: /PrivacyPolicy/
+---
+
 # Privacy Policy
 
 The app **Foldie Links** is a tool and data collection is kept to a minimum.
