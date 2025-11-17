@@ -6,6 +6,8 @@ permalink: /FAQ-en/
 
 # Frequently asked Questions
 
-## I have bought a feature pack, but the feature is not active.
+#### I have bought a feature pack, but the feature is not active.
 
 Please go to Sidebar / Features. Check if the toggle of your feature is a) unlocked and b) enabled.
+If the feature is still locked, please double check if your purchase succeeded. 
+Children may have to wait for their parents to approve the purchase.
