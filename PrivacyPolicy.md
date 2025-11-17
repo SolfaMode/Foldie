@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Privacy Policy
-permalink: /PrivacyPolicy/
+permalink: /PrivacyPolicy-en/
 ---
 
 # Privacy Policy
@@ -19,7 +19,7 @@ The app **Foldie Links** is a tool and data collection is kept to a minimum.
 
 - No user data is collected.
 - No data about the usage of the apps is collected.
-- No data from the user's folders is collected.
+- No file contents from the user's file system is collected.
 - No data is sent to servers other than to the private iCloud database.
 
 
