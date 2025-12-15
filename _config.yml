@@ -31,7 +31,7 @@ plugins:
   - jekyll-feed
 
 header_pages:
-#  - videos.md
+  - videos.md
 #  - app.md
   - links.md
 #  - about.md

@@ -3,6 +3,10 @@ layout: page
 title: Videos
 ---
 
-Die Videoserie "Musiktheorie auf dem Notenteppich" gibt es auf [YouTube](https://www.youtube.com/playlist?list=PLncPrR8MvdMFIWQImWxouuxsbL57WbIJw).
+Watch the video tutorials on "Foldie Links" on [YouTube](https://www.youtube.com/playlist?list=PLlYMXwjat1CDtioIv1ri1Vy2FLgginlQ9).
 
-{% include youtube.html id="videoseries?si=9uGaJ6Dz75kdrKc3&amp;list=PLncPrR8MvdMFIWQImWxouuxsbL57WbIJw" %}
+1. Foldie Introduction 
+[YouTube](https://youtu.be/vH0-ZeZzpUc)
+
+2. Foldie Links: View and Edit Files
+[YouTube](https://youtu.be/xcqsQgHBpAg)
