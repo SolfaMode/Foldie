@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Features on Foldie Links</title>
+    <link>https://foldieapp.webli.de/en/docs/features/</link>
+    <description>Recent content in Features on Foldie Links</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://foldieapp.webli.de/en/docs/features/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advanced Links</title>
+      <link>https://foldieapp.webli.de/en/docs/features/advanced-links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/advanced-links/</guid>
+      <description>&lt;p&gt;Copy your Links to other apps using different title formats. Export compatible Web-Links where necessary. Tapping those Web-Links brings you back to this App.&lt;/p&gt;&#xA;&lt;h2 id=&#34;title-formats&#34;&gt;Title formats&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#title-formats&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;When copying links or appending to a note, Foldie offers to copy the plain link, a formatted version for pasting into a rich text editor and a Markdown version. The latter two require a URL and a title.&lt;/p&gt;&#xA;&lt;p&gt;This title can be customized in &lt;strong&gt;Settings&lt;/strong&gt; and is a dedicated portion of the URL, such as the file name or the file name without extension.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Advanced Windows</title>
+      <link>https://foldieapp.webli.de/en/docs/features/advanced-windows/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/advanced-windows/</guid>
+      <description>&lt;p&gt;Hold the option key or double click to open a Link in a new Browser window.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Annotations</title>
+      <link>https://foldieapp.webli.de/en/docs/features/annotations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/annotations/</guid>
+      <description>&lt;p&gt;When you follow a link to a file, Foldie reminds you about files and folders that are similarly named as the target file.&#xA;For &lt;strong&gt;Name.ext&lt;/strong&gt; and &lt;strong&gt;Name-X.ext&lt;/strong&gt; these are all other files in the same directory that start with &lt;strong&gt;Name&lt;/strong&gt;.&#xA;You can use this feature to add annotation files into the same physical folder or in an &lt;a href=&#34;overlay.md&#34;&gt;overlay&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;In a big band you could put playing instructions for Song.pdf into Song-trumpets.txt.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bookmarks</title>
+      <link>https://foldieapp.webli.de/en/docs/features/bookmarks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/bookmarks/</guid>
+      <description>&lt;p&gt;While browsing, and in other places where links are active, you can bookmark the links.&#xA;You can then later look up the bookmarked links using the side bar.&#xA;Then you can edit the list of bookmarks and mark bookmarks as favorites.&lt;/p&gt;&#xA;&lt;p&gt;You can perform &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/link-actions/&#34;&gt;common actions&lt;/a&gt; with each link in the bookmarks list.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Call Shortcuts</title>
+      <link>https://foldieapp.webli.de/en/docs/features/call-shortcuts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/call-shortcuts/</guid>
+      <description>&lt;p&gt;Foldie is - on purpose - very limited in what you can do with the contents of the files.&#xA;And, by design of iOS, Foldie cannot interact easily with other apps other than through the share sheet.&#xA;You, the user, on the other hand, are allowed to create workflows in the Shortcuts app, which has access to actions within other apps.&lt;/p&gt;&#xA;&lt;p&gt;To support your specific workflows, Foldie allows you to call your shortcuts with the current link.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Default Overlays</title>
+      <link>https://foldieapp.webli.de/en/docs/features/default-overlays/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/default-overlays/</guid>
+      <description>&lt;p&gt;Default overlays provide &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/overlays/&#34;&gt;overlays&lt;/a&gt; for all &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/base-folder/&#34;&gt;base folders&lt;/a&gt; and &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/virtual-folder/&#34;&gt;virtual folders&lt;/a&gt;. You can easily create parallel folder structures for each host and put related files there. (See &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/annotations/&#34;&gt;annotations&lt;/a&gt;.)&lt;/p&gt;&#xA;&lt;p&gt;Go to &lt;strong&gt;Settings/Default Overlays&lt;/strong&gt;. Check one of the default locations (iCloud or local) or use comma-separated base folder names.&lt;/p&gt;&#xA;&lt;p&gt;When you browse at foldie://host/somepath, all the content of DefaultOverlayFolder/host/somepath will also be shown for each of the enabled default overlay folders.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Embedded File Viewers</title>
+      <link>https://foldieapp.webli.de/en/docs/features/embedded-viewers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/embedded-viewers/</guid>
+      <description>&lt;p&gt;For PDFs, audio and video files, you can use an embedded viewer to create links to specific locations within the file&amp;rsquo;s content. The location is encoded as a &lt;strong&gt;#&lt;/strong&gt; fragment of the link&amp;rsquo;s URL. When opening such a link later, you can get back to the location in the embedded viewer.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;For PDFs, the current page page is encoded in the link.&lt;/li&gt;&#xA;&lt;li&gt;For audio and video files, the current playback postion in seconds is encoded in the link.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>File Browser</title>
+      <link>https://foldieapp.webli.de/en/docs/features/file-browser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/file-browser/</guid>
+      <description>&lt;p&gt;The Foldie file browser is shown when you open a link from outside of the app or in the many places, where &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/link-actions/&#34;&gt;common link actions&lt;/a&gt; are available.&lt;/p&gt;&#xA;&lt;p&gt;When opening a link, foldie looks up the host in the &lt;a href=&#34;virtual-folder.md&#34;&gt;virtual folder definitions&lt;/a&gt; and in the &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/base-folder/&#34;&gt;base folder&lt;/a&gt; definitions. It then resolves the necessary &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/security-scoped-bookmark/&#34;&gt;security scoped bookmarks&lt;/a&gt; to access the underlying file system. If the link represents a folders, the browser lists its contents. If the link represents a file, the browser shows actions you can perform with the file.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Intents</title>
+      <link>https://foldieapp.webli.de/en/docs/features/intents/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/intents/</guid>
+      <description>&lt;p&gt;Use this app’s actions in the Shortcuts app and elsewhere in the system.&lt;/p&gt;&#xA;&lt;h2 id=&#34;security-warning&#34;&gt;Security warning&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#security-warning&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;This feature is deactivated by default, to keep your files safe.&#xA;You should only activate these features, if you know what you are doing.&#xA;Shortcuts may perform changes to the underlying file system.&lt;/p&gt;&#xA;&lt;p&gt;Always check Shortcuts before installing and running them! You risk your data and privacy!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Link Actions</title>
+      <link>https://foldieapp.webli.de/en/docs/features/link-actions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/link-actions/</guid>
+      <description>&lt;p&gt;There are many places in Foldie, where a &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/foldie-link/&#34;&gt;Foldie Links&lt;/a&gt; is active:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The current location in the &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/file-browser/&#34;&gt;file browser&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;A selected item in the file browser.&lt;/li&gt;&#xA;&lt;li&gt;A selected item in the &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/recents/&#34;&gt;recents&lt;/a&gt; list.&lt;/li&gt;&#xA;&lt;li&gt;A selected item in the &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/bookmarks/&#34;&gt;bookmark&lt;/a&gt; list.&lt;/li&gt;&#xA;&lt;li&gt;A selected item in the host list.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;In most places you can use the context menu to perform common actions.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;If outside of the file browser: Open the link in the file browser.&lt;/li&gt;&#xA;&lt;li&gt;Create a &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/bookmarks/&#34;&gt;bookmark&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Copy the link to clipboard as a &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/foldie-link/&#34;&gt;Foldie Link&lt;/a&gt; or as a &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/foldie-web-link/&#34;&gt;Foldie Web Link&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Share the link via the system share sheet.&lt;/li&gt;&#xA;&lt;li&gt;Add the link to the &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/notes/&#34;&gt;current note&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/call-shortcuts/&#34;&gt;Perform shortcut actions&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;If the link represents a single file or folder, you can also access the file itself in some places with the following actions:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Metadata</title>
+      <link>https://foldieapp.webli.de/en/docs/features/metadata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/metadata/</guid>
+      <description>&lt;p&gt;Foldie metadata is inspired from the &lt;a href=&#34;https://en.wikipedia.org/wiki/Resource_Description_Framework&#34;&gt;Resource Description Framework&lt;/a&gt; (RDF), but much simpler.&#xA;A Metadata &lt;strong&gt;entry&lt;/strong&gt; is represented by a subject-predicate-object-triple &lt;strong&gt;(Link, Attribute, Value)&lt;/strong&gt;, where &lt;strong&gt;Link&lt;/strong&gt; is a &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/foldie-link/&#34;&gt;Foldie Link URL&lt;/a&gt;, &lt;strong&gt;Attribute&lt;/strong&gt; is a user-defined name such as &amp;ldquo;tag&amp;rdquo;, &amp;ldquo;quality&amp;rdquo;, &amp;ldquo;basedOn&amp;rdquo;, and &lt;strong&gt;Value&lt;/strong&gt; is single- or multiline plain text that may contain other links.&lt;/p&gt;&#xA;&lt;p&gt;A &lt;strong&gt;link property&lt;/strong&gt; is an &lt;strong&gt;(Attribute, Value)&lt;/strong&gt; pair, and a &lt;strong&gt;mention&lt;/strong&gt; of a link is a metadata entry, in which the link occurs in the value field.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Notes</title>
+      <link>https://foldieapp.webli.de/en/docs/features/notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/notes/</guid>
+      <description>&lt;p&gt;In notes you can freely mix plain text, links and basic markup. Use notes to create an ordered list of Links or to tell a story. Select a &lt;strong&gt;Current Note&lt;/strong&gt; and easily add Links to it from context menus.&lt;/p&gt;&#xA;&lt;h2 id=&#34;basic-markup&#34;&gt;Basic Markup&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#basic-markup&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Foldie supports only a small subset of Markdown:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Use &lt;code&gt;**Some text**&lt;/code&gt; to make it bold: &lt;strong&gt;Some text&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;Use &lt;code&gt;*Some text*&lt;/code&gt; to make it italics: &lt;em&gt;Some  text&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;Use &lt;code&gt;[Link Title](https://en.wikipedia.org/wiki/Main_Page)&lt;/code&gt; to create links with arbitrary titles: &lt;a href=&#34;https://en.wikipedia.org/wiki/Main_Page&#34;&gt;Link Title&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;You can use relative paths in links like &lt;code&gt;[Link Title](relative/path.txt)&lt;/code&gt;, if you set a &lt;strong&gt;Base URL&lt;/strong&gt; in the editor.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Additionally, plain text URLs are detected and turned into tappable links.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Overlays</title>
+      <link>https://foldieapp.webli.de/en/docs/features/overlays/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/overlays/</guid>
+      <description>&lt;p&gt;Foldie supports creating &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/virtual-folder/&#34;&gt;virtual folder&lt;/a&gt; overlays of directories and files from your file system.&#xA;An overlay can be realized with a &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/virtual-folders/&#34;&gt;Virtual Folder Definition&lt;/a&gt; and via &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/default-overlays/&#34;&gt;Default Overlays&lt;/a&gt;.&#xA;The &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/file-browser/&#34;&gt;file browser&lt;/a&gt; supports to browse these overlays.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-a-folder-overlay&#34;&gt;What is a folder-overlay?&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#what-is-a-folder-overlay&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Overlays are well-known from painting applications, such as Adobe Photoshop. There, an Overlay consists of a list of ordered layers, each of which contains an image with a transparent background. In the overall view, opaque pixels in the upper layers hide opaque pixels in the lower layer, that have the same coordinate.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Recents</title>
+      <link>https://foldieapp.webli.de/en/docs/features/recents/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/recents/</guid>
+      <description>&lt;p&gt;Foldie keeps track of links that you have opened from other apps.&#xA;You can later revisit those links and perform &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/link-actions/&#34;&gt;common link actions&lt;/a&gt; with them.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Siblings</title>
+      <link>https://foldieapp.webli.de/en/docs/features/siblings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/siblings/</guid>
+      <description>&lt;p&gt;When opening a link in the &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/file-browser/&#34;&gt;file browser&lt;/a&gt;, other files and folders with a similar name within the same parent folder are shown. So you can put information about a file &lt;em&gt;MyFile.ext&lt;/em&gt; in a folder called &lt;em&gt;MyFile-Info&lt;/em&gt;. This also works across &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/overlays/&#34;&gt;overlays&lt;/a&gt;. (See also &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/annotations/&#34;&gt;Annotations&lt;/a&gt; feature.)&lt;/p&gt;&#xA;&lt;p&gt;An alternative to sibling files is to use &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/metadata/&#34;&gt;Metadata&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Virtual Folders</title>
+      <link>https://foldieapp.webli.de/en/docs/features/virtual-folders/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/virtual-folders/</guid>
+      <description>&lt;p&gt;You can create complex &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/overlays/&#34;&gt;overlay&lt;/a&gt; definitions in the &lt;strong&gt;Virtual Folders&lt;/strong&gt; screen that you can reach from the sidebar.&lt;/p&gt;&#xA;&lt;p&gt;You can combine multiple different &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/base-folder/&#34;&gt;Base Folders&lt;/a&gt; and &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/base-file/&#34;&gt;Base Files&lt;/a&gt; into one &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/virtual-folder/&#34;&gt;Virtual Folder&lt;/a&gt; that behaves as a single directory. The virtual folder contains the underlying files and sub-directories from all sources and the built-in &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/file-browser/&#34;&gt;file browser&lt;/a&gt; shows all source-files and -folders.&lt;/p&gt;&#xA;&lt;h2 id=&#34;editor&#34;&gt;Editor&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#editor&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;In the &lt;strong&gt;top section&lt;/strong&gt;, you can change the host name that represents the root folder and choose if you want generally want to make the host active. Because the host definition is synced to your other devices, you can choose on each device, if you want to enable the host on that devide. You would not do that on devices, where the base folders are not available that are used in the definition.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Widgets</title>
+      <link>https://foldieapp.webli.de/en/docs/features/widgets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/widgets/</guid>
+      <description>&lt;p&gt;This app provides widgets that you can add to your home screen, so that you can open some links directly.&lt;/p&gt;&#xA;&lt;p&gt;A &lt;strong&gt;Hosts&lt;/strong&gt; widget that lists all &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/foldie-host/&#34;&gt;Foldie Hosts&lt;/a&gt; and a &lt;strong&gt;Note&lt;/strong&gt; widget that lists all links of the &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/notes/&#34;&gt;current note&lt;/a&gt;. Both come in different sizes and open the Foldie app, when an item is tapped.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

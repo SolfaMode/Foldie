@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Link on Foldie Links</title>
+    <link>https://foldieapp.webli.de/en/featurepacks/link/</link>
+    <description>Recent content in Link on Foldie Links</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://foldieapp.webli.de/en/featurepacks/link/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research</title>
+      <link>https://foldieapp.webli.de/en/docs/use-cases/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/use-cases/research/</guid>
+      <description>&lt;p&gt;You are a researcher and you have collected a pile of related papers in PDF format.&#xA;You enjoy Foldie a lot, because in your research documents you include &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/foldie-link/&#34;&gt;Foldie links&lt;/a&gt; to the papers and easily open them from there.&#xA;Now you want to try the &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/metadata/&#34;&gt;Metadata&lt;/a&gt; feature of Foldie.&lt;/p&gt;&#xA;&lt;p&gt;You think of good paper attributes, such as &lt;strong&gt;author&lt;/strong&gt;, &lt;strong&gt;topic&lt;/strong&gt;, &lt;strong&gt;publication-year&lt;/strong&gt;, &lt;strong&gt;quality&lt;/strong&gt;, &lt;strong&gt;cited-paper&lt;/strong&gt;. You add properties to the links to the papers. You study the inter-linking of papers using the metadata browser and find that a lot of papers cite paper &lt;strong&gt;P&lt;/strong&gt;. Being a good researcher, you really read that paper, think hard and you find a flaw. You write a paper about that and prove 20 other papers wrong. Congratulations!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

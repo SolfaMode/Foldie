@@ -1,0 +1,1837 @@
+<!doctype html>
+<html itemscope itemtype="http://schema.org/WebPage" lang="en" class="no-js" data-theme-init>
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff">
+<meta name="theme-color" media="(prefers-color-scheme: dark)"  content="#000000">
+
+<style>
+  html { background: Canvas; color: CanvasText; }
+  @media (prefers-color-scheme: dark) {
+    html { background: #0b0d12; color: #e6e6e6; }
+  }
+  html[data-theme-init] * { transition: none !important; }
+</style>
+
+<script>
+  (function() {
+    const themeKey = 'td-color-theme';
+    const storedTheme = localStorage.getItem(themeKey);
+    let theme = storedTheme || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+
+    if (theme === 'auto') {
+      theme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+    }
+
+    document.documentElement.setAttribute('data-bs-theme', theme);
+  })();
+</script>
+<link rel="canonical" type="text/html" href="https://foldieapp.webli.de/en/docs/">
+<link rel="alternate" type="application/rss&#43;xml" href="https://foldieapp.webli.de/en/docs/index.xml">
+<meta name="robots" content="noindex, nofollow">
+
+
+<link rel="shortcut icon" href="/favicons/favicon.ico" >
+<link rel="apple-touch-icon" href="/favicons/apple-touch-icon-180x180.png" sizes="180x180">
+<link rel="icon" type="image/png" href="/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/favicons/android-36x36.png" sizes="36x36">
+<link rel="icon" type="image/png" href="/favicons/android-48x48.png" sizes="48x48">
+<link rel="icon" type="image/png" href="/favicons/android-72x72.png" sizes="72x72">
+<link rel="icon" type="image/png" href="/favicons/android-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/favicons/android-144x144.png" sizes="144x144">
+<link rel="icon" type="image/png" href="/favicons/android-192x192.png" sizes="192x192">
+
+<title>Documentation | Foldie Links</title>
+<meta name="description" content="Foldie Documentation">
+<meta property="og:url" content="https://foldieapp.webli.de/en/docs/">
+  <meta property="og:site_name" content="Foldie Links">
+  <meta property="og:title" content="Documentation">
+  <meta property="og:description" content="Foldie Documentation">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="website">
+
+  <meta itemprop="name" content="Documentation">
+  <meta itemprop="description" content="Foldie Documentation">
+  <meta itemprop="dateModified" content="2026-01-15T21:33:33+01:00">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Documentation">
+  <meta name="twitter:description" content="Foldie Documentation">
+<link rel="preload" href="/scss/main.min.10ef9de9d701d04d5c59118ee99e727143f44a75f2cea53fb659ae78f0280d9c.css" as="style" integrity="sha256-EO&#43;d6dcB0E1cWRGO6Z5ycUP0SnXyzqU/tlmuePAoDZw=" crossorigin="anonymous">
+<link href="/scss/main.min.10ef9de9d701d04d5c59118ee99e727143f44a75f2cea53fb659ae78f0280d9c.css" rel="stylesheet" integrity="sha256-EO&#43;d6dcB0E1cWRGO6Z5ycUP0SnXyzqU/tlmuePAoDZw=" crossorigin="anonymous">
+<script
+  src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"
+  integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g=="
+  crossorigin="anonymous"></script>
+
+  </head>
+  <body class="td-section">
+    <header>
+      <nav class="td-navbar js-navbar-scroll" data-bs-theme="dark">
+<div class="td-navbar-container container-fluid flex-column flex-md-row">
+  <a class="navbar-brand" href="/en/"><span class="navbar-brand__logo navbar-logo"><svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg"><path id="FoldieWebIcon" fill="#ff9400" fill-rule="evenodd" stroke="none" d="M17.180031 161.917114V85.277588c0-37.347351 24.208816-67.623139 54.072159-67.623139h64.886589c18.024048.0 29.128692 7.052857 37.850525 15.778748C176.17366 35.617371 184.443329 44.75766 186.606125 46.957825c8.471237 8.601471 19.826477 15.778717 37.850525 15.778717H428.128448c29.863343.0 54.072144 30.275757 54.072144 67.623138v31.557434H17.180031zm465.020561 31.557495V414.376862C482.200592 451.724213 457.991791 482 428.128448 482H71.25219c-29.863343.0-54.072159-30.275787-54.072159-67.623138V193.474609H482.200592z"/><g id="Link518Center"><path id="-Kopie" fill="#fff" fill-rule="evenodd" stroke="none" d="M254.814392 199.833832C264.125214 201.514954 271.942169 204.005859 278.267487 207.306458 284.590607 210.608215 290.088257 214.539093 294.756012 219.100311c12.518311 12.516083 20.846649 26.269211 24.989563 41.261597C323.888397 275.353149 323.868225 290.344421 319.680511 305.334595 315.495026 320.325836 307.240692 333.982544 294.91748 346.304626l-52.646072 52.762726c-12.323181 12.320923-25.976501 20.576386-40.962158 24.769684C186.323593 428.029297 171.335693 428.052826 156.343292 423.909943 141.350906 419.765991 127.592186 411.432007 115.067123 398.905823c-12.516105-12.518372-20.824256-26.274842-24.924514-41.270569C86.040115 342.639496 86.060295 327.669556 90.198669 312.7276 94.337067 297.784546 102.573463 284.108826 114.905624 271.700409l44.205552-44.159576C158.086136 232.993591 157.906677 238.707733 158.570633 244.686493 159.236801 250.664169 160.674591 256.261658 162.888443 261.480042l-27.885315 28.027771c-8.69171900000001 8.693939-14.49443 18.308685-17.41037 28.845306C114.67907 328.889709 114.68132 339.421875 117.60173 349.952881c2.918183 10.529877 8.779206 20.195099 17.580857 28.996704C143.876541 387.654785 153.490173 393.463104 164.025665 396.376801 174.561157 399.290527 185.094421 399.292725 195.625427 396.384644 206.156433 393.475433 215.77005 387.625671 224.46402 378.834076l50.353699-50.193329C283.511688 319.949036 289.316681 310.33429 292.230347 299.798828 295.144043 289.262207 295.139526 278.702026 292.221375 268.117188 289.300934 257.532318 283.489258 247.892914 274.786316 239.198944 269.903229 234.314758 264.087067 230.416382 257.335571 227.502686 250.586304 224.58902 242.448608 222.696991 232.924713 221.825592zM245.77951 327.167114C236.470947 325.47699 228.629318 322.982727 222.256882 319.686584 215.882202 316.390472 210.366592 312.461823 205.710083 307.901733c-12.527313-12.517212-20.839966-26.270324-24.933502-41.260498C176.680817 251.650009 176.703247 236.658722 180.841629 221.66745c4.138397-14.991242 12.368042-28.647919 24.691254-40.97113l52.791855-52.761597c12.323211-12.331055 25.954071-20.589844 40.89038-24.777588C314.151459 98.969391 329.114685 98.94809 344.107086 103.090973 359.097198 107.234955 372.855957 115.570038 385.38324 128.096222c12.516083 12.517242 20.848938 26.273712 24.998535 41.26947C414.529114 184.362549 414.535858 199.33139 410.397491 214.274445 406.259064 229.21637 397.975586 242.89209 385.544708 255.300522L341.3414 299.460083C342.375458 294.008423 342.557129 288.293182 341.886475 282.315491 341.21579 276.336731 339.775787 270.739288 337.56192 265.520874l27.883087-28.02774c8.69394-8.69397000000001 14.521332-18.284058 17.484345-28.771302C385.890167 198.233429 385.912598 187.697937 382.994415 177.114227 380.076263 166.530487 374.21521 156.842865 365.413544 148.0513 356.623169 139.34726 346.960205 133.537842 336.424683 130.624115 325.889191 127.710419 315.355927 127.708191 304.824951 130.617371 294.293915 133.525452 284.680328 139.375305 275.986328 148.16684l-50.353683 50.193328C216.93866 207.053009 211.133713 216.666595 208.220016 227.202148 205.30632 237.738739 205.313049 248.296677 208.237961 258.875916 211.160629 269.456238 217.019409 279.0979 225.809845 287.802002 230.594208 292.686157 236.363266 296.584534 243.114777 299.49823 249.866302 302.411926 258.00174 304.299438 267.525635 305.160767z"/></g></svg></span><span class="navbar-brand__name">Foldie Links</span></a>
+  <div class="td-navbar-nav-scroll td-navbar-nav-scroll--indicator" id="main_navbar">
+    <div class="scroll-indicator scroll-left"></div>
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link" href="/en/app/"><span>App</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/en/blog/"><span>Blog</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link active" href="/en/docs/"><span>Docs</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/en/faq/"><span>FAQ</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/en/videos/"><span>Videos</span></a>
+      </li>
+      <li class="nav-item td-navbar__lang-menu">
+        <div class="td-lang-menu dropdown">
+  <a class="nav-link dropdown-toggle td-lang-menu__title" href="#" role="button"
+    data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    <span class="td-lang-menu__title-text">English</span>
+    <span class="td-lang-menu__title-code">EN</span>
+  </a>
+  <ul class="dropdown-menu">
+    <li><span class="dropdown-item active">English</span></li>
+      <li><a class="dropdown-item" href="/de/docs/">Deutsch</a></li>
+      </ul>
+</div></li>
+      <li class="nav-item td-navbar__light-dark-menu">
+        <div class="td-light-dark-menu dropdown"><svg xmlns="http://www.w3.org/2000/svg" class="d-none">
+  <symbol id="check2" viewBox="0 0 16 16">
+    <path d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"/>
+  </symbol>
+  <symbol id="circle-half" viewBox="0 0 16 16">
+    <path d="M8 15A7 7 0 1 0 8 1v14zm0 1A8 8 0 1 1 8 0a8 8 0 0 1 0 16z"/>
+  </symbol>
+  <symbol id="moon-stars-fill" viewBox="0 0 16 16">
+    <path d="M6 .278a.768.768 0 0 1 .08.858 7.208 7.208 0 0 0-.878 3.46c0 4.021 3.278 7.277 7.318 7.277.527 0 1.04-.055 1.533-.16a.787.787 0 0 1 .81.316.733.733 0 0 1-.031.893A8.349 8.349 0 0 1 8.344 16C3.734 16 0 12.286 0 7.71 0 4.266 2.114 1.312 5.124.06A.752.752 0 0 1 6 .278z"/>
+    <path d="M10.794 3.148a.217.217 0 0 1 .412 0l.387 1.162c.173.518.579.924 1.097 1.097l1.162.387a.217.217 0 0 1 0 .412l-1.162.387a1.734 1.734 0 0 0-1.097 1.097l-.387 1.162a.217.217 0 0 1-.412 0l-.387-1.162A1.734 1.734 0 0 0 9.31 6.593l-1.162-.387a.217.217 0 0 1 0-.412l1.162-.387a1.734 1.734 0 0 0 1.097-1.097l.387-1.162zM13.863.099a.145.145 0 0 1 .274 0l.258.774c.115.346.386.617.732.732l.774.258a.145.145 0 0 1 0 .274l-.774.258a1.156 1.156 0 0 0-.732.732l-.258.774a.145.145 0 0 1-.274 0l-.258-.774a1.156 1.156 0 0 0-.732-.732l-.774-.258a.145.145 0 0 1 0-.274l.774-.258c.346-.115.617-.386.732-.732L13.863.1z"/>
+  </symbol>
+  <symbol id="sun-fill" viewBox="0 0 16 16">
+    <path d="M8 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8zM8 0a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 0zm0 13a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 13zm8-5a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2a.5.5 0 0 1 .5.5zM3 8a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2A.5.5 0 0 1 3 8zm10.657-5.657a.5.5 0 0 1 0 .707l-1.414 1.415a.5.5 0 1 1-.707-.708l1.414-1.414a.5.5 0 0 1 .707 0zm-9.193 9.193a.5.5 0 0 1 0 .707L3.05 13.657a.5.5 0 0 1-.707-.707l1.414-1.414a.5.5 0 0 1 .707 0zm9.193 2.121a.5.5 0 0 1-.707 0l-1.414-1.414a.5.5 0 0 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .707zM4.464 4.465a.5.5 0 0 1-.707 0L2.343 3.05a.5.5 0 1 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .708z"/>
+  </symbol>
+</svg>
+<button class="btn btn-link nav-link dropdown-toggle d-flex align-items-center"
+        id="bd-theme"
+        type="button"
+        aria-expanded="false"
+        data-bs-toggle="dropdown"
+        aria-label="Toggle theme (auto)">
+  <svg class="bi my-1 theme-icon-active"><use href="#circle-half"></use></svg>
+</button>
+<ul class="dropdown-menu" aria-labelledby="bd-theme">
+  <li>
+    <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="light" aria-pressed="false">
+      <svg class="bi me-2 opacity-50"><use href="#sun-fill"></use></svg>
+      Light
+      <svg class="bi ms-auto d-none"><use href="#check2"></use></svg>
+    </button>
+  </li>
+  <li>
+    <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="dark" aria-pressed="false">
+      <svg class="bi me-2 opacity-50"><use href="#moon-stars-fill"></use></svg>
+      Dark
+      <svg class="bi ms-auto d-none"><use href="#check2"></use></svg>
+    </button>
+  </li>
+  <li>
+    <button type="button" class="dropdown-item d-flex align-items-center active" data-bs-theme-value="auto" aria-pressed="true">
+      <svg class="bi me-2 opacity-50"><use href="#circle-half"></use></svg>
+      Auto
+      <svg class="bi ms-auto d-none"><use href="#check2"></use></svg>
+    </button>
+  </li>
+</ul>
+</div>
+
+      </li>
+      </ul>
+    <div class="scroll-indicator scroll-right"></div>
+  </div>
+  <div class="d-none d-lg-block td-navbar__search">
+    
+  </div>
+</div>
+</nav>
+    </header>
+    <div class="container-fluid td-outer">
+      <div class="td-main">
+        <div class="row flex-xl-nowrap">
+          <main class="col-12 col-md-9 col-xl-8 ps-md-5" role="main">
+            
+
+
+
+
+<div class="td-content">
+<div class="pageinfo pageinfo-primary d-print-none">
+<p>
+This is the multi-page printable view of this section.
+<a href="#" onclick="print();return false;">Click here to print</a>.
+</p><p>
+<a href="/en/docs/">Return to the regular view of this page</a>.
+</p>
+</div>
+
+
+
+<h1 class="title">Documentation</h1>
+
+
+
+
+
+    <ul>
+    
+  
+  
+  
+  
+
+  
+    
+    
+	
+<li>1: <a href="#pg-8f5c33d4477fa7bb791d6cbf00295bcf">User Interface</a></li>
+
+
+    
+    <ul>
+        
+  
+  
+  
+  
+
+  
+    
+    
+	
+<li>1.1: <a href="#pg-de81ff0d37e7128757846ef54c66d797">Sidebar</a></li>
+
+
+    
+  
+    
+    
+	
+<li>1.2: <a href="#pg-9e13d046f7f013b2b23b4cbf7daa68ae">Main Screens</a></li>
+
+
+    
+  
+
+    </ul>
+    
+  
+    
+    
+	
+<li>2: <a href="#pg-5c3236daa90c71705bf63bd43e6c408b">Use Cases</a></li>
+
+
+    
+    <ul>
+        
+  
+  
+  
+  
+
+  
+    
+    
+	
+<li>2.1: <a href="#pg-eb775aeece51957f365081c9595f79b9">Big Band</a></li>
+
+
+    
+  
+    
+    
+	
+<li>2.2: <a href="#pg-82c6110a3ee6e2e4e74dd88d11bfedbd">Collaboration</a></li>
+
+
+    
+  
+    
+    
+	
+<li>2.3: <a href="#pg-4ffd243016ceb6079c78daeb64962d47">Research</a></li>
+
+
+    
+  
+    
+    
+	
+<li>2.4: <a href="#pg-8632427669a4d03131e9254a66e60ff7">Tutor</a></li>
+
+
+    
+  
+
+    </ul>
+    
+  
+    
+    
+	
+<li>3: <a href="#pg-4026eb529848a62d1343eb1afa8784e8">Feature-Packs</a></li>
+
+
+    
+    <ul>
+        
+  
+  
+  
+  
+
+  
+    
+    
+	
+<li>3.1: <a href="#pg-25698c6b37fab761ecea85fba8fe6121">Basic Features</a></li>
+
+
+    
+  
+    
+    
+	
+<li>3.2: <a href="#pg-a50ee5086fb20f2d7ebfa0291d1d88f1">Working with Links</a></li>
+
+
+    
+  
+    
+    
+	
+<li>3.3: <a href="#pg-049cff6013ea311be58a02c21c8574aa">Related files</a></li>
+
+
+    
+  
+    
+    
+	
+<li>3.4: <a href="#pg-5adfed938d581e05f29c3fa5b0e215de">Automation</a></li>
+
+
+    
+  
+
+    </ul>
+    
+  
+    
+    
+	
+<li>4: <a href="#pg-56dc2b1c45b2c6b0983526530ba75d01">Features</a></li>
+
+
+    
+    <ul>
+        
+  
+  
+  
+  
+
+  
+    
+    
+	
+<li>4.1: <a href="#pg-0877fafe5881eb48a177e0702ed9c448">Advanced Links</a></li>
+
+
+    
+  
+    
+    
+	
+<li>4.2: <a href="#pg-18d468f112db99ef074712b23fef778a">Advanced Windows</a></li>
+
+
+    
+  
+    
+    
+	
+<li>4.3: <a href="#pg-810f8a98b58f0275399814dd3664fe6a">Annotations</a></li>
+
+
+    
+  
+    
+    
+	
+<li>4.4: <a href="#pg-b51ac512dbc96d5aca0c2ad1fa4107d2">Bookmarks</a></li>
+
+
+    
+  
+    
+    
+	
+<li>4.5: <a href="#pg-7052f2594eedf57cedd554a7230ec9f1">Call Shortcuts</a></li>
+
+
+    
+  
+    
+    
+	
+<li>4.6: <a href="#pg-4996264fba0b1b9f1f8f844759b9a091">Default Overlays</a></li>
+
+
+    
+  
+    
+    
+	
+<li>4.7: <a href="#pg-c8cf0d6892462109ecec8aee390d3f1c">Embedded File Viewers</a></li>
+
+
+    
+  
+    
+    
+	
+<li>4.8: <a href="#pg-494ea84afd7f8e1c1a5dd1d4e0280e38">File Browser</a></li>
+
+
+    
+  
+    
+    
+	
+<li>4.9: <a href="#pg-39aa3b244abfc4b32520fe8e2f4d3463">Intents</a></li>
+
+
+    
+  
+    
+    
+	
+<li>4.10: <a href="#pg-8cd8ed382f861b70903474d11f4fe566">Link Actions</a></li>
+
+
+    
+  
+    
+    
+	
+<li>4.11: <a href="#pg-38613f184d6d3553e2b61b6f6da9fd52">Metadata</a></li>
+
+
+    
+  
+    
+    
+	
+<li>4.12: <a href="#pg-1b04f457bd8b36a89230c6c5070fd6ee">Notes</a></li>
+
+
+    
+  
+    
+    
+	
+<li>4.13: <a href="#pg-bbb38d31fa8d0081f57595afe7ef84c8">Overlays</a></li>
+
+
+    
+  
+    
+    
+	
+<li>4.14: <a href="#pg-a310dda550ae51f829a4e9f4ffb18f11">Recents</a></li>
+
+
+    
+  
+    
+    
+	
+<li>4.15: <a href="#pg-8a9ff9e9df06eaac4a1ae979533c3892">Siblings</a></li>
+
+
+    
+  
+    
+    
+	
+<li>4.16: <a href="#pg-2ab54f5fc0d1adfdea2995ff502838b8">Virtual Folders</a></li>
+
+
+    
+  
+    
+    
+	
+<li>4.17: <a href="#pg-0e6c7ca8dbc9e188304116376563444a">Widgets</a></li>
+
+
+    
+  
+
+    </ul>
+    
+  
+    
+    
+	
+<li>5: <a href="#pg-f4d763992e363d6113dea2a2ad1ec491">Glossary</a></li>
+
+
+    
+    <ul>
+        
+  
+  
+  
+  
+
+  
+    
+    
+	
+<li>5.1: <a href="#pg-1759c0404f8e522f4978ba5b137be8de">Base File</a></li>
+
+
+    
+  
+    
+    
+	
+<li>5.2: <a href="#pg-73edb7005c456726f8026e99fefbcd13">Base Folder</a></li>
+
+
+    
+  
+    
+    
+	
+<li>5.3: <a href="#pg-6e799d46b30d4689c08cd9738ebc3d66">Foldie Host</a></li>
+
+
+    
+  
+    
+    
+	
+<li>5.4: <a href="#pg-bf56c5c1f30786ddde7f89454f3f1279">Foldie Link</a></li>
+
+
+    
+  
+    
+    
+	
+<li>5.5: <a href="#pg-c14c06d457cfd7992ad55189882091a9">Foldie Web Link</a></li>
+
+
+    
+  
+    
+    
+	
+<li>5.6: <a href="#pg-51a35bc0a565020aad18ace61925ac80">Overlay File System</a></li>
+
+
+    
+  
+    
+    
+	
+<li>5.7: <a href="#pg-529ec85c21422127649c9820bd11a5b5">Security scoped bookmark</a></li>
+
+
+    
+  
+    
+    
+	
+<li>5.8: <a href="#pg-e853e771f024f0e0f5f96d9a54a61dff">Virtual Folder</a></li>
+
+
+    
+  
+
+    </ul>
+    
+  
+
+    </ul>
+
+
+<div class="content">
+      
+</div>
+</div>
+
+
+  
+  
+  
+  
+
+  
+  
+
+  
+    
+    
+	
+    
+
+<div class="td-content" style="">
+    
+	<h1 id="pg-8f5c33d4477fa7bb791d6cbf00295bcf">1 - User Interface</h1>
+    
+	
+</div>
+
+
+
+    
+      
+  
+  
+  
+  
+
+  
+  
+
+  
+    
+    
+	
+    
+
+<div class="td-content" style="">
+    
+	<h1 id="pg-de81ff0d37e7128757846ef54c66d797">1.1 - Sidebar</h1>
+    <div class="lead">The elements of the sidebar.</div>
+	<ul>
+<li>Top
+<ul>
+<li><strong>Hosts</strong>: Use as a start for browsing. Shows the <a href="/en/docs/glossary/foldie-host/">hosts</a> and their availability. <a href="/static/en/screenshots/hosts.png">Screenshot</a></li>
+<li><strong>File -&gt; Link</strong>: Get possible links within <a href="/en/docs/glossary/foldie-host/">hosts</a> for one of your files.</li>
+</ul>
+</li>
+<li>Interactions
+<ul>
+<li><strong>Visisted Link</strong>: List <a href="/en/docs/glossary/foldie-link/">Foldie-Links</a> opened from other apps.</li>
+<li><strong>Bookmarks</strong>: List your bookmarked links.</li>
+<li><strong>All Links</strong>: List all visited and bookmarked links.</li>
+</ul>
+</li>
+<li>Thoughts
+<ul>
+<li><strong>Metadata</strong>: List and browse Metadata.</li>
+<li><strong>Notes</strong>: List and edit notes.</li>
+<li><strong>Current Note</strong>: Edit the note, to which links are appended by default.</li>
+</ul>
+</li>
+<li>Manage
+<ul>
+<li><strong>Features</strong>: Activate and buy <a href="/en/docs/features/">pro features</a>.</li>
+<li><strong>Base Folders</strong>: Add and remove <a href="/en/docs/glossary/base-folder/">base folders</a>.</li>
+<li><strong>Base Files</strong>: Add and remove <a href="/en/docs/glossary/base-file/">base files</a>.</li>
+<li><strong>Data</strong>: Get information about stored data and generate test data.</li>
+<li><strong>Settings</strong>: Adjust options.</li>
+</ul>
+</li>
+<li>Info
+<ul>
+<li><strong>Instructions</strong>: Get instructions.</li>
+<li><strong>Tips &amp; Terms</strong>: Reveal tips that you dismissed before.</li>
+<li><strong>Acknowledgements</strong>: Write a review.</li>
+</ul>
+</li>
+</ul>
+
+</div>
+
+
+
+    
+	
+  
+    
+    
+	
+    
+
+<div class="td-content" style="page-break-before: always">
+    
+	<h1 id="pg-9e13d046f7f013b2b23b4cbf7daa68ae">1.2 - Main Screens</h1>
+    <div class="lead">iPad Screenshots of main screens for all sidebar items.</div>
+	<h2 id="top">Top<a class="td-heading-self-link" href="#top" aria-label="Heading self-link"></a></h2>
+<p><img src="/en/docs/ui/main-screens/hosts.png" alt="Hosts"></p>
+<p><img src="/en/docs/ui/main-screens/resolver.png" alt="Resolver"></p>
+<h2 id="interactions">Interactions<a class="td-heading-self-link" href="#interactions" aria-label="Heading self-link"></a></h2>
+<p><img src="/en/docs/ui/main-screens/visited-links.png" alt="Visited Links"></p>
+<p><img src="/en/docs/ui/main-screens/bookmarks.png" alt="Bookmarks"></p>
+<p><img src="/en/docs/ui/main-screens/all-links.png" alt="All Lins"></p>
+<h2 id="thoughts">Thoughts<a class="td-heading-self-link" href="#thoughts" aria-label="Heading self-link"></a></h2>
+<p><img src="/en/docs/ui/main-screens/metadata.png" alt="Metadata"></p>
+<p><img src="/en/docs/ui/main-screens/notes.png" alt="Notes"></p>
+<p><img src="/en/docs/ui/main-screens/current-note.png" alt="Current Note"></p>
+<h2 id="manage">Manage<a class="td-heading-self-link" href="#manage" aria-label="Heading self-link"></a></h2>
+<p><img src="/en/docs/ui/main-screens/features.png" alt="Features"></p>
+<p><img src="/en/docs/ui/main-screens/base-folders.png" alt="Base Folders"></p>
+<p><img src="/en/docs/ui/main-screens/base-files.png" alt="Base Files"></p>
+<p><img src="/en/docs/ui/main-screens/virtual-folders.png" alt="Virtual Folders"></p>
+<p><img src="/en/docs/ui/main-screens/data.png" alt="Data"></p>
+<p><img src="/en/docs/ui/main-screens/settings.png" alt="Settings"></p>
+<h2 id="info">Info<a class="td-heading-self-link" href="#info" aria-label="Heading self-link"></a></h2>
+<p><img src="/en/docs/ui/main-screens/instructions.png" alt="Instructions"></p>
+<p><img src="/en/docs/ui/main-screens/tips-terms.png" alt="Tips and Terms"></p>
+<p><img src="/en/docs/ui/main-screens/acknowledgements.png" alt="Acknowledgements"></p>
+
+</div>
+
+
+
+    
+	
+  
+
+    
+	
+  
+    
+    
+	
+    
+
+<div class="td-content" style="page-break-before: always">
+    
+	<h1 id="pg-5c3236daa90c71705bf63bd43e6c408b">2 - Use Cases</h1>
+    
+	
+</div>
+
+
+
+    
+      
+  
+  
+  
+  
+
+  
+  
+
+  
+    
+    
+	
+    
+
+<div class="td-content" style="">
+    
+	<h1 id="pg-eb775aeece51957f365081c9595f79b9">2.1 - Big Band</h1>
+    <div class="lead">How to use Foldie for scores in a big band.</div>
+	<p>You play the trumpet in the big band &ldquo;The Reluctant Syncopators&rdquo;.
+Your band has PDFs of the scores stored on an online folder.
+Some PDFs contain all voices (Song.pdf), some are split up into the different voices (Song-trumpet-2.pdf).</p>
+<h2 id="preparing-a-playlist-for-a-gig">Preparing a playlist for a gig<a class="td-heading-self-link" href="#preparing-a-playlist-for-a-gig" aria-label="Heading self-link"></a></h2>
+<p>You took over the moderation of the gig, so you do not have much time between the songs.
+Therefore you prepare a <a href="/en/docs/features/notes/">playlist note</a>:</p>
+<ul>
+<li>You create a new note for the gig and make it the current note.</li>
+<li>For each song in the gig list:
+<ul>
+<li>You find the relevant PDF score file.</li>
+<li>You open it with the built-in PDF viewer.</li>
+<li>Within the score file you find the starting page of the notes for your voice (trumpet 2).</li>
+<li>You create a link from the current page and add it to the current note.</li>
+</ul>
+</li>
+</ul>
+<p>During the gig, you just tap the next link from the playlist note to get to the relevant page of the next song.</p>
+<h2 id="adding-playing-instructions">Adding playing instructions<a class="td-heading-self-link" href="#adding-playing-instructions" aria-label="Heading self-link"></a></h2>
+<p>Each score is a PDF that contains scores for each instrument. To instruct guest players, add an Info folder <strong>score-Info</strong> to each <strong>score</strong>, with a file per instrument group (e.g. trumpets.pages) that contains</p>
+<ul>
+<li>overall playing instructions, such as which mute to use,</li>
+<li>for each instrument voice (trumpet 1, trumpet 2, trumpet 3) the page number within the score file to look up the relevant notes quicker.</li>
+</ul>
+<p>The trumpets may manage their own information and share it in a trumpet-internal overlay folder, so other instrument groups even do not see the annotations.</p>
+<!---
+## Andere Versionen
+
+
+From time to time corrected versions of the PDFs are uploaded.
+There are some file naming conventions, but overall the file organization is a mess.
+
+You and all of your fellow trumpet players play the notes from their private iPads.
+You are responsible for preparing the trumpet notes for rehearsals and for gigs, where sometimes professional players need to replace missing trumpet players from the band.
+
+You have a manual workflow ...
+
+c
+
+
+</div>
+
+
+
+    
+	
+  
+    
+    
+	
+    
+
+<div class="td-content" style="page-break-before: always">
+    
+	<h1 id="pg-82c6110a3ee6e2e4e74dd88d11bfedbd">2.2 - Collaboration</h1>
+    <div class="lead">How to use Foldie for collaboration at work.</div>
+	<p>You work in a crative team in the company &ldquo;The fruiters&rdquo;.
+Part of your work is creating, talking about and modifying many design documents.</p>
+<p>You and your team agree on the following setup and workflow:</p>
+<ul>
+<li>You all share a single iCloud project folder <strong>F</strong> with subdirectories <strong>Common</strong>, <strong>Tom</strong>, <strong>Peter</strong>, <strong>Anna</strong>.</li>
+<li>Within the subdirectories, your team create reasonable project-specific subfolders.</li>
+<li>Tom, Peter and Anna first create different documents in their named folders.</li>
+<li>Then they discuss the documents in a Facetime call.</li>
+<li>The team puts documents and resources that all agree upon into <strong>Common</strong>.
+Now the refinement begins:</li>
+<li>Tom and Anna each want to work on their own vision for document <strong>D</strong>.</li>
+<li>Therfore they copy <strong>D</strong> into their named directory.</li>
+<li>Then they discuss the documents in a Facetime call,</li>
+<li>and agree on Anna&rsquo;s version with small modifications.</li>
+<li>Anna takes some of Tom&rsquo;s changes and copies the result back to the <strong>Common</strong> folder.</li>
+</ul>
+<h2 id="how-can-foldie-help">How can Foldie help?<a class="td-heading-self-link" href="#how-can-foldie-help" aria-label="Heading self-link"></a></h2>
+<p>To support this workflow, every team member sets up</p>
+<ul>
+<li>a base folder for <strong>F</strong>,</li>
+<li>a <a href="/en/docs/features/virtual-folders/">virtual-folder</a> <a href="/en/docs/features/overlays/">overlay</a> with the four entries <strong>Common</strong>, <strong>Tom</strong>, <strong>Peter</strong>, <strong>Anna</strong> using base folder <strong>F</strong> with different path parameters.</li>
+</ul>
+<p>During their Factime discussions, to focus on a particular document, the team members post <a href="/en/docs/glossary/foldie-link/">Foldie links</a> in the messages chat. Other members tap or click on the links, locate the file and open it.</p>
+<p>Usually only the file&rsquo;s creator may change it, but, because your team is very agile, the owner may allow other members to change the document temporarily to avoid iCloud sync conflicts.</p>
+<p>When working on differnt versions of <strong>D</strong>, all versions are visible at the same Foldie URL, so it is easy to see them in context with each other and in context with other documents in the same directory.</p>
+
+</div>
+
+
+
+    
+	
+  
+    
+    
+	
+    
+
+<div class="td-content" style="page-break-before: always">
+    
+	<h1 id="pg-4ffd243016ceb6079c78daeb64962d47">2.3 - Research</h1>
+    <div class="lead">How to order your digital assets for research with Foldie.</div>
+	<p>You are a researcher and you have collected a pile of related papers in PDF format.
+You enjoy Foldie a lot, because in your research documents you include <a href="/en/docs/glossary/foldie-link/">Foldie links</a> to the papers and easily open them from there.
+Now you want to try the <a href="/en/docs/features/metadata/">Metadata</a> feature of Foldie.</p>
+<p>You think of good paper attributes, such as <strong>author</strong>, <strong>topic</strong>, <strong>publication-year</strong>, <strong>quality</strong>, <strong>cited-paper</strong>. You add properties to the links to the papers. You study the inter-linking of papers using the metadata browser and find that a lot of papers cite paper <strong>P</strong>. Being a good researcher, you really read that paper, think hard and you find a flaw. You write a paper about that and prove 20 other papers wrong. Congratulations!</p>
+
+</div>
+
+
+
+    
+	
+  
+    
+    
+	
+    
+
+<div class="td-content" style="page-break-before: always">
+    
+	<h1 id="pg-8632427669a4d03131e9254a66e60ff7">2.4 - Tutor</h1>
+    <div class="lead">How to use Foldie in a tutor-pupil relationship.</div>
+	<p>You are a private tutor and, because you are not enrolled in an official school, you and your pupils cannot use Apple&rsquo;s Schoolwork app.</p>
+<p>You have prepared a folder <strong>R</strong> of resources and assignment documents (PDF, Pages), that your pupils should fill in.
+You have also prepared folder <strong>S</strong> with solutions.</p>
+<p>You share <strong>R</strong> via iCloud with all pupils in read-only mode. Each pupil shares an iCloud folder <strong>F[i]</strong> with you read-only, in which they put their filled-in assignments and you share an iCloud folder <strong>C[i]</strong> with each pupil, where you will put corrections and correct solutions.</p>
+<h2 id="how-can-foldie-help">How can Foldie help?<a class="td-heading-self-link" href="#how-can-foldie-help" aria-label="Heading self-link"></a></h2>
+<p>You create one <a href="/en/docs/glossary/base-folder/">base folder</a> for <strong>R</strong> and one for <strong>S</strong>.</p>
+<p>For each pupil, you create base folders for <strong>F[i]</strong> and <strong>C[i]</strong> and an <a href="/en/docs/features/overlays/">overlay</a> folder <strong>O[i]</strong> containing <strong>R</strong>, <strong>S</strong>, <strong>F[i]</strong> and <strong>C[i]/corrections</strong> and <em>C[i]/solutions</em>*. You <a href="/en/docs/glossary/foldie-host/">host</a> the overlay with the name <strong>tutor-pupil</strong>.</p>
+<p>You ask the pupil to create a similar overlay with the same host name (without <strong>S</strong>).
+The pupil copies each assignment file over to <strong>F[i]</strong>, keeps the same file name and fills in his or her solution there.
+Whenever the pupil is done with an assignment, he or she writes you a message and pastes the <a href="/en/docs/glossary/foldie-link/">Foldie link</a> of the solution.</p>
+<p>You then open the link, compare the pupil&rsquo;s solution with the prepared solution, create a correction and put it and the solution in <strong>C[i]</strong>. Then you copy a link to the correction and put it in a response message to the pupil. The pupil uses the same overlay feature to compare their submitted solution, the correction and the correct solution.</p>
+
+</div>
+
+
+
+    
+	
+  
+
+    
+	
+  
+    
+    
+	
+    
+
+<div class="td-content" style="page-break-before: always">
+    
+	<h1 id="pg-4026eb529848a62d1343eb1afa8784e8">3 - Feature-Packs</h1>
+    
+	
+</div>
+
+
+
+    
+      
+  
+  
+  
+  
+
+  
+  
+
+  
+    
+    
+	
+    
+
+<div class="td-content" style="">
+    
+	<h1 id="pg-25698c6b37fab761ecea85fba8fe6121">3.1 - Basic Features</h1>
+    <div class="lead">Create Links to your Files and Folders.</div>
+	<p>Create Links for your files and folders, store them anywhere, and resolve your files and folders when activating the Link. This app is a replacement for „file:“-Links that is designed to work across all of your iPhones, iPads and Macs.</p>
+
+</div>
+
+
+
+    
+	
+  
+    
+    
+	
+    
+
+<div class="td-content" style="page-break-before: always">
+    
+	<h1 id="pg-a50ee5086fb20f2d7ebfa0291d1d88f1">3.2 - Working with Links</h1>
+    <div class="lead">For improved linking workflows.</div>
+	<p>The <strong>Links</strong> feature pack enables improved linking workflows.</p>
+<h2 id="revisit-recently-opened-links">Revisit recently opened Links<a class="td-heading-self-link" href="#revisit-recently-opened-links" aria-label="Heading self-link"></a></h2>
+<p>Keep track of links that you have opened from other apps. You can later easily re-open them and add the links to <em>Notes</em>.</p>
+<h2 id="bookmark-links-for-later">Bookmark Links for later<a class="td-heading-self-link" href="#bookmark-links-for-later" aria-label="Heading self-link"></a></h2>
+<p>While browsing, you can easily bookmark Links to re-open them later or to add them to <em>Notes</em>.</p>
+<h2 id="add-arbitrary-metadata">Add arbitrary Metadata<a class="td-heading-self-link" href="#add-arbitrary-metadata" aria-label="Heading self-link"></a></h2>
+<p>You can attach arbitrary <strong>Metadata</strong> to Links in the File Browser. The editor keeps track of used attribute keys and values. Tag your Links, add info-notes, attach related Links. See where the current Link is mentioned in other Metadata.</p>
+<h2 id="collect-links-in-notes">Collect Links in Notes<a class="td-heading-self-link" href="#collect-links-in-notes" aria-label="Heading self-link"></a></h2>
+<p>In notes you can freely mix plain text, links and basic markup. Use notes to create an ordered list of Links or to tell a story. Select a <em>Current Note</em> and easily add Links to it from context menus.</p>
+<h2 id="use-advanced-linking">Use advanced Linking<a class="td-heading-self-link" href="#use-advanced-linking" aria-label="Heading self-link"></a></h2>
+<p>Copy your Links to other apps using different title formats. Export compatible Web-Links where necessary. Tapping those Web-Links brings you back to this App. (<a href="/en/docs/features/advanced-links/">Advanced links</a>)</p>
+<h2 id="use-widgets-from-your-home-screen">Use Widgets from your Home Screen<a class="td-heading-self-link" href="#use-widgets-from-your-home-screen" aria-label="Heading self-link"></a></h2>
+<p>This app provides widgets that you can add to your home screen, so that you can open some links directly.</p>
+
+</div>
+
+
+
+    
+	
+  
+    
+    
+	
+    
+
+<div class="td-content" style="page-break-before: always">
+    
+	<h1 id="pg-049cff6013ea311be58a02c21c8574aa">3.3 - Related files</h1>
+    <div class="lead">Working with related files and folders using virtual folders, overlays, sibling and annotation files.</div>
+	<p>The <strong>Related Files</strong> feature pack allows you to work with files that are related by file name or path.</p>
+<h2 id="construct-virtual-folder-overlays">Construct Virtual Folder Overlays<a class="td-heading-self-link" href="#construct-virtual-folder-overlays" aria-label="Heading self-link"></a></h2>
+<p>You can arrange multiple Base Folders and Base Files into a Virtual Folder. By using the same subfolder names, you get a kind of <strong>Overlay File System</strong>, that you can browse and link to.
+If you do not have write access to a shared Base Folder, simply create a writable Base Folder and merge both folders into a Virtual Folder.</p>
+<h2 id="add-folder-overlays-anywhere">Add Folder Overlays anywhere<a class="td-heading-self-link" href="#add-folder-overlays-anywhere" aria-label="Heading self-link"></a></h2>
+<p>Default overlays provide overlays for all base folders and virtual folders. You can easily create parallel folder structures for each host and put related files there.</p>
+<h2 id="display-sibling-files-and-folders">Display sibling Files and Folders<a class="td-heading-self-link" href="#display-sibling-files-and-folders" aria-label="Heading self-link"></a></h2>
+<p>When opening a Link, other files and folders with a similar name within the same parent folder are shown. So you can put information about a file <em>MyFile.ext</em> in a folder called <em>MyFile-Info</em>. This also works across virtual folders and default overlay folders. As an alternative, use <em>Metadata</em>, if you just want to attach some text. (See <a href="/en/docs/features/annotations/">Annotations</a>.)</p>
+<h2 id="create-annotation-files-and-folders">Create Annotation Files and Folders<a class="td-heading-self-link" href="#create-annotation-files-and-folders" aria-label="Heading self-link"></a></h2>
+<p>When viewing a file or folder, the app can help you create a sibling folder for annotations. (See <a href="/en/docs/features/annotations/">Annotations</a>.)
+This is one of the few places, where Foldie performs changes to the underlying file system.
+If you prefer to do this by hand, deactivate this option.</p>
+<p><strong>Take care</strong>: You will add content to a writable folder. If this is a shared folder, your team will also see that content. Check your team’s policies about what is allowed to add.</p>
+
+</div>
+
+
+
+    
+	
+  
+    
+    
+	
+    
+
+<div class="td-content" style="page-break-before: always">
+    
+	<h1 id="pg-5adfed938d581e05f29c3fa5b0e215de">3.4 - Automation</h1>
+    <div class="lead">Call shortcuts and expose data to the Shortcuts app.</div>
+	<p>The <strong>Automation</strong> feature pack allows you to use the Foldie app together with the Shortcuts app.
+Scripting with Shortcuts can enable powerful workflows, but you should take care.</p>
+<h2 id="call-shortcut-actions">Call Shortcut Actions<a class="td-heading-self-link" href="#call-shortcut-actions" aria-label="Heading self-link"></a></h2>
+<p>Craft custom actions in the Shortcuts app and call those actions with a selected Link. For example, add the selected Link to a note in Apple Notes.</p>
+<h2 id="automate">Automate<a class="td-heading-self-link" href="#automate" aria-label="Heading self-link"></a></h2>
+<p>Use this app’s actions in the Shortcuts app and elsewhere in the system.</p>
+<h2 id="security-warning">Security warning<a class="td-heading-self-link" href="#security-warning" aria-label="Heading self-link"></a></h2>
+<p>These features are deactivated by default, to keep your files safe.
+You should only activate these features, if you know what you are doing.
+Shortcuts may perform changes to the underlying file system.</p>
+<p>Always check Shortcuts before installing and running them! You risk your data and privacy!</p>
+
+</div>
+
+
+
+    
+	
+  
+
+    
+	
+  
+    
+    
+	
+    
+
+<div class="td-content" style="page-break-before: always">
+    
+	<h1 id="pg-56dc2b1c45b2c6b0983526530ba75d01">4 - Features</h1>
+    
+	
+</div>
+
+
+
+    
+      
+  
+  
+  
+  
+
+  
+  
+
+  
+    
+    
+	
+    
+
+<div class="td-content" style="">
+    
+	<h1 id="pg-0877fafe5881eb48a177e0702ed9c448">4.1 - Advanced Links</h1>
+    <div class="lead">Use advanced Linking.</div>
+	<p>Copy your Links to other apps using different title formats. Export compatible Web-Links where necessary. Tapping those Web-Links brings you back to this App.</p>
+<h2 id="title-formats">Title formats<a class="td-heading-self-link" href="#title-formats" aria-label="Heading self-link"></a></h2>
+<p>When copying links or appending to a note, Foldie offers to copy the plain link, a formatted version for pasting into a rich text editor and a Markdown version. The latter two require a URL and a title.</p>
+<p>This title can be customized in <strong>Settings</strong> and is a dedicated portion of the URL, such as the file name or the file name without extension.</p>
+<h2 id="compatible-web-links">Compatible Web-Links<a class="td-heading-self-link" href="#compatible-web-links" aria-label="Heading self-link"></a></h2>
+<p>In some contexts, like web pages and Office documents, links with a <strong>foldie:</strong> URL do not work or require confirmation when clicked. In this case you can use a <a href="/en/docs/glossary/foldie-web-link/">Foldie Web Link</a>, which has a <strong>https:</strong> URL, but otherwise functions as a <a href="/en/docs/glossary/foldie-link/">Foldie Link</a>.</p>
+
+</div>
+
+
+
+    
+	
+  
+    
+    
+	
+    
+
+<div class="td-content" style="page-break-before: always">
+    
+	<h1 id="pg-18d468f112db99ef074712b23fef778a">4.2 - Advanced Windows</h1>
+    <div class="lead">Use multiple browser windows on the Mac.</div>
+	<p>Hold the option key or double click to open a Link in a new Browser window.</p>
+
+</div>
+
+
+
+    
+	
+  
+    
+    
+	
+    
+
+<div class="td-content" style="page-break-before: always">
+    
+	<h1 id="pg-810f8a98b58f0275399814dd3664fe6a">4.3 - Annotations</h1>
+    <div class="lead">Use Annotation Files and Folders.</div>
+	<p>When you follow a link to a file, Foldie reminds you about files and folders that are similarly named as the target file.
+For <strong>Name.ext</strong> and <strong>Name-X.ext</strong> these are all other files in the same directory that start with <strong>Name</strong>.
+You can use this feature to add annotation files into the same physical folder or in an <a href="overlay.md">overlay</a>.</p>
+<p>In a big band you could put playing instructions for Song.pdf into Song-trumpets.txt.</p>
+<h2 id="creating-annotation-folders">Creating annotation folders<a class="td-heading-self-link" href="#creating-annotation-folders" aria-label="Heading self-link"></a></h2>
+<p>Besides creating sibling files and folders outside of Foldie, Foldie supports you in creating annotation folders with the suffix <strong>-Info</strong>, when the feature <strong>Create Annotation Files and Folders</strong> is enabled.</p>
+<p>While browsing, simply expand the link section and in the siblings section tap the <strong>Create Annotation</strong> button.
+Foldie presents you a list of possible destinations. After choosing a destination, Foldie creates the <strong>Info</strong> folder in the correct subdirectory of the <a href="/en/docs/glossary/base-folder/">Base Folder</a> after creating intermediate directories as neccessary.</p>
+<p>One of the following conditions must be given for this to work:</p>
+<ul>
+<li>You have enabled a default overlay folder in settings.</li>
+<li>In your virtual folder definition, you have one or more mounted folders, for which the <strong>Folder Mirroring</strong> option is enabled.</li>
+</ul>
+<h2 id="use-case-big-band">Use case: Big band<a class="td-heading-self-link" href="#use-case-big-band" aria-label="Heading self-link"></a></h2>
+<p>Each score is a PDF that contains scores for each instrument. To instruct guest players, add an Info folder <strong>score-Info</strong> to each <strong>score</strong>, with a file per instrument group (e.g. trumpets.pages) that contains</p>
+<ul>
+<li>overall playing instructions, such as which mute to use,</li>
+<li>for each instrument voice (trumpet 1, trumpet 2, trumpet 3) the page number within the score file to look up the relevant notes quicker.</li>
+</ul>
+<p>The trumpets may manage their own information and share it in a trumpet-internal overlay folder, so other instrument groups even do not see the annotations.</p>
+
+</div>
+
+
+
+    
+	
+  
+    
+    
+	
+    
+
+<div class="td-content" style="page-break-before: always">
+    
+	<h1 id="pg-b51ac512dbc96d5aca0c2ad1fa4107d2">4.4 - Bookmarks</h1>
+    <div class="lead">Bookmark links for later.</div>
+	<p>While browsing, and in other places where links are active, you can bookmark the links.
+You can then later look up the bookmarked links using the side bar.
+Then you can edit the list of bookmarks and mark bookmarks as favorites.</p>
+<p>You can perform <a href="/en/docs/features/link-actions/">common actions</a> with each link in the bookmarks list.</p>
+
+</div>
+
+
+
+    
+	
+  
+    
+    
+	
+    
+
+<div class="td-content" style="page-break-before: always">
+    
+	<h1 id="pg-7052f2594eedf57cedd554a7230ec9f1">4.5 - Call Shortcuts</h1>
+    <div class="lead">Call Shortcut Actions.</div>
+	<p>Foldie is - on purpose - very limited in what you can do with the contents of the files.
+And, by design of iOS, Foldie cannot interact easily with other apps other than through the share sheet.
+You, the user, on the other hand, are allowed to create workflows in the Shortcuts app, which has access to actions within other apps.</p>
+<p>To support your specific workflows, Foldie allows you to call your shortcuts with the current link.</p>
+<ul>
+<li>Craft custom actions in the Shortcuts app, and expect a URL as a parameter.</li>
+<li>Make those actions callable ??</li>
+<li>Enable the <strong>Call Shortcut Actions</strong> feature.</li>
+<li>Put the action names into <strong>Settings/Link-Actions</strong>.</li>
+</ul>
+<p>Examples:</p>
+<ul>
+<li>Add the link to an Apple Notes note that you select in Shortcuts.</li>
+<li>Check a path component of the link and act differently.</li>
+<li>Use the <a href="/en/docs/features/intents/">Foldie Intents</a> to fetch the location of the file and create an <a href="/en/docs/features/annotations/">annotation folder</a> next to it using a template folder.</li>
+</ul>
+
+</div>
+
+
+
+    
+	
+  
+    
+    
+	
+    
+
+<div class="td-content" style="page-break-before: always">
+    
+	<h1 id="pg-4996264fba0b1b9f1f8f844759b9a091">4.6 - Default Overlays</h1>
+    <div class="lead">Add Folder Overlays anywhere.</div>
+	<p>Default overlays provide <a href="/en/docs/features/overlays/">overlays</a> for all <a href="/en/docs/glossary/base-folder/">base folders</a> and <a href="/en/docs/glossary/virtual-folder/">virtual folders</a>. You can easily create parallel folder structures for each host and put related files there. (See <a href="/en/docs/features/annotations/">annotations</a>.)</p>
+<p>Go to <strong>Settings/Default Overlays</strong>. Check one of the default locations (iCloud or local) or use comma-separated base folder names.</p>
+<p>When you browse at foldie://host/somepath, all the content of DefaultOverlayFolder/host/somepath will also be shown for each of the enabled default overlay folders.</p>
+
+</div>
+
+
+
+    
+	
+  
+    
+    
+	
+    
+
+<div class="td-content" style="page-break-before: always">
+    
+	<h1 id="pg-c8cf0d6892462109ecec8aee390d3f1c">4.7 - Embedded File Viewers</h1>
+    <div class="lead">Creating links to locations inside a file.</div>
+	<p>For PDFs, audio and video files, you can use an embedded viewer to create links to specific locations within the file&rsquo;s content. The location is encoded as a <strong>#</strong> fragment of the link&rsquo;s URL. When opening such a link later, you can get back to the location in the embedded viewer.</p>
+<ul>
+<li>For PDFs, the current page page is encoded in the link.</li>
+<li>For audio and video files, the current playback postion in seconds is encoded in the link.</li>
+</ul>
+
+</div>
+
+
+
+    
+	
+  
+    
+    
+	
+    
+
+<div class="td-content" style="page-break-before: always">
+    
+	<h1 id="pg-494ea84afd7f8e1c1a5dd1d4e0280e38">4.8 - File Browser</h1>
+    <div class="lead">An overlay supporting embedded file browser.</div>
+	<p>The Foldie file browser is shown when you open a link from outside of the app or in the many places, where <a href="/en/docs/features/link-actions/">common link actions</a> are available.</p>
+<p>When opening a link, foldie looks up the host in the <a href="virtual-folder.md">virtual folder definitions</a> and in the <a href="/en/docs/glossary/base-folder/">base folder</a> definitions. It then resolves the necessary <a href="/en/docs/glossary/security-scoped-bookmark/">security scoped bookmarks</a> to access the underlying file system. If the link represents a folders, the browser lists its contents. If the link represents a file, the browser shows actions you can perform with the file.</p>
+<p>The file browser supports of <a href="/en/docs/features/overlays/">overlays</a> which means, that for a single link there can be multiple source files or source folders. And within the listing of a folder-overlay there can be multiple entries with the same name.</p>
+<h2 id="the-link-row">The link row<a class="td-heading-self-link" href="#the-link-row" aria-label="Heading self-link"></a></h2>
+<p>The browser view always presents the link for the current browsing state at the top row. The row contains:</p>
+<ul>
+<li>A link icon.</li>
+<li>The link name (the link&rsquo;s last path component).</li>
+<li>Optional <a href="/en/docs/features/overlays/">overlay</a> information: The number of sources contributing to the current item (in brackets).</li>
+<li>Optional <a href="/en/docs/features/siblings/">sibling</a> information: The number of sibling files (after a star).</li>
+</ul>
+<p>You can use the context menu on the link icon to perform <a href="/en/docs/features/link-actions/">common actions</a> or tap the link name to reveal the link section and the siblings section.</p>
+<h2 id="the-link-section">The link section<a class="td-heading-self-link" href="#the-link-section" aria-label="Heading self-link"></a></h2>
+<p>Within the link section, you can perform actions more easily, because the context menu of the link icon is spread out on the second row.
+If the current item represents a <a href="/en/docs/features/overlays/">folder overlay</a>, the link section contains a button that shows all contributing source folders and offers to create the folder in sources that do not contribute yet. The latter allows you to construct overlays easily.</p>
+<h2 id="the-siblings-sections">The siblings sections<a class="td-heading-self-link" href="#the-siblings-sections" aria-label="Heading self-link"></a></h2>
+<p>The siblings section shows <a href="/en/docs/features/siblings/">siblings</a> of the current item. This gives you quick access to <a href="/en/docs/features/annotations/">annotations</a>.
+There is also button to create a <strong>-Info</strong> annotation folder.</p>
+<h2 id="metadata">Metadata<a class="td-heading-self-link" href="#metadata" aria-label="Heading self-link"></a></h2>
+<p>For the current link you can get access to its properties and is mentions from the toolbar.
+A mention is an occurency of the link in a values of a property of another link.
+See the <a href="/en/docs/features/metadata/">Metadata</a> feature.</p>
+<h2 id="folder-list-modes">Folder list modes<a class="td-heading-self-link" href="#folder-list-modes" aria-label="Heading self-link"></a></h2>
+<p>If the current link represents a single folder, the browser lists the folder&rsquo;s content.</p>
+<p>However, within a folder overlay there can be multiple entries with the same name. These may hide another and you may or may not be interested in, which source provided which entry.
+Therefore, the file browser suports different modes for listing folder overlays: <em>merged</em>, <em>flat</em>, and <em>by source</em>.</p>
+<ul>
+<li>Merged: Only one entry in the directory per content name. That entry represents all matching sources.</li>
+<li>Flat: One entry per matching source. The listing is ordered by name.</li>
+<li>By source: One entry per matching source. The listing is grouped by source name.</li>
+</ul>
+<h2 id="file-view">File view<a class="td-heading-self-link" href="#file-view" aria-label="Heading self-link"></a></h2>
+<p>If the current link represents a simple file, Foldie shows the link row and a section with buttons to act on the underlying file. You can preview the file, reveal it in the Files app or on the Mac in Finder, or share the file. For PDFs, audio and video files, you can use an <a href="/en/docs/features/embedded-viewers/">embedded viewer</a> to create links to a specific location within the file&rsquo;s content. If enabled in settings, the preview opens automatically when opening the file view.</p>
+<p>Since the file browser supports of <a href="/en/docs/features/overlays/">overlays</a>, for a single link there can be multiple source files.
+When browsing to an entry that represents different files backed by different sources, the browser shows all those files and actions for each file. Additionally there is a <strong>Copy File to</strong> button that allows you to copy an underlying file to another layer in the overlay.</p>
+
+</div>
+
+
+
+    
+	
+  
+    
+    
+	
+    
+
+<div class="td-content" style="page-break-before: always">
+    
+	<h1 id="pg-39aa3b244abfc4b32520fe8e2f4d3463">4.9 - Intents</h1>
+    <div class="lead">Automate Foldie.</div>
+	<p>Use this app’s actions in the Shortcuts app and elsewhere in the system.</p>
+<h2 id="security-warning">Security warning<a class="td-heading-self-link" href="#security-warning" aria-label="Heading self-link"></a></h2>
+<p>This feature is deactivated by default, to keep your files safe.
+You should only activate these features, if you know what you are doing.
+Shortcuts may perform changes to the underlying file system.</p>
+<p>Always check Shortcuts before installing and running them! You risk your data and privacy!</p>
+
+</div>
+
+
+
+    
+	
+  
+    
+    
+	
+    
+
+<div class="td-content" style="page-break-before: always">
+    
+	<h1 id="pg-8cd8ed382f861b70903474d11f4fe566">4.10 - Link Actions</h1>
+    <div class="lead">Common actions that you can perform with links.</div>
+	<p>There are many places in Foldie, where a <a href="/en/docs/glossary/foldie-link/">Foldie Links</a> is active:</p>
+<ul>
+<li>The current location in the <a href="/en/docs/features/file-browser/">file browser</a>.</li>
+<li>A selected item in the file browser.</li>
+<li>A selected item in the <a href="/en/docs/features/recents/">recents</a> list.</li>
+<li>A selected item in the <a href="/en/docs/features/bookmarks/">bookmark</a> list.</li>
+<li>A selected item in the host list.</li>
+</ul>
+<p>In most places you can use the context menu to perform common actions.</p>
+<ul>
+<li>If outside of the file browser: Open the link in the file browser.</li>
+<li>Create a <a href="/en/docs/features/bookmarks/">bookmark</a>.</li>
+<li>Copy the link to clipboard as a <a href="/en/docs/glossary/foldie-link/">Foldie Link</a> or as a <a href="/en/docs/glossary/foldie-web-link/">Foldie Web Link</a>.</li>
+<li>Share the link via the system share sheet.</li>
+<li>Add the link to the <a href="/en/docs/features/notes/">current note</a>.</li>
+<li><a href="/en/docs/features/call-shortcuts/">Perform shortcut actions</a>.</li>
+</ul>
+<p>If the link represents a single file or folder, you can also access the file itself in some places with the following actions:</p>
+<ul>
+<li>Show a preview of the file.</li>
+<li>Show the file in the Files app or on Mac in the Finder.</li>
+<li>Share the file using the system share sheet.</li>
+</ul>
+
+</div>
+
+
+
+    
+	
+  
+    
+    
+	
+    
+
+<div class="td-content" style="page-break-before: always">
+    
+	<h1 id="pg-38613f184d6d3553e2b61b6f6da9fd52">4.11 - Metadata</h1>
+    <div class="lead">Working with Link-Metadata.</div>
+	<p>Foldie metadata is inspired from the <a href="https://en.wikipedia.org/wiki/Resource_Description_Framework">Resource Description Framework</a> (RDF), but much simpler.
+A Metadata <strong>entry</strong> is represented by a subject-predicate-object-triple <strong>(Link, Attribute, Value)</strong>, where <strong>Link</strong> is a <a href="/en/docs/glossary/foldie-link/">Foldie Link URL</a>, <strong>Attribute</strong> is a user-defined name such as &ldquo;tag&rdquo;, &ldquo;quality&rdquo;, &ldquo;basedOn&rdquo;, and <strong>Value</strong> is single- or multiline plain text that may contain other links.</p>
+<p>A <strong>link property</strong> is an <strong>(Attribute, Value)</strong> pair, and a <strong>mention</strong> of a link is a metadata entry, in which the link occurs in the value field.</p>
+<h2 id="add-arbitrary-metadata-to-links">Add arbitrary metadata to links<a class="td-heading-self-link" href="#add-arbitrary-metadata-to-links" aria-label="Heading self-link"></a></h2>
+<p>You can attach arbitrary properties to the current link in the <a href="/en/docs/features/file-browser/">file browser</a>.
+You can see at the tag icon that a link has properties or is mentioned in metadata of other links.</p>
+<p>You can create a new property and set text values for the attribute and value fields. Or you select an existing attribute and an existing values for that attribute.</p>
+<p>This way you can tag your links, add info-notes, attach related links.</p>
+<p>The file browser also shows you <strong>mentions</strong>.</p>
+<h2 id="the-metadata-browser">The metadata browser<a class="td-heading-self-link" href="#the-metadata-browser" aria-label="Heading self-link"></a></h2>
+<p>The metadata browser shows all entries, but you can filter them in different ways:</p>
+<ul>
+<li>Use the search field to find triples that contain some text.</li>
+<li>Tap on a link to find triples that contain the link. If you tap on a project folder, all links to subfolders match.</li>
+<li>You can further filter by requesting that the link is part of the link field or part of the value field.</li>
+<li>You can choose to show a subset of existing attributes.</li>
+<li>You can filter the triples to show a specific attribute, value or attribute-value combination.</li>
+</ul>
+<p>Interaction modes:</p>
+<ul>
+<li>In open-link-mode (share icon) when you tap on a link, that link is opened.</li>
+<li>In metadata-browse mode (right arrow), when you tap a link, you replace the link filter with the new link. This way you can walk the graph of links.</li>
+<li>In edit mode (pencil icon) you can select and delete entries.</li>
+</ul>
+
+</div>
+
+
+
+    
+	
+  
+    
+    
+	
+    
+
+<div class="td-content" style="page-break-before: always">
+    
+	<h1 id="pg-1b04f457bd8b36a89230c6c5070fd6ee">4.12 - Notes</h1>
+    <div class="lead">Collect Links in Notes.</div>
+	<p>In notes you can freely mix plain text, links and basic markup. Use notes to create an ordered list of Links or to tell a story. Select a <strong>Current Note</strong> and easily add Links to it from context menus.</p>
+<h2 id="basic-markup">Basic Markup<a class="td-heading-self-link" href="#basic-markup" aria-label="Heading self-link"></a></h2>
+<p>Foldie supports only a small subset of Markdown:</p>
+<ul>
+<li>Use <code>**Some text**</code> to make it bold: <strong>Some text</strong></li>
+<li>Use <code>*Some text*</code> to make it italics: <em>Some  text</em></li>
+<li>Use <code>[Link Title](https://en.wikipedia.org/wiki/Main_Page)</code> to create links with arbitrary titles: <a href="https://en.wikipedia.org/wiki/Main_Page">Link Title</a>.</li>
+<li>You can use relative paths in links like <code>[Link Title](relative/path.txt)</code>, if you set a <strong>Base URL</strong> in the editor.</li>
+</ul>
+<p>Additionally, plain text URLs are detected and turned into tappable links.</p>
+<p>For further formatting, please use your favorite editor.</p>
+<ul>
+<li>If that is a Markdown editor, copy the source code of the note.</li>
+<li>If that is a rich text editor, such as Apple Notes or Pages, copy the rendered note.</li>
+</ul>
+<h2 id="ordered-list-of-links">Ordered list of links<a class="td-heading-self-link" href="#ordered-list-of-links" aria-label="Heading self-link"></a></h2>
+<p>Besides text - in which you can create lists of links - you can attach <a href="/en/docs/glossary/foldie-link/">Foldie Links</a> to a note. These are shown in the order of the attachment date.</p>
+<p>You can add a link as an attachment or directly to the note in many places where a <a href="/en/docs/glossary/foldie-link/">Foldie Links</a> is active, such as in the <a href="/en/docs/features/file-browser/">file browser</a>, in the <a href="/en/docs/features/recents/">recent</a>, <a href="/en/docs/features/bookmarks/">bookmark</a> or host list. Simply use the context menu to add the link to the <strong>Current Note</strong>.</p>
+<p>Foldie supports two stages of creating link lists:</p>
+<ul>
+<li>First you attach links to the note.</li>
+<li>Then you copy the attachments to the note&rsquo;s text. Either at the end, or at the current text position in the editor.</li>
+</ul>
+
+</div>
+
+
+
+    
+	
+  
+    
+    
+	
+    
+
+<div class="td-content" style="page-break-before: always">
+    
+	<h1 id="pg-bbb38d31fa8d0081f57595afe7ef84c8">4.13 - Overlays</h1>
+    <div class="lead">List files from multiple sources.</div>
+	<p>Foldie supports creating <a href="/en/docs/glossary/virtual-folder/">virtual folder</a> overlays of directories and files from your file system.
+An overlay can be realized with a <a href="/en/docs/features/virtual-folders/">Virtual Folder Definition</a> and via <a href="/en/docs/features/default-overlays/">Default Overlays</a>.
+The <a href="/en/docs/features/file-browser/">file browser</a> supports to browse these overlays.</p>
+<h2 id="what-is-a-folder-overlay">What is a folder-overlay?<a class="td-heading-self-link" href="#what-is-a-folder-overlay" aria-label="Heading self-link"></a></h2>
+<p>Overlays are well-known from painting applications, such as Adobe Photoshop. There, an Overlay consists of a list of ordered layers, each of which contains an image with a transparent background. In the overall view, opaque pixels in the upper layers hide opaque pixels in the lower layer, that have the same coordinate.</p>
+<p>For the sake of simplicity we assume that every layer <strong>L[i]</strong> in a folder-overlay is backed by a physical source folder <strong>F[i]</strong>, that recursively contains items (files and folders) - the &lsquo;pixels&rsquo;. The coordinate of an item within a layer is given by its relative path from <strong>F[i]</strong>. Items with the same relative path but different source folders are stacked on top of each other in the order of their layers. The overall view on a folder-overlay is like an <a href="/en/docs/glossary/overlay-filesystem/">overlay file system</a>.</p>
+<h2 id="consequences">Consequences<a class="td-heading-self-link" href="#consequences" aria-label="Heading self-link"></a></h2>
+<p>Facts:</p>
+<ul>
+<li>The root of an overlay is a <a href="/en/docs/glossary/virtual-folder/">virtual folder</a>.</li>
+<li>An element of a virtual folder is a virtual file or again a virtual folder.</li>
+<li>A link into a virtual folder is a virtual file or virtual folder and generally refers to multiple physical items that share the same relative location.</li>
+</ul>
+<p>Therefore, Foldie&rsquo;s <a href="/en/docs/features/file-browser/">file browser</a></p>
+<ul>
+<li>has different modes to present the sources of an overlay,</li>
+<li>supports copying files from one layer of an overlay to another layer.</li>
+<li>supports creating the &lsquo;same&rsquo; folder in a different layer.</li>
+</ul>
+<p>One mode realizes an <a href="/en/docs/glossary/overlay-filesystem/">overlay file system</a>.</p>
+<h2 id="what-can-you-do-with-overlays">What can you do with overlays?<a class="td-heading-self-link" href="#what-can-you-do-with-overlays" aria-label="Heading self-link"></a></h2>
+<p>In an overlay, you can</p>
+<ul>
+<li>stack a writable folder on top of a read-only folder,</li>
+<li>merge multiple information sources.</li>
+</ul>
+<p>A writable folder on top of read-only folders enables you to</p>
+<ul>
+<li>add information that is only relevant to you next to of shared information,</li>
+<li>keep edited files next to original versions.</li>
+</ul>
+<h2 id="what-are-read-only-folders">What are &lsquo;read-only&rsquo; folders?<a class="td-heading-self-link" href="#what-are-read-only-folders" aria-label="Heading self-link"></a></h2>
+<p>Here are some examples, in which you cannot write to a folder or should consider a folder to be non-writable:</p>
+<ul>
+<li>A shared folder which you cannot write to, such as an iCloud folder that a friend shares with you in read-only mode.</li>
+<li>A shared folder which you should not write to, for example because of company policies.</li>
+<li>A local copy of a resource folder. You should not write to it, because you would loose your changes the next time you install an updated version of the resource folder.</li>
+<li>A folder that you want to publish. You want to keep it clean of personal annotation files.</li>
+</ul>
+<h2 id="technique-writing-over-a-read-only-folder">Technique: Writing over a read-only folder<a class="td-heading-self-link" href="#technique-writing-over-a-read-only-folder" aria-label="Heading self-link"></a></h2>
+<p>If you have a read-only folder <strong>R</strong> and a writable folder <strong>W</strong>, you can stack <strong>W</strong> on top of <strong>R</strong> in an overlay <strong>O</strong>.</p>
+<h3 id="virtually-editing-a-file">Virtually editing a file<a class="td-heading-self-link" href="#virtually-editing-a-file" aria-label="Heading self-link"></a></h3>
+<p>If you take a file <strong>F</strong> with path <strong>P</strong> in <strong>R</strong>, edit and save it to the same path <strong>P</strong> in <strong>W</strong>, the edited version hides the unmodified version of <strong>F</strong> in <strong>O</strong>. This way you can virtually replace <strong>F</strong> without touching <strong>R</strong>. Foldie&rsquo;s <a href="/en/docs/features/file-browser/">file browser</a> supports copying <strong>F</strong> from <strong>R</strong> to <strong>W</strong>, so that you can edit that version with an external app afterwards.</p>
+<h3 id="adding-sibling-files">Adding sibling files<a class="td-heading-self-link" href="#adding-sibling-files" aria-label="Heading self-link"></a></h3>
+<p>For file <strong>F</strong> with path <strong>somepath/filename.ext</strong> in <strong>R</strong>, you can put an edited version at <strong>somepath/filename-version.ext</strong> or an annotation file at <strong>somepath/filename.txt</strong>. These files show up as sibling files next to <strong>F</strong> in the file browser.</p>
+<h2 id="technique-merging-multiple-sources">Technique: Merging multiple sources<a class="td-heading-self-link" href="#technique-merging-multiple-sources" aria-label="Heading self-link"></a></h2>
+<p>You can merge information not just from two folders, but from multiple sources. Assume you are working together with multiple colleagues on a shared folder <strong>R</strong> and every colleague <strong>C</strong> shares his overlay folder <strong>CW</strong>, then you can construct an overlay, in which all contributions are visible.</p>
+<p>Sibling files with a naming convention including the colleage&rsquo;s name are visible.
+Files from different sources with the same path can also be made visible by choosing a browsing mode that just merges directories but not files.</p>
+<p>See also the <a href="../use-cases/school.md">school</a> use cases.</p>
+
+</div>
+
+
+
+    
+	
+  
+    
+    
+	
+    
+
+<div class="td-content" style="page-break-before: always">
+    
+	<h1 id="pg-a310dda550ae51f829a4e9f4ffb18f11">4.14 - Recents</h1>
+    <div class="lead">Revisit recently opened links.</div>
+	<p>Foldie keeps track of links that you have opened from other apps.
+You can later revisit those links and perform <a href="/en/docs/features/link-actions/">common link actions</a> with them.</p>
+
+</div>
+
+
+
+    
+	
+  
+    
+    
+	
+    
+
+<div class="td-content" style="page-break-before: always">
+    
+	<h1 id="pg-8a9ff9e9df06eaac4a1ae979533c3892">4.15 - Siblings</h1>
+    <div class="lead">Display sibling files and folders.</div>
+	<p>When opening a link in the <a href="/en/docs/features/file-browser/">file browser</a>, other files and folders with a similar name within the same parent folder are shown. So you can put information about a file <em>MyFile.ext</em> in a folder called <em>MyFile-Info</em>. This also works across <a href="/en/docs/features/overlays/">overlays</a>. (See also <a href="/en/docs/features/annotations/">Annotations</a> feature.)</p>
+<p>An alternative to sibling files is to use <a href="/en/docs/features/metadata/">Metadata</a>.</p>
+
+</div>
+
+
+
+    
+	
+  
+    
+    
+	
+    
+
+<div class="td-content" style="page-break-before: always">
+    
+	<h1 id="pg-2ab54f5fc0d1adfdea2995ff502838b8">4.16 - Virtual Folders</h1>
+    <div class="lead">Define complex folder and file overlays.</div>
+	<p>You can create complex <a href="/en/docs/features/overlays/">overlay</a> definitions in the <strong>Virtual Folders</strong> screen that you can reach from the sidebar.</p>
+<p>You can combine multiple different <a href="/en/docs/glossary/base-folder/">Base Folders</a> and <a href="/en/docs/glossary/base-file/">Base Files</a> into one <a href="/en/docs/glossary/virtual-folder/">Virtual Folder</a> that behaves as a single directory. The virtual folder contains the underlying files and sub-directories from all sources and the built-in <a href="/en/docs/features/file-browser/">file browser</a> shows all source-files and -folders.</p>
+<h2 id="editor">Editor<a class="td-heading-self-link" href="#editor" aria-label="Heading self-link"></a></h2>
+<p>In the <strong>top section</strong>, you can change the host name that represents the root folder and choose if you want generally want to make the host active. Because the host definition is synced to your other devices, you can choose on each device, if you want to enable the host on that devide. You would not do that on devices, where the base folders are not available that are used in the definition.</p>
+<p>In the <strong>Mounted Folders</strong> section, you list base folders and specify, how they should be mounted.</p>
+<p>In the *<em>Mounted Files</em> section, you list base files and specify where they should be mounted.</p>
+<h2 id="mounted-folders">Mounted folders<a class="td-heading-self-link" href="#mounted-folders" aria-label="Heading self-link"></a></h2>
+<p>For a mounted folder</p>
+<ul>
+<li>choose a base folder,</li>
+<li>optionally choose a sub-folder of the base folder,</li>
+<li>choose where that sub-folder or base folder should be mounted within the host,</li>
+<li>choose, if you want to allow the sub-folder or base-folder to be used for folder mirroring (see <a href="/en/docs/features/annotations/">annotations</a> feature)</li>
+</ul>
+<h2 id="mounted-files">Mounted files<a class="td-heading-self-link" href="#mounted-files" aria-label="Heading self-link"></a></h2>
+<p>You can add mounted files interactively by choosing a <a href="/en/docs/glossary/base-file/">Base File</a> and typing in the mount path within the host.
+Or you can edit the list of mounted files in a spreadsheet application and import the definitions textually.</p>
+<p>In both cases, if you omit the mount point, if is assumed to be the same as the base file&rsquo;s reference name.</p>
+
+</div>
+
+
+
+    
+	
+  
+    
+    
+	
+    
+
+<div class="td-content" style="page-break-before: always">
+    
+	<h1 id="pg-0e6c7ca8dbc9e188304116376563444a">4.17 - Widgets</h1>
+    <div class="lead">Use Widgets from your Home Screen.</div>
+	<p>This app provides widgets that you can add to your home screen, so that you can open some links directly.</p>
+<p>A <strong>Hosts</strong> widget that lists all <a href="/en/docs/glossary/foldie-host/">Foldie Hosts</a> and a <strong>Note</strong> widget that lists all links of the <a href="/en/docs/features/notes/">current note</a>. Both come in different sizes and open the Foldie app, when an item is tapped.</p>
+
+</div>
+
+
+
+    
+	
+  
+
+    
+	
+  
+    
+    
+	
+    
+
+<div class="td-content" style="page-break-before: always">
+    
+	<h1 id="pg-f4d763992e363d6113dea2a2ad1ec491">5 - Glossary</h1>
+    
+	
+
+<div class="pageinfo pageinfo-primary">
+<p>This is a Foldie Linksge that shows you how to use this
+template site.</p>
+
+</div>
+
+
+</div>
+
+
+
+    
+      
+  
+  
+  
+  
+
+  
+  
+
+  
+    
+    
+	
+    
+
+<div class="td-content" style="">
+    
+	<h1 id="pg-1759c0404f8e522f4978ba5b137be8de">5.1 - Base File</h1>
+    <div class="lead">A reference to one of your files.</div>
+	<p>A base file is a reference to one of your files. It consists of</p>
+<ul>
+<li>a <a href="/en/docs/glossary/security-scoped-bookmark/">security scoped bookmark</a></li>
+<li>a <strong>reference name</strong>, for use in <a href="../features/virtual-folder.md">virtual folder</a> definitions</li>
+<li>some identifying information, such as an ID and the path of the file from which it was created.</li>
+</ul>
+<p>A base file is valid, if its bookmark is valid and can be resolved. This is usually the case, if the file is not moved or modified. In some situations the bookmark stays valid, even when you modify or move the underlying file (but not both).</p>
+
+</div>
+
+
+
+    
+	
+  
+    
+    
+	
+    
+
+<div class="td-content" style="page-break-before: always">
+    
+	<h1 id="pg-73edb7005c456726f8026e99fefbcd13">5.2 - Base Folder</h1>
+    <div class="lead">A reference to one of your folders.</div>
+	<p>Base Folders are the fundament of the Foldie experience.
+By adding folders using system dialogs you grant the App permission to access specific folders of your file system.
+The App keeps references to these folders and maps them by (editable) name to Foldie-Links.</p>
+<p>Please note: The folder access permissions do not transfer to your other devices, so you must set up similar Base Folders on each device.
+Folder references may become invalid, if you move or rename folders.
+While Local and iCloud Folders are supported and Dropbox folders seem to work, most other 3rd party file providers do not allow to create folder references on iOS and can only be used with this app on macOS.</p>
+
+</div>
+
+
+
+    
+	
+  
+    
+    
+	
+    
+
+<div class="td-content" style="page-break-before: always">
+    
+	<h1 id="pg-6e799d46b30d4689c08cd9738ebc3d66">5.3 - Foldie Host</h1>
+    <div class="lead">A root for building links.</div>
+	<h2 id="why-host">Why Host?<a class="td-heading-self-link" href="#why-host" aria-label="Heading self-link"></a></h2>
+<p>In a web-URL like <em><a href="https://en.wikipedia.org/wiki/Main_Page">https://en.wikipedia.org/wiki/Main_Page</a></em>, <em>en.wikipedia.org</em> is called the <strong>Host</strong>, because it is the web server that <em>hosts</em> the web content.
+Similarly in a Foldie-URL like <em>foldie://math.school/assignment3/Readme.pdf</em>, <em>math.school</em> is the <strong>Host</strong> part of the URL. Here, the host corresponds to a folder that hosts file system content.</p>
+<p>You define hosts using <strong>Base Folders</strong> and <strong>Virtual Folders</strong> in the <strong>Manage</strong> section of the sidebar.
+Use the host items to quickly browse the contents of the folders and create links to sub-items.
+Use the host list to quickly check if folder references are valid on your device.</p>
+<h2 id="host-resolver">Host Resolver<a class="td-heading-self-link" href="#host-resolver" aria-label="Heading self-link"></a></h2>
+<p>Map a File or Folder to a Foldie-URL</p>
+<p>Drop a file or folder here to find corresponding Hosts and Links.
+Only the location of the file is used, not its content.</p>
+
+</div>
+
+
+
+    
+	
+  
+    
+    
+	
+    
+
+<div class="td-content" style="page-break-before: always">
+    
+	<h1 id="pg-bf56c5c1f30786ddde7f89454f3f1279">5.4 - Foldie Link</h1>
+    <div class="lead">A foldie:// URL with an optional title.</div>
+	<p>A Foldie Link is a link with a URL that has the <code>foldie:</code> scheme, such as <a href="#ZgotmplZ">foldie://MyHost/mypath/file.txt</a>.
+The link is only valid on Apple platforms where the Foldie App is installed.
+It is resolved by this app to a file system location.</p>
+<p>Some apps do not support clickable links with custom schemes.
+You can use <a href="/en/docs/glossary/foldie-web-link/">Foldie Web Links</a> there.</p>
+
+</div>
+
+
+
+    
+	
+  
+    
+    
+	
+    
+
+<div class="td-content" style="page-break-before: always">
+    
+	<h1 id="pg-c14c06d457cfd7992ad55189882091a9">5.5 - Foldie Web Link</h1>
+    <div class="lead">A special https:// URL with an optional title.</div>
+	<p>A Foldie Web Link is a link with a URL that has the <code>https:</code> scheme but otherwise functions as a [[Glossary/Foldie Link]].
+The web link <a href="https://webli.de/foldie/MyHost/mypath/file.txt">https://webli.de/foldie/MyHost/mypath/file.txt</a> is handled the same by the Foldie App as <a href="#ZgotmplZ">foldie://MyHost/mypath/file.txt</a>.</p>
+<p>When should you use the longer web version?</p>
+<ul>
+<li>Some apps do not support clickable links with custom schemes, but https links.</li>
+<li>If you install another app that also registers the <code>foldie:</code> scheme, the OS does not know which app should handle the URL, but the web version is securely linked to this app.</li>
+</ul>
+
+</div>
+
+
+
+    
+	
+  
+    
+    
+	
+    
+
+<div class="td-content" style="page-break-before: always">
+    
+	<h1 id="pg-51a35bc0a565020aad18ace61925ac80">5.6 - Overlay File System</h1>
+    <div class="lead">A complex but useful file system.</div>
+	<p>An overlay file system combines multiple sources (directories and files) into a single virtual directory.</p>
+<ul>
+<li>Directories with the same source path are merged - they contain all files from all sources.</li>
+<li>If there are files with the same path, only one file is shown, depending on the precedence of the sources.
+See also <a href="https://en.wikipedia.org/wiki/Union_mount">Wikipedia</a>.</li>
+</ul>
+<p>The different sources are like transparent layers in a painting application such as Adobe Photoshop. The non-transparent pixels (files) at a specific point (path) are stacked on top of each other, so that only the top-most opaque pixel is visible.</p>
+<p>In Foldie, you can create, host <a href="/en/docs/features/overlays/">overlays</a> and browse them like an overlay file system.</p>
+
+</div>
+
+
+
+    
+	
+  
+    
+    
+	
+    
+
+<div class="td-content" style="page-break-before: always">
+    
+	<h1 id="pg-529ec85c21422127649c9820bd11a5b5">5.7 - Security scoped bookmark</h1>
+    <div class="lead">A way to work with user files and folders. (Implementation detail)</div>
+	<p>A security scoped bookmark is a bookmark to one of your files or folders, that can be persisted.
+A bookmark can only be created with direct user interaction in file dialogs or via drag and drop.
+In Foldie you create them in the <a href="/en/docs/glossary/base-folder/">Base Folders</a> and <a href="/en/docs/glossary/base-file/">Base Files</a> section.</p>
+<p>A bookmark is valid, if it can be resolved. This is usually the case, if the bookmarked file or folder is not moved or modified. In some situations the bookmark stays valid, even when you modify or move the underlying file or folder (but not both).</p>
+
+</div>
+
+
+
+    
+	
+  
+    
+    
+	
+    
+
+<div class="td-content" style="page-break-before: always">
+    
+	<h1 id="pg-e853e771f024f0e0f5f96d9a54a61dff">5.8 - Virtual Folder</h1>
+    <div class="lead">A folder computed from multiple sources.</div>
+	<p>A virtual folder is a folder that appears as a normal folder. You can browse it and construct links from items in the folder. However, the content of the folder is actually taken not from a single user directory, but from an <a href="/en/docs/features/overlays/">overlay</a>.
+Subfolders within virtual folders are again virtual folders in the general meaning.</p>
+<p>In the Foldie app, the term &lsquo;virtual folder&rsquo; is mostly used specifically for complex <a href="/en/docs/features/virtual-folders/">virtual folder definitions</a>. Sometimes we also mean <a href="/en/docs/features/overlays/">overlays</a> (virtual folder definitions or <a href="/en/docs/features/default-overlays/">default overlays</a>). And sometimes we mean virtual folder in the sense above.</p>
+
+</div>
+
+
+
+    
+	
+  
+
+    
+	
+  
+
+
+
+          </main>
+        </div>
+      </div>
+      <footer class="td-footer row d-print-none">
+  <div class="container-fluid">
+    <div class="row mx-md-2">
+      <div class="td-footer__left col-6 col-sm-4 order-sm-1">
+        
+      </div><div class="td-footer__right col-6 col-sm-4 order-sm-3">
+        
+      </div><div class="td-footer__center col-12 col-sm-4 py-2 order-sm-2">
+        <span class="td-footer__copyright">&copy;
+    2026
+    <span class="td-footer__authors">Jörg Garbers | All rights reserved. |</span></span><span class="td-footer__all_rights_reserved">All Rights Reserved</span><span class="ms-2"><a href="/en/website-privacy-policy" target="_blank" rel="noopener">Privacy Policy</a></span>
+      </div>
+    </div>
+  </div>
+</footer>
+
+    </div>
+    <script src="/js/main.min.e778e0587cf5fcc08a2ac9579d1ab3aaca7aa1222dc32556c926f045b6b45658.js" integrity="sha256-53jgWHz1/MCKKslXnRqzqsp6oSItwyVWySbwRba0Vlg=" crossorigin="anonymous"></script>
+<script defer src="/js/click-to-copy.min.73478a7d4807698aed7e355eb23f9890ca18fea3158604c8471746d046702bad.js" integrity="sha256-c0eKfUgHaYrtfjVesj&#43;YkMoY/qMVhgTIRxdG0EZwK60=" crossorigin="anonymous"></script>
+<script src='/js/tabpane-persist.js'></script>
+
+  </body>
+</html>

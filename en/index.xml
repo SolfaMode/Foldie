@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Foldie Links</title>
+    <link>https://foldieapp.webli.de/en/</link>
+    <description>Recent content on Foldie Links</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 15 Jan 2026 22:00:00 +0100</lastBuildDate>
+    <atom:link href="https://foldieapp.webli.de/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basic Features</title>
+      <link>https://foldieapp.webli.de/en/docs/feature-packs/basic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/feature-packs/basic/</guid>
+      <description>&lt;p&gt;Create Links for your files and folders, store them anywhere, and resolve your files and folders when activating the Link. This app is a replacement for „file:“-Links that is designed to work across all of your iPhones, iPads and Macs.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sidebar</title>
+      <link>https://foldieapp.webli.de/en/docs/ui/sidebar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/ui/sidebar/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Top&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Hosts&lt;/strong&gt;: Use as a start for browsing. Shows the &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/foldie-host/&#34;&gt;hosts&lt;/a&gt; and their availability. &lt;a href=&#34;https://foldieapp.webli.de/static/en/screenshots/hosts.png&#34;&gt;Screenshot&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;File -&amp;gt; Link&lt;/strong&gt;: Get possible links within &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/foldie-host/&#34;&gt;hosts&lt;/a&gt; for one of your files.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Interactions&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Visisted Link&lt;/strong&gt;: List &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/foldie-link/&#34;&gt;Foldie-Links&lt;/a&gt; opened from other apps.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Bookmarks&lt;/strong&gt;: List your bookmarked links.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;All Links&lt;/strong&gt;: List all visited and bookmarked links.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Thoughts&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Metadata&lt;/strong&gt;: List and browse Metadata.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Notes&lt;/strong&gt;: List and edit notes.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Current Note&lt;/strong&gt;: Edit the note, to which links are appended by default.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Manage&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Features&lt;/strong&gt;: Activate and buy &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/&#34;&gt;pro features&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Base Folders&lt;/strong&gt;: Add and remove &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/base-folder/&#34;&gt;base folders&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Base Files&lt;/strong&gt;: Add and remove &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/base-file/&#34;&gt;base files&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Data&lt;/strong&gt;: Get information about stored data and generate test data.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Settings&lt;/strong&gt;: Adjust options.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Info&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Instructions&lt;/strong&gt;: Get instructions.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tips &amp;amp; Terms&lt;/strong&gt;: Reveal tips that you dismissed before.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Acknowledgements&lt;/strong&gt;: Write a review.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Main Screens</title>
+      <link>https://foldieapp.webli.de/en/docs/ui/main-screens/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/ui/main-screens/</guid>
+      <description>&lt;h2 id=&#34;top&#34;&gt;Top&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#top&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://foldieapp.webli.de/en/docs/ui/main-screens/hosts.png&#34; alt=&#34;Hosts&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://foldieapp.webli.de/en/docs/ui/main-screens/resolver.png&#34; alt=&#34;Resolver&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;interactions&#34;&gt;Interactions&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#interactions&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://foldieapp.webli.de/en/docs/ui/main-screens/visited-links.png&#34; alt=&#34;Visited Links&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://foldieapp.webli.de/en/docs/ui/main-screens/bookmarks.png&#34; alt=&#34;Bookmarks&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://foldieapp.webli.de/en/docs/ui/main-screens/all-links.png&#34; alt=&#34;All Lins&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;thoughts&#34;&gt;Thoughts&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#thoughts&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://foldieapp.webli.de/en/docs/ui/main-screens/metadata.png&#34; alt=&#34;Metadata&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://foldieapp.webli.de/en/docs/ui/main-screens/notes.png&#34; alt=&#34;Notes&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://foldieapp.webli.de/en/docs/ui/main-screens/current-note.png&#34; alt=&#34;Current Note&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;manage&#34;&gt;Manage&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#manage&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://foldieapp.webli.de/en/docs/ui/main-screens/features.png&#34; alt=&#34;Features&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://foldieapp.webli.de/en/docs/ui/main-screens/base-folders.png&#34; alt=&#34;Base Folders&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://foldieapp.webli.de/en/docs/ui/main-screens/base-files.png&#34; alt=&#34;Base Files&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://foldieapp.webli.de/en/docs/ui/main-screens/virtual-folders.png&#34; alt=&#34;Virtual Folders&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://foldieapp.webli.de/en/docs/ui/main-screens/data.png&#34; alt=&#34;Data&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://foldieapp.webli.de/en/docs/ui/main-screens/settings.png&#34; alt=&#34;Settings&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;info&#34;&gt;Info&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#info&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://foldieapp.webli.de/en/docs/ui/main-screens/instructions.png&#34; alt=&#34;Instructions&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://foldieapp.webli.de/en/docs/ui/main-screens/tips-terms.png&#34; alt=&#34;Tips and Terms&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://foldieapp.webli.de/en/docs/ui/main-screens/acknowledgements.png&#34; alt=&#34;Acknowledgements&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Working with Links</title>
+      <link>https://foldieapp.webli.de/en/docs/feature-packs/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/feature-packs/links/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;Links&lt;/strong&gt; feature pack enables improved linking workflows.&lt;/p&gt;&#xA;&lt;h2 id=&#34;revisit-recently-opened-links&#34;&gt;Revisit recently opened Links&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#revisit-recently-opened-links&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Keep track of links that you have opened from other apps. You can later easily re-open them and add the links to &lt;em&gt;Notes&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;bookmark-links-for-later&#34;&gt;Bookmark Links for later&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#bookmark-links-for-later&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;While browsing, you can easily bookmark Links to re-open them later or to add them to &lt;em&gt;Notes&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;add-arbitrary-metadata&#34;&gt;Add arbitrary Metadata&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#add-arbitrary-metadata&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;You can attach arbitrary &lt;strong&gt;Metadata&lt;/strong&gt; to Links in the File Browser. The editor keeps track of used attribute keys and values. Tag your Links, add info-notes, attach related Links. See where the current Link is mentioned in other Metadata.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Related files</title>
+      <link>https://foldieapp.webli.de/en/docs/feature-packs/related/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/feature-packs/related/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;Related Files&lt;/strong&gt; feature pack allows you to work with files that are related by file name or path.&lt;/p&gt;&#xA;&lt;h2 id=&#34;construct-virtual-folder-overlays&#34;&gt;Construct Virtual Folder Overlays&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#construct-virtual-folder-overlays&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;You can arrange multiple Base Folders and Base Files into a Virtual Folder. By using the same subfolder names, you get a kind of &lt;strong&gt;Overlay File System&lt;/strong&gt;, that you can browse and link to.&#xA;If you do not have write access to a shared Base Folder, simply create a writable Base Folder and merge both folders into a Virtual Folder.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Automation</title>
+      <link>https://foldieapp.webli.de/en/docs/feature-packs/automation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/feature-packs/automation/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;Automation&lt;/strong&gt; feature pack allows you to use the Foldie app together with the Shortcuts app.&#xA;Scripting with Shortcuts can enable powerful workflows, but you should take care.&lt;/p&gt;&#xA;&lt;h2 id=&#34;call-shortcut-actions&#34;&gt;Call Shortcut Actions&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#call-shortcut-actions&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Craft custom actions in the Shortcuts app and call those actions with a selected Link. For example, add the selected Link to a note in Apple Notes.&lt;/p&gt;&#xA;&lt;h2 id=&#34;automate&#34;&gt;Automate&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#automate&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Use this app’s actions in the Shortcuts app and elsewhere in the system.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Feature Documentation</title>
+      <link>https://foldieapp.webli.de/en/blog/2026/01/15/feature-documentation/</link>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/blog/2026/01/15/feature-documentation/</guid>
+      <description>&lt;p&gt;See &lt;a href=&#34;https://foldieapp.webli.de/en/docs/&#34;&gt;Docs&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Video tutorials</title>
+      <link>https://foldieapp.webli.de/en/blog/2025/12/15/video-tutorials/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/blog/2025/12/15/video-tutorials/</guid>
+      <description>&lt;p&gt;We started to make some video tutorials. See &lt;a href=&#34;https://foldieapp.webli.de/en/videos/&#34;&gt;Here&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Foldie Links App Available now</title>
+      <link>https://foldieapp.webli.de/en/blog/2025/11/21/foldie-links-app-available-now/</link>
+      <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/blog/2025/11/21/foldie-links-app-available-now/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://apps.apple.com/us/app/foldie-links/id6754844583&#34;&gt;App&lt;/a&gt; is available now.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Foldie Links Version 1.0 for iOS and macOS.</title>
+      <link>https://foldieapp.webli.de/en/blog/2025/11/21/foldie-links-version-1.0-for-ios-and-macos./</link>
+      <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/blog/2025/11/21/foldie-links-version-1.0-for-ios-and-macos./</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://apps.apple.com/de/app/foldie-links/id6754844583&#34;&gt;App&lt;/a&gt; is available now.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Advanced Links</title>
+      <link>https://foldieapp.webli.de/en/docs/features/advanced-links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/advanced-links/</guid>
+      <description>&lt;p&gt;Copy your Links to other apps using different title formats. Export compatible Web-Links where necessary. Tapping those Web-Links brings you back to this App.&lt;/p&gt;&#xA;&lt;h2 id=&#34;title-formats&#34;&gt;Title formats&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#title-formats&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;When copying links or appending to a note, Foldie offers to copy the plain link, a formatted version for pasting into a rich text editor and a Markdown version. The latter two require a URL and a title.&lt;/p&gt;&#xA;&lt;p&gt;This title can be customized in &lt;strong&gt;Settings&lt;/strong&gt; and is a dedicated portion of the URL, such as the file name or the file name without extension.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Advanced Windows</title>
+      <link>https://foldieapp.webli.de/en/docs/features/advanced-windows/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/advanced-windows/</guid>
+      <description>&lt;p&gt;Hold the option key or double click to open a Link in a new Browser window.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Annotations</title>
+      <link>https://foldieapp.webli.de/en/docs/features/annotations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/annotations/</guid>
+      <description>&lt;p&gt;When you follow a link to a file, Foldie reminds you about files and folders that are similarly named as the target file.&#xA;For &lt;strong&gt;Name.ext&lt;/strong&gt; and &lt;strong&gt;Name-X.ext&lt;/strong&gt; these are all other files in the same directory that start with &lt;strong&gt;Name&lt;/strong&gt;.&#xA;You can use this feature to add annotation files into the same physical folder or in an &lt;a href=&#34;overlay.md&#34;&gt;overlay&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;In a big band you could put playing instructions for Song.pdf into Song-trumpets.txt.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>App</title>
+      <link>https://foldieapp.webli.de/en/app/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/app/</guid>
+      <description>&lt;p&gt;For iPhone, iPad and Mac.&#xA;&lt;a href=&#34;https://apps.apple.com/us/app/foldie-links/id6754844583&#34;&gt;Download on the App Store&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;img src=&#34;https://foldieapp.webli.de/images/Foldie-All-Devices.png&#34; width=&#34;100%&#34;&gt;</description>
+    </item>
+    <item>
+      <title>Base File</title>
+      <link>https://foldieapp.webli.de/en/docs/glossary/base-file/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/glossary/base-file/</guid>
+      <description>&lt;p&gt;A base file is a reference to one of your files. It consists of&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;a &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/security-scoped-bookmark/&#34;&gt;security scoped bookmark&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;a &lt;strong&gt;reference name&lt;/strong&gt;, for use in &lt;a href=&#34;../features/virtual-folder.md&#34;&gt;virtual folder&lt;/a&gt; definitions&lt;/li&gt;&#xA;&lt;li&gt;some identifying information, such as an ID and the path of the file from which it was created.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;A base file is valid, if its bookmark is valid and can be resolved. This is usually the case, if the file is not moved or modified. In some situations the bookmark stays valid, even when you modify or move the underlying file (but not both).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Base Folder</title>
+      <link>https://foldieapp.webli.de/en/docs/glossary/base-folder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/glossary/base-folder/</guid>
+      <description>&lt;p&gt;Base Folders are the fundament of the Foldie experience.&#xA;By adding folders using system dialogs you grant the App permission to access specific folders of your file system.&#xA;The App keeps references to these folders and maps them by (editable) name to Foldie-Links.&lt;/p&gt;&#xA;&lt;p&gt;Please note: The folder access permissions do not transfer to your other devices, so you must set up similar Base Folders on each device.&#xA;Folder references may become invalid, if you move or rename folders.&#xA;While Local and iCloud Folders are supported and Dropbox folders seem to work, most other 3rd party file providers do not allow to create folder references on iOS and can only be used with this app on macOS.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Big Band</title>
+      <link>https://foldieapp.webli.de/en/docs/use-cases/big-band/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/use-cases/big-band/</guid>
+      <description>&lt;p&gt;You play the trumpet in the big band &amp;ldquo;The Reluctant Syncopators&amp;rdquo;.&#xA;Your band has PDFs of the scores stored on an online folder.&#xA;Some PDFs contain all voices (Song.pdf), some are split up into the different voices (Song-trumpet-2.pdf).&lt;/p&gt;&#xA;&lt;h2 id=&#34;preparing-a-playlist-for-a-gig&#34;&gt;Preparing a playlist for a gig&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#preparing-a-playlist-for-a-gig&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;You took over the moderation of the gig, so you do not have much time between the songs.&#xA;Therefore you prepare a &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/notes/&#34;&gt;playlist note&lt;/a&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;You create a new note for the gig and make it the current note.&lt;/li&gt;&#xA;&lt;li&gt;For each song in the gig list:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;You find the relevant PDF score file.&lt;/li&gt;&#xA;&lt;li&gt;You open it with the built-in PDF viewer.&lt;/li&gt;&#xA;&lt;li&gt;Within the score file you find the starting page of the notes for your voice (trumpet 2).&lt;/li&gt;&#xA;&lt;li&gt;You create a link from the current page and add it to the current note.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;During the gig, you just tap the next link from the playlist note to get to the relevant page of the next song.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bookmarks</title>
+      <link>https://foldieapp.webli.de/en/docs/features/bookmarks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/bookmarks/</guid>
+      <description>&lt;p&gt;While browsing, and in other places where links are active, you can bookmark the links.&#xA;You can then later look up the bookmarked links using the side bar.&#xA;Then you can edit the list of bookmarks and mark bookmarks as favorites.&lt;/p&gt;&#xA;&lt;p&gt;You can perform &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/link-actions/&#34;&gt;common actions&lt;/a&gt; with each link in the bookmarks list.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Call Shortcuts</title>
+      <link>https://foldieapp.webli.de/en/docs/features/call-shortcuts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/call-shortcuts/</guid>
+      <description>&lt;p&gt;Foldie is - on purpose - very limited in what you can do with the contents of the files.&#xA;And, by design of iOS, Foldie cannot interact easily with other apps other than through the share sheet.&#xA;You, the user, on the other hand, are allowed to create workflows in the Shortcuts app, which has access to actions within other apps.&lt;/p&gt;&#xA;&lt;p&gt;To support your specific workflows, Foldie allows you to call your shortcuts with the current link.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Collaboration</title>
+      <link>https://foldieapp.webli.de/en/docs/use-cases/collaboration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/use-cases/collaboration/</guid>
+      <description>&lt;p&gt;You work in a crative team in the company &amp;ldquo;The fruiters&amp;rdquo;.&#xA;Part of your work is creating, talking about and modifying many design documents.&lt;/p&gt;&#xA;&lt;p&gt;You and your team agree on the following setup and workflow:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;You all share a single iCloud project folder &lt;strong&gt;F&lt;/strong&gt; with subdirectories &lt;strong&gt;Common&lt;/strong&gt;, &lt;strong&gt;Tom&lt;/strong&gt;, &lt;strong&gt;Peter&lt;/strong&gt;, &lt;strong&gt;Anna&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Within the subdirectories, your team create reasonable project-specific subfolders.&lt;/li&gt;&#xA;&lt;li&gt;Tom, Peter and Anna first create different documents in their named folders.&lt;/li&gt;&#xA;&lt;li&gt;Then they discuss the documents in a Facetime call.&lt;/li&gt;&#xA;&lt;li&gt;The team puts documents and resources that all agree upon into &lt;strong&gt;Common&lt;/strong&gt;.&#xA;Now the refinement begins:&lt;/li&gt;&#xA;&lt;li&gt;Tom and Anna each want to work on their own vision for document &lt;strong&gt;D&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Therfore they copy &lt;strong&gt;D&lt;/strong&gt; into their named directory.&lt;/li&gt;&#xA;&lt;li&gt;Then they discuss the documents in a Facetime call,&lt;/li&gt;&#xA;&lt;li&gt;and agree on Anna&amp;rsquo;s version with small modifications.&lt;/li&gt;&#xA;&lt;li&gt;Anna takes some of Tom&amp;rsquo;s changes and copies the result back to the &lt;strong&gt;Common&lt;/strong&gt; folder.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;how-can-foldie-help&#34;&gt;How can Foldie help?&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#how-can-foldie-help&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;To support this workflow, every team member sets up&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Default Overlays</title>
+      <link>https://foldieapp.webli.de/en/docs/features/default-overlays/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/default-overlays/</guid>
+      <description>&lt;p&gt;Default overlays provide &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/overlays/&#34;&gt;overlays&lt;/a&gt; for all &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/base-folder/&#34;&gt;base folders&lt;/a&gt; and &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/virtual-folder/&#34;&gt;virtual folders&lt;/a&gt;. You can easily create parallel folder structures for each host and put related files there. (See &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/annotations/&#34;&gt;annotations&lt;/a&gt;.)&lt;/p&gt;&#xA;&lt;p&gt;Go to &lt;strong&gt;Settings/Default Overlays&lt;/strong&gt;. Check one of the default locations (iCloud or local) or use comma-separated base folder names.&lt;/p&gt;&#xA;&lt;p&gt;When you browse at foldie://host/somepath, all the content of DefaultOverlayFolder/host/somepath will also be shown for each of the enabled default overlay folders.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Embedded File Viewers</title>
+      <link>https://foldieapp.webli.de/en/docs/features/embedded-viewers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/embedded-viewers/</guid>
+      <description>&lt;p&gt;For PDFs, audio and video files, you can use an embedded viewer to create links to specific locations within the file&amp;rsquo;s content. The location is encoded as a &lt;strong&gt;#&lt;/strong&gt; fragment of the link&amp;rsquo;s URL. When opening such a link later, you can get back to the location in the embedded viewer.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;For PDFs, the current page page is encoded in the link.&lt;/li&gt;&#xA;&lt;li&gt;For audio and video files, the current playback postion in seconds is encoded in the link.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>FAQ</title>
+      <link>https://foldieapp.webli.de/en/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/faq/</guid>
+      <description>&lt;h1 id=&#34;frequently-asked-questions&#34;&gt;Frequently asked questions&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#frequently-asked-questions&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;Find answers for your urgent questions.&lt;/p&gt;&#xA;&lt;h2 id=&#34;links&#34;&gt;Links&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#links&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;app-store-links&#34;&gt;App Store Links&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#app-store-links&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://apps.apple.com/us/app/foldie-links/id6754844583&#34;&gt;Foldie Links (english)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://apps.apple.com/de/app/foldie-links/id6754844583&#34;&gt;Foldie Links (deutsch)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;english-support&#34;&gt;English Support&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#english-support&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://foldieapp.webli.de/PrivacyPolicy-en/&#34;&gt;Privacy Policy of the app&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://foldieapp.webli.de/Support-en/&#34;&gt;Support page of the app&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;deutsche-unterstützung&#34;&gt;Deutsche Unterstützung&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#deutsche-unterst%c3%bctzung&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://foldieapp.webli.de/PrivacyPolicy-de/&#34;&gt;Datenschutzrichtlinie der App&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://foldieapp.webli.de/Support-de/&#34;&gt;App-Unterstützung&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;test-data&#34;&gt;Test Data&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#test-data&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/SolfaMode/FoldieTest&#34;&gt;FoldieTest&lt;/a&gt; data.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;questions&#34;&gt;Questions&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#questions&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h4 id=&#34;is-the-documentation-available-in-other-languages-than-english-&#34;&gt;Is the documentation available in other languages than English ?&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#is-the-documentation-available-in-other-languages-than-english-&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;p&gt;We may provide translations in the future. Meanwhile, please use the translate button of your browser to get an automatic translation. Be ready for funny translations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>File Browser</title>
+      <link>https://foldieapp.webli.de/en/docs/features/file-browser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/file-browser/</guid>
+      <description>&lt;p&gt;The Foldie file browser is shown when you open a link from outside of the app or in the many places, where &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/link-actions/&#34;&gt;common link actions&lt;/a&gt; are available.&lt;/p&gt;&#xA;&lt;p&gt;When opening a link, foldie looks up the host in the &lt;a href=&#34;virtual-folder.md&#34;&gt;virtual folder definitions&lt;/a&gt; and in the &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/base-folder/&#34;&gt;base folder&lt;/a&gt; definitions. It then resolves the necessary &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/security-scoped-bookmark/&#34;&gt;security scoped bookmarks&lt;/a&gt; to access the underlying file system. If the link represents a folders, the browser lists its contents. If the link represents a file, the browser shows actions you can perform with the file.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Foldie Host</title>
+      <link>https://foldieapp.webli.de/en/docs/glossary/foldie-host/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/glossary/foldie-host/</guid>
+      <description>&lt;h2 id=&#34;why-host&#34;&gt;Why Host?&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#why-host&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;In a web-URL like &lt;em&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Main_Page&#34;&gt;https://en.wikipedia.org/wiki/Main_Page&lt;/a&gt;&lt;/em&gt;, &lt;em&gt;en.wikipedia.org&lt;/em&gt; is called the &lt;strong&gt;Host&lt;/strong&gt;, because it is the web server that &lt;em&gt;hosts&lt;/em&gt; the web content.&#xA;Similarly in a Foldie-URL like &lt;em&gt;foldie://math.school/assignment3/Readme.pdf&lt;/em&gt;, &lt;em&gt;math.school&lt;/em&gt; is the &lt;strong&gt;Host&lt;/strong&gt; part of the URL. Here, the host corresponds to a folder that hosts file system content.&lt;/p&gt;&#xA;&lt;p&gt;You define hosts using &lt;strong&gt;Base Folders&lt;/strong&gt; and &lt;strong&gt;Virtual Folders&lt;/strong&gt; in the &lt;strong&gt;Manage&lt;/strong&gt; section of the sidebar.&#xA;Use the host items to quickly browse the contents of the folders and create links to sub-items.&#xA;Use the host list to quickly check if folder references are valid on your device.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Foldie Link</title>
+      <link>https://foldieapp.webli.de/en/docs/glossary/foldie-link/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/glossary/foldie-link/</guid>
+      <description>&lt;p&gt;A Foldie Link is a link with a URL that has the &lt;code&gt;foldie:&lt;/code&gt; scheme, such as &lt;a href=&#34;#ZgotmplZ&#34;&gt;foldie://MyHost/mypath/file.txt&lt;/a&gt;.&#xA;The link is only valid on Apple platforms where the Foldie App is installed.&#xA;It is resolved by this app to a file system location.&lt;/p&gt;&#xA;&lt;p&gt;Some apps do not support clickable links with custom schemes.&#xA;You can use &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/foldie-web-link/&#34;&gt;Foldie Web Links&lt;/a&gt; there.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Foldie Web Link</title>
+      <link>https://foldieapp.webli.de/en/docs/glossary/foldie-web-link/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/glossary/foldie-web-link/</guid>
+      <description>&lt;p&gt;A Foldie Web Link is a link with a URL that has the &lt;code&gt;https:&lt;/code&gt; scheme but otherwise functions as a [[Glossary/Foldie Link]].&#xA;The web link &lt;a href=&#34;https://webli.de/foldie/MyHost/mypath/file.txt&#34;&gt;https://webli.de/foldie/MyHost/mypath/file.txt&lt;/a&gt; is handled the same by the Foldie App as &lt;a href=&#34;#ZgotmplZ&#34;&gt;foldie://MyHost/mypath/file.txt&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;When should you use the longer web version?&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Some apps do not support clickable links with custom schemes, but https links.&lt;/li&gt;&#xA;&lt;li&gt;If you install another app that also registers the &lt;code&gt;foldie:&lt;/code&gt; scheme, the OS does not know which app should handle the URL, but the web version is securely linked to this app.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Intents</title>
+      <link>https://foldieapp.webli.de/en/docs/features/intents/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/intents/</guid>
+      <description>&lt;p&gt;Use this app’s actions in the Shortcuts app and elsewhere in the system.&lt;/p&gt;&#xA;&lt;h2 id=&#34;security-warning&#34;&gt;Security warning&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#security-warning&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;This feature is deactivated by default, to keep your files safe.&#xA;You should only activate these features, if you know what you are doing.&#xA;Shortcuts may perform changes to the underlying file system.&lt;/p&gt;&#xA;&lt;p&gt;Always check Shortcuts before installing and running them! You risk your data and privacy!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Link Actions</title>
+      <link>https://foldieapp.webli.de/en/docs/features/link-actions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/link-actions/</guid>
+      <description>&lt;p&gt;There are many places in Foldie, where a &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/foldie-link/&#34;&gt;Foldie Links&lt;/a&gt; is active:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The current location in the &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/file-browser/&#34;&gt;file browser&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;A selected item in the file browser.&lt;/li&gt;&#xA;&lt;li&gt;A selected item in the &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/recents/&#34;&gt;recents&lt;/a&gt; list.&lt;/li&gt;&#xA;&lt;li&gt;A selected item in the &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/bookmarks/&#34;&gt;bookmark&lt;/a&gt; list.&lt;/li&gt;&#xA;&lt;li&gt;A selected item in the host list.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;In most places you can use the context menu to perform common actions.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;If outside of the file browser: Open the link in the file browser.&lt;/li&gt;&#xA;&lt;li&gt;Create a &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/bookmarks/&#34;&gt;bookmark&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Copy the link to clipboard as a &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/foldie-link/&#34;&gt;Foldie Link&lt;/a&gt; or as a &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/foldie-web-link/&#34;&gt;Foldie Web Link&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Share the link via the system share sheet.&lt;/li&gt;&#xA;&lt;li&gt;Add the link to the &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/notes/&#34;&gt;current note&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/call-shortcuts/&#34;&gt;Perform shortcut actions&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;If the link represents a single file or folder, you can also access the file itself in some places with the following actions:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Metadata</title>
+      <link>https://foldieapp.webli.de/en/docs/features/metadata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/metadata/</guid>
+      <description>&lt;p&gt;Foldie metadata is inspired from the &lt;a href=&#34;https://en.wikipedia.org/wiki/Resource_Description_Framework&#34;&gt;Resource Description Framework&lt;/a&gt; (RDF), but much simpler.&#xA;A Metadata &lt;strong&gt;entry&lt;/strong&gt; is represented by a subject-predicate-object-triple &lt;strong&gt;(Link, Attribute, Value)&lt;/strong&gt;, where &lt;strong&gt;Link&lt;/strong&gt; is a &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/foldie-link/&#34;&gt;Foldie Link URL&lt;/a&gt;, &lt;strong&gt;Attribute&lt;/strong&gt; is a user-defined name such as &amp;ldquo;tag&amp;rdquo;, &amp;ldquo;quality&amp;rdquo;, &amp;ldquo;basedOn&amp;rdquo;, and &lt;strong&gt;Value&lt;/strong&gt; is single- or multiline plain text that may contain other links.&lt;/p&gt;&#xA;&lt;p&gt;A &lt;strong&gt;link property&lt;/strong&gt; is an &lt;strong&gt;(Attribute, Value)&lt;/strong&gt; pair, and a &lt;strong&gt;mention&lt;/strong&gt; of a link is a metadata entry, in which the link occurs in the value field.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Notes</title>
+      <link>https://foldieapp.webli.de/en/docs/features/notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/notes/</guid>
+      <description>&lt;p&gt;In notes you can freely mix plain text, links and basic markup. Use notes to create an ordered list of Links or to tell a story. Select a &lt;strong&gt;Current Note&lt;/strong&gt; and easily add Links to it from context menus.&lt;/p&gt;&#xA;&lt;h2 id=&#34;basic-markup&#34;&gt;Basic Markup&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#basic-markup&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Foldie supports only a small subset of Markdown:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Use &lt;code&gt;**Some text**&lt;/code&gt; to make it bold: &lt;strong&gt;Some text&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;Use &lt;code&gt;*Some text*&lt;/code&gt; to make it italics: &lt;em&gt;Some  text&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;Use &lt;code&gt;[Link Title](https://en.wikipedia.org/wiki/Main_Page)&lt;/code&gt; to create links with arbitrary titles: &lt;a href=&#34;https://en.wikipedia.org/wiki/Main_Page&#34;&gt;Link Title&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;You can use relative paths in links like &lt;code&gt;[Link Title](relative/path.txt)&lt;/code&gt;, if you set a &lt;strong&gt;Base URL&lt;/strong&gt; in the editor.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Additionally, plain text URLs are detected and turned into tappable links.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Overlay File System</title>
+      <link>https://foldieapp.webli.de/en/docs/glossary/overlay-filesystem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/glossary/overlay-filesystem/</guid>
+      <description>&lt;p&gt;An overlay file system combines multiple sources (directories and files) into a single virtual directory.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Directories with the same source path are merged - they contain all files from all sources.&lt;/li&gt;&#xA;&lt;li&gt;If there are files with the same path, only one file is shown, depending on the precedence of the sources.&#xA;See also &lt;a href=&#34;https://en.wikipedia.org/wiki/Union_mount&#34;&gt;Wikipedia&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The different sources are like transparent layers in a painting application such as Adobe Photoshop. The non-transparent pixels (files) at a specific point (path) are stacked on top of each other, so that only the top-most opaque pixel is visible.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Overlays</title>
+      <link>https://foldieapp.webli.de/en/docs/features/overlays/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/overlays/</guid>
+      <description>&lt;p&gt;Foldie supports creating &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/virtual-folder/&#34;&gt;virtual folder&lt;/a&gt; overlays of directories and files from your file system.&#xA;An overlay can be realized with a &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/virtual-folders/&#34;&gt;Virtual Folder Definition&lt;/a&gt; and via &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/default-overlays/&#34;&gt;Default Overlays&lt;/a&gt;.&#xA;The &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/file-browser/&#34;&gt;file browser&lt;/a&gt; supports to browse these overlays.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-a-folder-overlay&#34;&gt;What is a folder-overlay?&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#what-is-a-folder-overlay&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Overlays are well-known from painting applications, such as Adobe Photoshop. There, an Overlay consists of a list of ordered layers, each of which contains an image with a transparent background. In the overall view, opaque pixels in the upper layers hide opaque pixels in the lower layer, that have the same coordinate.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://foldieapp.webli.de/en/misc/app-privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/misc/app-privacy-policy/</guid>
+      <description>&lt;h1 id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#privacy-policy&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;The app &lt;strong&gt;Foldie Links&lt;/strong&gt; is a tool and data collection is kept to a minimum.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-you-can-do&#34;&gt;What You can do&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#what-you-can-do&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Within the app the user has access to folders that he or she explicitly provided access to.&lt;/li&gt;&#xA;&lt;li&gt;Additionally the user can create data in the form of links, notes, metadata and settings.&lt;/li&gt;&#xA;&lt;li&gt;Some of the user-created data is synced accross the user&amp;rsquo;s devices using iCloud to support similar workflows accross devices.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;your-data-is-not-collected&#34;&gt;Your data is not collected&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#your-data-is-not-collected&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;No user data is collected.&lt;/li&gt;&#xA;&lt;li&gt;No data about the usage of the apps is collected.&lt;/li&gt;&#xA;&lt;li&gt;No file contents from the user&amp;rsquo;s file system is collected.&lt;/li&gt;&#xA;&lt;li&gt;No data is sent to servers other than to the private iCloud database.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;data-collection-by-others&#34;&gt;Data collection by others&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#data-collection-by-others&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Within the app, no data is collected by 3rd parties.&lt;/li&gt;&#xA;&lt;li&gt;Crash reports may be collected by Apple if approved by the user.&lt;/li&gt;&#xA;&lt;li&gt;When leaving the app by following links to the web, navigation data may be collected on the web by 3rd parties.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Privacy Policy of the Web Site</title>
+      <link>https://foldieapp.webli.de/en/website-privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/website-privacy-policy/</guid>
+      <description>&lt;p&gt;This is the privacy policy of this web site.&#xA;For the privacy policy of the Foldie Links app, see &lt;a href=&#34;https://foldieapp.webli.de/PrivacyPolicy-en/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h1 id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#privacy-policy&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;This web site provides information about the &lt;strong&gt;Foldie Links&lt;/strong&gt; app.&#xA;We, the authors, do not collect any information about you, the visitors.&#xA;We try hard to keep this 3rd party traffic at a minimum, but we cannot avoid it completely.&lt;/p&gt;&#xA;&lt;h2 id=&#34;data-collection-by-others&#34;&gt;Data collection by others&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#data-collection-by-others&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Some basic information, such as your IP address, is processed by our hosting provider (GitHub Pages).&#xA;We also use common web resources, such as JavaScript and Font packages, that are hosted on 3rd party servers.&#xA;Beyond that, we are not aware of using other data-collecting services.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Recents</title>
+      <link>https://foldieapp.webli.de/en/docs/features/recents/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/recents/</guid>
+      <description>&lt;p&gt;Foldie keeps track of links that you have opened from other apps.&#xA;You can later revisit those links and perform &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/link-actions/&#34;&gt;common link actions&lt;/a&gt; with them.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>https://foldieapp.webli.de/en/docs/use-cases/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/use-cases/research/</guid>
+      <description>&lt;p&gt;You are a researcher and you have collected a pile of related papers in PDF format.&#xA;You enjoy Foldie a lot, because in your research documents you include &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/foldie-link/&#34;&gt;Foldie links&lt;/a&gt; to the papers and easily open them from there.&#xA;Now you want to try the &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/metadata/&#34;&gt;Metadata&lt;/a&gt; feature of Foldie.&lt;/p&gt;&#xA;&lt;p&gt;You think of good paper attributes, such as &lt;strong&gt;author&lt;/strong&gt;, &lt;strong&gt;topic&lt;/strong&gt;, &lt;strong&gt;publication-year&lt;/strong&gt;, &lt;strong&gt;quality&lt;/strong&gt;, &lt;strong&gt;cited-paper&lt;/strong&gt;. You add properties to the links to the papers. You study the inter-linking of papers using the metadata browser and find that a lot of papers cite paper &lt;strong&gt;P&lt;/strong&gt;. Being a good researcher, you really read that paper, think hard and you find a flaw. You write a paper about that and prove 20 other papers wrong. Congratulations!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Search Results</title>
+      <link>https://foldieapp.webli.de/en/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/search/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Security scoped bookmark</title>
+      <link>https://foldieapp.webli.de/en/docs/glossary/security-scoped-bookmark/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/glossary/security-scoped-bookmark/</guid>
+      <description>&lt;p&gt;A security scoped bookmark is a bookmark to one of your files or folders, that can be persisted.&#xA;A bookmark can only be created with direct user interaction in file dialogs or via drag and drop.&#xA;In Foldie you create them in the &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/base-folder/&#34;&gt;Base Folders&lt;/a&gt; and &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/base-file/&#34;&gt;Base Files&lt;/a&gt; section.&lt;/p&gt;&#xA;&lt;p&gt;A bookmark is valid, if it can be resolved. This is usually the case, if the bookmarked file or folder is not moved or modified. In some situations the bookmark stays valid, even when you modify or move the underlying file or folder (but not both).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Siblings</title>
+      <link>https://foldieapp.webli.de/en/docs/features/siblings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/siblings/</guid>
+      <description>&lt;p&gt;When opening a link in the &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/file-browser/&#34;&gt;file browser&lt;/a&gt;, other files and folders with a similar name within the same parent folder are shown. So you can put information about a file &lt;em&gt;MyFile.ext&lt;/em&gt; in a folder called &lt;em&gt;MyFile-Info&lt;/em&gt;. This also works across &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/overlays/&#34;&gt;overlays&lt;/a&gt;. (See also &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/annotations/&#34;&gt;Annotations&lt;/a&gt; feature.)&lt;/p&gt;&#xA;&lt;p&gt;An alternative to sibling files is to use &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/metadata/&#34;&gt;Metadata&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Support</title>
+      <link>https://foldieapp.webli.de/en/misc/support/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/misc/support/</guid>
+      <description>&lt;p&gt;If you have a question, please check the &lt;a href=&#34;https://foldieapp.webli.de/docs/en/faq/&#34;&gt;FAQ&lt;/a&gt; and other information on this website for an answer first.&lt;/p&gt;&#xA;&lt;p&gt;If English is not your first language, consider using your browser&amp;rsquo;s translation function.&#xA;In Safari, you&amp;rsquo;ll find this button: &lt;img src=&#34;https://foldieapp.webli.de/images/apple-translate.png&#34; alt=&#34;Translate Icon&#34;&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;On Mac: in the browser&amp;rsquo;s address bar.&lt;/li&gt;&#xA;&lt;li&gt;On iPhone and iPad: in the browser&amp;rsquo;s address bar, in the left-hand menu.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;If you are still having trouble, please send an email to  Foldie &amp;lsquo;at&amp;rsquo; webli &amp;lsquo;dot&amp;rsquo; de.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tutor</title>
+      <link>https://foldieapp.webli.de/en/docs/use-cases/tutor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/use-cases/tutor/</guid>
+      <description>&lt;p&gt;You are a private tutor and, because you are not enrolled in an official school, you and your pupils cannot use Apple&amp;rsquo;s Schoolwork app.&lt;/p&gt;&#xA;&lt;p&gt;You have prepared a folder &lt;strong&gt;R&lt;/strong&gt; of resources and assignment documents (PDF, Pages), that your pupils should fill in.&#xA;You have also prepared folder &lt;strong&gt;S&lt;/strong&gt; with solutions.&lt;/p&gt;&#xA;&lt;p&gt;You share &lt;strong&gt;R&lt;/strong&gt; via iCloud with all pupils in read-only mode. Each pupil shares an iCloud folder &lt;strong&gt;F[i]&lt;/strong&gt; with you read-only, in which they put their filled-in assignments and you share an iCloud folder &lt;strong&gt;C[i]&lt;/strong&gt; with each pupil, where you will put corrections and correct solutions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Videos</title>
+      <link>https://foldieapp.webli.de/en/videos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/videos/</guid>
+      <description>&lt;h1 id=&#34;videos&#34;&gt;Videos&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#videos&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;Watch video tutorials about &amp;ldquo;Foldie Links&amp;rdquo; on YouTube.&lt;/p&gt;&#xA;&#xA;&#xA;&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;&#xA;&lt;p&gt;Note: by following the links below, you will leave this site and YouTube&amp;rsquo;s policies will apply.&lt;/p&gt;&#xA;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;!-- embedding videos can be disabled in hugo.yaml --&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLlYMXwjat1CDtioIv1ri1Vy2FLgginlQ9&#34;&gt;Foldie YouTube Channel&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://youtu.be/vH0-ZeZzpUc&#34;&gt;Foldie Introduction&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://youtu.be/xcqsQgHBpAg&#34;&gt;Foldie Links: View and Edit Files&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Virtual Folder</title>
+      <link>https://foldieapp.webli.de/en/docs/glossary/virtual-folder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/glossary/virtual-folder/</guid>
+      <description>&lt;p&gt;A virtual folder is a folder that appears as a normal folder. You can browse it and construct links from items in the folder. However, the content of the folder is actually taken not from a single user directory, but from an &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/overlays/&#34;&gt;overlay&lt;/a&gt;.&#xA;Subfolders within virtual folders are again virtual folders in the general meaning.&lt;/p&gt;&#xA;&lt;p&gt;In the Foldie app, the term &amp;lsquo;virtual folder&amp;rsquo; is mostly used specifically for complex &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/virtual-folders/&#34;&gt;virtual folder definitions&lt;/a&gt;. Sometimes we also mean &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/overlays/&#34;&gt;overlays&lt;/a&gt; (virtual folder definitions or &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/default-overlays/&#34;&gt;default overlays&lt;/a&gt;). And sometimes we mean virtual folder in the sense above.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Virtual Folders</title>
+      <link>https://foldieapp.webli.de/en/docs/features/virtual-folders/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/virtual-folders/</guid>
+      <description>&lt;p&gt;You can create complex &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/overlays/&#34;&gt;overlay&lt;/a&gt; definitions in the &lt;strong&gt;Virtual Folders&lt;/strong&gt; screen that you can reach from the sidebar.&lt;/p&gt;&#xA;&lt;p&gt;You can combine multiple different &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/base-folder/&#34;&gt;Base Folders&lt;/a&gt; and &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/base-file/&#34;&gt;Base Files&lt;/a&gt; into one &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/virtual-folder/&#34;&gt;Virtual Folder&lt;/a&gt; that behaves as a single directory. The virtual folder contains the underlying files and sub-directories from all sources and the built-in &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/file-browser/&#34;&gt;file browser&lt;/a&gt; shows all source-files and -folders.&lt;/p&gt;&#xA;&lt;h2 id=&#34;editor&#34;&gt;Editor&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#editor&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;In the &lt;strong&gt;top section&lt;/strong&gt;, you can change the host name that represents the root folder and choose if you want generally want to make the host active. Because the host definition is synced to your other devices, you can choose on each device, if you want to enable the host on that devide. You would not do that on devices, where the base folders are not available that are used in the definition.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Widgets</title>
+      <link>https://foldieapp.webli.de/en/docs/features/widgets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/widgets/</guid>
+      <description>&lt;p&gt;This app provides widgets that you can add to your home screen, so that you can open some links directly.&lt;/p&gt;&#xA;&lt;p&gt;A &lt;strong&gt;Hosts&lt;/strong&gt; widget that lists all &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/foldie-host/&#34;&gt;Foldie Hosts&lt;/a&gt; and a &lt;strong&gt;Note&lt;/strong&gt; widget that lists all links of the &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/notes/&#34;&gt;current note&lt;/a&gt;. Both come in different sizes and open the Foldie app, when an item is tapped.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

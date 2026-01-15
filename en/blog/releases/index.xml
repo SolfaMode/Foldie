@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Releases on Foldie Links</title>
+    <link>https://foldieapp.webli.de/en/blog/releases/</link>
+    <description>Recent content in Releases on Foldie Links</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://foldieapp.webli.de/en/blog/releases/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Foldie Links Version 1.0 for iOS and macOS.</title>
+      <link>https://foldieapp.webli.de/en/blog/2025/11/21/foldie-links-version-1.0-for-ios-and-macos./</link>
+      <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/blog/2025/11/21/foldie-links-version-1.0-for-ios-and-macos./</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://apps.apple.com/de/app/foldie-links/id6754844583&#34;&gt;App&lt;/a&gt; is available now.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

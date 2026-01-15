@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Foldie Links</title>
+    <link>https://foldieapp.webli.de/en/blog/news/</link>
+    <description>Recent content in News on Foldie Links</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://foldieapp.webli.de/en/blog/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Feature Documentation</title>
+      <link>https://foldieapp.webli.de/en/blog/2026/01/15/feature-documentation/</link>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/blog/2026/01/15/feature-documentation/</guid>
+      <description>&lt;p&gt;See &lt;a href=&#34;https://foldieapp.webli.de/en/docs/&#34;&gt;Docs&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Video tutorials</title>
+      <link>https://foldieapp.webli.de/en/blog/2025/12/15/video-tutorials/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/blog/2025/12/15/video-tutorials/</guid>
+      <description>&lt;p&gt;We started to make some video tutorials. See &lt;a href=&#34;https://foldieapp.webli.de/en/videos/&#34;&gt;Here&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Foldie Links App Available now</title>
+      <link>https://foldieapp.webli.de/en/blog/2025/11/21/foldie-links-app-available-now/</link>
+      <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/blog/2025/11/21/foldie-links-app-available-now/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://apps.apple.com/us/app/foldie-links/id6754844583&#34;&gt;App&lt;/a&gt; is available now.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

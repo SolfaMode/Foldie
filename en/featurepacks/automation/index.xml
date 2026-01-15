@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Automation on Foldie Links</title>
+    <link>https://foldieapp.webli.de/en/featurepacks/automation/</link>
+    <description>Recent content in Automation on Foldie Links</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://foldieapp.webli.de/en/featurepacks/automation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automation</title>
+      <link>https://foldieapp.webli.de/en/docs/feature-packs/automation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/feature-packs/automation/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;Automation&lt;/strong&gt; feature pack allows you to use the Foldie app together with the Shortcuts app.&#xA;Scripting with Shortcuts can enable powerful workflows, but you should take care.&lt;/p&gt;&#xA;&lt;h2 id=&#34;call-shortcut-actions&#34;&gt;Call Shortcut Actions&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#call-shortcut-actions&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Craft custom actions in the Shortcuts app and call those actions with a selected Link. For example, add the selected Link to a note in Apple Notes.&lt;/p&gt;&#xA;&lt;h2 id=&#34;automate&#34;&gt;Automate&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#automate&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Use this app’s actions in the Shortcuts app and elsewhere in the system.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Call Shortcuts</title>
+      <link>https://foldieapp.webli.de/en/docs/features/call-shortcuts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/call-shortcuts/</guid>
+      <description>&lt;p&gt;Foldie is - on purpose - very limited in what you can do with the contents of the files.&#xA;And, by design of iOS, Foldie cannot interact easily with other apps other than through the share sheet.&#xA;You, the user, on the other hand, are allowed to create workflows in the Shortcuts app, which has access to actions within other apps.&lt;/p&gt;&#xA;&lt;p&gt;To support your specific workflows, Foldie allows you to call your shortcuts with the current link.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Intents</title>
+      <link>https://foldieapp.webli.de/en/docs/features/intents/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/intents/</guid>
+      <description>&lt;p&gt;Use this app’s actions in the Shortcuts app and elsewhere in the system.&lt;/p&gt;&#xA;&lt;h2 id=&#34;security-warning&#34;&gt;Security warning&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#security-warning&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;This feature is deactivated by default, to keep your files safe.&#xA;You should only activate these features, if you know what you are doing.&#xA;Shortcuts may perform changes to the underlying file system.&lt;/p&gt;&#xA;&lt;p&gt;Always check Shortcuts before installing and running them! You risk your data and privacy!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Link Actions</title>
+      <link>https://foldieapp.webli.de/en/docs/features/link-actions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/link-actions/</guid>
+      <description>&lt;p&gt;There are many places in Foldie, where a &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/foldie-link/&#34;&gt;Foldie Links&lt;/a&gt; is active:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The current location in the &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/file-browser/&#34;&gt;file browser&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;A selected item in the file browser.&lt;/li&gt;&#xA;&lt;li&gt;A selected item in the &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/recents/&#34;&gt;recents&lt;/a&gt; list.&lt;/li&gt;&#xA;&lt;li&gt;A selected item in the &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/bookmarks/&#34;&gt;bookmark&lt;/a&gt; list.&lt;/li&gt;&#xA;&lt;li&gt;A selected item in the host list.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;In most places you can use the context menu to perform common actions.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;If outside of the file browser: Open the link in the file browser.&lt;/li&gt;&#xA;&lt;li&gt;Create a &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/bookmarks/&#34;&gt;bookmark&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Copy the link to clipboard as a &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/foldie-link/&#34;&gt;Foldie Link&lt;/a&gt; or as a &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/foldie-web-link/&#34;&gt;Foldie Web Link&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Share the link via the system share sheet.&lt;/li&gt;&#xA;&lt;li&gt;Add the link to the &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/notes/&#34;&gt;current note&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/call-shortcuts/&#34;&gt;Perform shortcut actions&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;If the link represents a single file or folder, you can also access the file itself in some places with the following actions:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

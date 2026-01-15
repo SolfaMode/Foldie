@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Basic on Foldie Links</title>
+    <link>https://foldieapp.webli.de/en/featurepacks/basic/</link>
+    <description>Recent content in Basic on Foldie Links</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://foldieapp.webli.de/en/featurepacks/basic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basic Features</title>
+      <link>https://foldieapp.webli.de/en/docs/feature-packs/basic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/feature-packs/basic/</guid>
+      <description>&lt;p&gt;Create Links for your files and folders, store them anywhere, and resolve your files and folders when activating the Link. This app is a replacement for „file:“-Links that is designed to work across all of your iPhones, iPads and Macs.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Embedded File Viewers</title>
+      <link>https://foldieapp.webli.de/en/docs/features/embedded-viewers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/embedded-viewers/</guid>
+      <description>&lt;p&gt;For PDFs, audio and video files, you can use an embedded viewer to create links to specific locations within the file&amp;rsquo;s content. The location is encoded as a &lt;strong&gt;#&lt;/strong&gt; fragment of the link&amp;rsquo;s URL. When opening such a link later, you can get back to the location in the embedded viewer.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;For PDFs, the current page page is encoded in the link.&lt;/li&gt;&#xA;&lt;li&gt;For audio and video files, the current playback postion in seconds is encoded in the link.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>File Browser</title>
+      <link>https://foldieapp.webli.de/en/docs/features/file-browser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/file-browser/</guid>
+      <description>&lt;p&gt;The Foldie file browser is shown when you open a link from outside of the app or in the many places, where &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/link-actions/&#34;&gt;common link actions&lt;/a&gt; are available.&lt;/p&gt;&#xA;&lt;p&gt;When opening a link, foldie looks up the host in the &lt;a href=&#34;virtual-folder.md&#34;&gt;virtual folder definitions&lt;/a&gt; and in the &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/base-folder/&#34;&gt;base folder&lt;/a&gt; definitions. It then resolves the necessary &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/security-scoped-bookmark/&#34;&gt;security scoped bookmarks&lt;/a&gt; to access the underlying file system. If the link represents a folders, the browser lists its contents. If the link represents a file, the browser shows actions you can perform with the file.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Link Actions</title>
+      <link>https://foldieapp.webli.de/en/docs/features/link-actions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/link-actions/</guid>
+      <description>&lt;p&gt;There are many places in Foldie, where a &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/foldie-link/&#34;&gt;Foldie Links&lt;/a&gt; is active:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The current location in the &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/file-browser/&#34;&gt;file browser&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;A selected item in the file browser.&lt;/li&gt;&#xA;&lt;li&gt;A selected item in the &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/recents/&#34;&gt;recents&lt;/a&gt; list.&lt;/li&gt;&#xA;&lt;li&gt;A selected item in the &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/bookmarks/&#34;&gt;bookmark&lt;/a&gt; list.&lt;/li&gt;&#xA;&lt;li&gt;A selected item in the host list.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;In most places you can use the context menu to perform common actions.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;If outside of the file browser: Open the link in the file browser.&lt;/li&gt;&#xA;&lt;li&gt;Create a &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/bookmarks/&#34;&gt;bookmark&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Copy the link to clipboard as a &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/foldie-link/&#34;&gt;Foldie Link&lt;/a&gt; or as a &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/foldie-web-link/&#34;&gt;Foldie Web Link&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Share the link via the system share sheet.&lt;/li&gt;&#xA;&lt;li&gt;Add the link to the &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/notes/&#34;&gt;current note&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/call-shortcuts/&#34;&gt;Perform shortcut actions&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;If the link represents a single file or folder, you can also access the file itself in some places with the following actions:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,364 @@
+<!doctype html>
+<html itemscope itemtype="http://schema.org/WebPage" lang="en" class="no-js" data-theme-init>
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff">
+<meta name="theme-color" media="(prefers-color-scheme: dark)"  content="#000000">
+
+<style>
+  html { background: Canvas; color: CanvasText; }
+  @media (prefers-color-scheme: dark) {
+    html { background: #0b0d12; color: #e6e6e6; }
+  }
+  html[data-theme-init] * { transition: none !important; }
+</style>
+
+<script>
+  (function() {
+    const themeKey = 'td-color-theme';
+    const storedTheme = localStorage.getItem(themeKey);
+    let theme = storedTheme || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+
+    if (theme === 'auto') {
+      theme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+    }
+
+    document.documentElement.setAttribute('data-bs-theme', theme);
+  })();
+</script>
+<meta name="robots" content="index, follow">
+
+
+<link rel="shortcut icon" href="/favicons/favicon.ico" >
+<link rel="apple-touch-icon" href="/favicons/apple-touch-icon-180x180.png" sizes="180x180">
+<link rel="icon" type="image/png" href="/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/favicons/android-36x36.png" sizes="36x36">
+<link rel="icon" type="image/png" href="/favicons/android-48x48.png" sizes="48x48">
+<link rel="icon" type="image/png" href="/favicons/android-72x72.png" sizes="72x72">
+<link rel="icon" type="image/png" href="/favicons/android-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/favicons/android-144x144.png" sizes="144x144">
+<link rel="icon" type="image/png" href="/favicons/android-192x192.png" sizes="192x192">
+
+<title>Foldie Host | Foldie Links</title>
+<meta name="description" content="A root for building links.">
+<meta property="og:url" content="https://foldieapp.webli.de/en/docs/glossary/foldie-host/">
+  <meta property="og:site_name" content="Foldie Links">
+  <meta property="og:title" content="Foldie Host">
+  <meta property="og:description" content="A root for building links.">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="docs">
+    <meta property="article:modified_time" content="2026-01-09T12:19:51+01:00">
+
+  <meta itemprop="name" content="Foldie Host">
+  <meta itemprop="description" content="A root for building links.">
+  <meta itemprop="dateModified" content="2026-01-09T12:19:51+01:00">
+  <meta itemprop="wordCount" content="130">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Foldie Host">
+  <meta name="twitter:description" content="A root for building links.">
+<link rel="preload" href="/scss/main.min.10ef9de9d701d04d5c59118ee99e727143f44a75f2cea53fb659ae78f0280d9c.css" as="style" integrity="sha256-EO&#43;d6dcB0E1cWRGO6Z5ycUP0SnXyzqU/tlmuePAoDZw=" crossorigin="anonymous">
+<link href="/scss/main.min.10ef9de9d701d04d5c59118ee99e727143f44a75f2cea53fb659ae78f0280d9c.css" rel="stylesheet" integrity="sha256-EO&#43;d6dcB0E1cWRGO6Z5ycUP0SnXyzqU/tlmuePAoDZw=" crossorigin="anonymous">
+<script
+  src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"
+  integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g=="
+  crossorigin="anonymous"></script>
+
+  </head>
+  <body class="td-page">
+    <header>
+      <nav class="td-navbar js-navbar-scroll" data-bs-theme="dark">
+<div class="td-navbar-container container-fluid flex-column flex-md-row">
+  <a class="navbar-brand" href="/en/"><span class="navbar-brand__logo navbar-logo"><svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg"><path id="FoldieWebIcon" fill="#ff9400" fill-rule="evenodd" stroke="none" d="M17.180031 161.917114V85.277588c0-37.347351 24.208816-67.623139 54.072159-67.623139h64.886589c18.024048.0 29.128692 7.052857 37.850525 15.778748C176.17366 35.617371 184.443329 44.75766 186.606125 46.957825c8.471237 8.601471 19.826477 15.778717 37.850525 15.778717H428.128448c29.863343.0 54.072144 30.275757 54.072144 67.623138v31.557434H17.180031zm465.020561 31.557495V414.376862C482.200592 451.724213 457.991791 482 428.128448 482H71.25219c-29.863343.0-54.072159-30.275787-54.072159-67.623138V193.474609H482.200592z"/><g id="Link518Center"><path id="-Kopie" fill="#fff" fill-rule="evenodd" stroke="none" d="M254.814392 199.833832C264.125214 201.514954 271.942169 204.005859 278.267487 207.306458 284.590607 210.608215 290.088257 214.539093 294.756012 219.100311c12.518311 12.516083 20.846649 26.269211 24.989563 41.261597C323.888397 275.353149 323.868225 290.344421 319.680511 305.334595 315.495026 320.325836 307.240692 333.982544 294.91748 346.304626l-52.646072 52.762726c-12.323181 12.320923-25.976501 20.576386-40.962158 24.769684C186.323593 428.029297 171.335693 428.052826 156.343292 423.909943 141.350906 419.765991 127.592186 411.432007 115.067123 398.905823c-12.516105-12.518372-20.824256-26.274842-24.924514-41.270569C86.040115 342.639496 86.060295 327.669556 90.198669 312.7276 94.337067 297.784546 102.573463 284.108826 114.905624 271.700409l44.205552-44.159576C158.086136 232.993591 157.906677 238.707733 158.570633 244.686493 159.236801 250.664169 160.674591 256.261658 162.888443 261.480042l-27.885315 28.027771c-8.69171900000001 8.693939-14.49443 18.308685-17.41037 28.845306C114.67907 328.889709 114.68132 339.421875 117.60173 349.952881c2.918183 10.529877 8.779206 20.195099 17.580857 28.996704C143.876541 387.654785 153.490173 393.463104 164.025665 396.376801 174.561157 399.290527 185.094421 399.292725 195.625427 396.384644 206.156433 393.475433 215.77005 387.625671 224.46402 378.834076l50.353699-50.193329C283.511688 319.949036 289.316681 310.33429 292.230347 299.798828 295.144043 289.262207 295.139526 278.702026 292.221375 268.117188 289.300934 257.532318 283.489258 247.892914 274.786316 239.198944 269.903229 234.314758 264.087067 230.416382 257.335571 227.502686 250.586304 224.58902 242.448608 222.696991 232.924713 221.825592zM245.77951 327.167114C236.470947 325.47699 228.629318 322.982727 222.256882 319.686584 215.882202 316.390472 210.366592 312.461823 205.710083 307.901733c-12.527313-12.517212-20.839966-26.270324-24.933502-41.260498C176.680817 251.650009 176.703247 236.658722 180.841629 221.66745c4.138397-14.991242 12.368042-28.647919 24.691254-40.97113l52.791855-52.761597c12.323211-12.331055 25.954071-20.589844 40.89038-24.777588C314.151459 98.969391 329.114685 98.94809 344.107086 103.090973 359.097198 107.234955 372.855957 115.570038 385.38324 128.096222c12.516083 12.517242 20.848938 26.273712 24.998535 41.26947C414.529114 184.362549 414.535858 199.33139 410.397491 214.274445 406.259064 229.21637 397.975586 242.89209 385.544708 255.300522L341.3414 299.460083C342.375458 294.008423 342.557129 288.293182 341.886475 282.315491 341.21579 276.336731 339.775787 270.739288 337.56192 265.520874l27.883087-28.02774c8.69394-8.69397000000001 14.521332-18.284058 17.484345-28.771302C385.890167 198.233429 385.912598 187.697937 382.994415 177.114227 380.076263 166.530487 374.21521 156.842865 365.413544 148.0513 356.623169 139.34726 346.960205 133.537842 336.424683 130.624115 325.889191 127.710419 315.355927 127.708191 304.824951 130.617371 294.293915 133.525452 284.680328 139.375305 275.986328 148.16684l-50.353683 50.193328C216.93866 207.053009 211.133713 216.666595 208.220016 227.202148 205.30632 237.738739 205.313049 248.296677 208.237961 258.875916 211.160629 269.456238 217.019409 279.0979 225.809845 287.802002 230.594208 292.686157 236.363266 296.584534 243.114777 299.49823 249.866302 302.411926 258.00174 304.299438 267.525635 305.160767z"/></g></svg></span><span class="navbar-brand__name">Foldie Links</span></a>
+  <div class="td-navbar-nav-scroll td-navbar-nav-scroll--indicator" id="main_navbar">
+    <div class="scroll-indicator scroll-left"></div>
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link" href="/en/app/"><span>App</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/en/blog/"><span>Blog</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link active" href="/en/docs/"><span>Docs</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/en/faq/"><span>FAQ</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/en/videos/"><span>Videos</span></a>
+      </li>
+      <li class="nav-item td-navbar__lang-menu">
+        <div class="td-lang-menu dropdown">
+  <a class="nav-link dropdown-toggle td-lang-menu__title" href="#" role="button"
+    data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    <span class="td-lang-menu__title-text">English</span>
+    <span class="td-lang-menu__title-code">EN</span>
+  </a>
+  <ul class="dropdown-menu">
+    <li><span class="dropdown-item active">English</span></li>
+      <li><span class="dropdown-item disabled">Deutsch</span></li>
+      </ul>
+</div></li>
+      <li class="nav-item td-navbar__light-dark-menu">
+        <div class="td-light-dark-menu dropdown"><svg xmlns="http://www.w3.org/2000/svg" class="d-none">
+  <symbol id="check2" viewBox="0 0 16 16">
+    <path d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"/>
+  </symbol>
+  <symbol id="circle-half" viewBox="0 0 16 16">
+    <path d="M8 15A7 7 0 1 0 8 1v14zm0 1A8 8 0 1 1 8 0a8 8 0 0 1 0 16z"/>
+  </symbol>
+  <symbol id="moon-stars-fill" viewBox="0 0 16 16">
+    <path d="M6 .278a.768.768 0 0 1 .08.858 7.208 7.208 0 0 0-.878 3.46c0 4.021 3.278 7.277 7.318 7.277.527 0 1.04-.055 1.533-.16a.787.787 0 0 1 .81.316.733.733 0 0 1-.031.893A8.349 8.349 0 0 1 8.344 16C3.734 16 0 12.286 0 7.71 0 4.266 2.114 1.312 5.124.06A.752.752 0 0 1 6 .278z"/>
+    <path d="M10.794 3.148a.217.217 0 0 1 .412 0l.387 1.162c.173.518.579.924 1.097 1.097l1.162.387a.217.217 0 0 1 0 .412l-1.162.387a1.734 1.734 0 0 0-1.097 1.097l-.387 1.162a.217.217 0 0 1-.412 0l-.387-1.162A1.734 1.734 0 0 0 9.31 6.593l-1.162-.387a.217.217 0 0 1 0-.412l1.162-.387a1.734 1.734 0 0 0 1.097-1.097l.387-1.162zM13.863.099a.145.145 0 0 1 .274 0l.258.774c.115.346.386.617.732.732l.774.258a.145.145 0 0 1 0 .274l-.774.258a1.156 1.156 0 0 0-.732.732l-.258.774a.145.145 0 0 1-.274 0l-.258-.774a1.156 1.156 0 0 0-.732-.732l-.774-.258a.145.145 0 0 1 0-.274l.774-.258c.346-.115.617-.386.732-.732L13.863.1z"/>
+  </symbol>
+  <symbol id="sun-fill" viewBox="0 0 16 16">
+    <path d="M8 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8zM8 0a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 0zm0 13a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 13zm8-5a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2a.5.5 0 0 1 .5.5zM3 8a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2A.5.5 0 0 1 3 8zm10.657-5.657a.5.5 0 0 1 0 .707l-1.414 1.415a.5.5 0 1 1-.707-.708l1.414-1.414a.5.5 0 0 1 .707 0zm-9.193 9.193a.5.5 0 0 1 0 .707L3.05 13.657a.5.5 0 0 1-.707-.707l1.414-1.414a.5.5 0 0 1 .707 0zm9.193 2.121a.5.5 0 0 1-.707 0l-1.414-1.414a.5.5 0 0 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .707zM4.464 4.465a.5.5 0 0 1-.707 0L2.343 3.05a.5.5 0 1 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .708z"/>
+  </symbol>
+</svg>
+<button class="btn btn-link nav-link dropdown-toggle d-flex align-items-center"
+        id="bd-theme"
+        type="button"
+        aria-expanded="false"
+        data-bs-toggle="dropdown"
+        aria-label="Toggle theme (auto)">
+  <svg class="bi my-1 theme-icon-active"><use href="#circle-half"></use></svg>
+</button>
+<ul class="dropdown-menu" aria-labelledby="bd-theme">
+  <li>
+    <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="light" aria-pressed="false">
+      <svg class="bi me-2 opacity-50"><use href="#sun-fill"></use></svg>
+      Light
+      <svg class="bi ms-auto d-none"><use href="#check2"></use></svg>
+    </button>
+  </li>
+  <li>
+    <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="dark" aria-pressed="false">
+      <svg class="bi me-2 opacity-50"><use href="#moon-stars-fill"></use></svg>
+      Dark
+      <svg class="bi ms-auto d-none"><use href="#check2"></use></svg>
+    </button>
+  </li>
+  <li>
+    <button type="button" class="dropdown-item d-flex align-items-center active" data-bs-theme-value="auto" aria-pressed="true">
+      <svg class="bi me-2 opacity-50"><use href="#circle-half"></use></svg>
+      Auto
+      <svg class="bi ms-auto d-none"><use href="#check2"></use></svg>
+    </button>
+  </li>
+</ul>
+</div>
+
+      </li>
+      </ul>
+    <div class="scroll-indicator scroll-right"></div>
+  </div>
+  <div class="d-none d-lg-block td-navbar__search">
+    
+  </div>
+</div>
+</nav>
+    </header>
+    <div class="container-fluid td-outer">
+      <div class="td-main" data-bs-spy="scroll" data-bs-target=".td-toc" data-bs-root-margin="0px 0px -10%">
+        <div class="row flex-xl-nowrap">
+          <aside class="col-12 col-md-3 col-xl-2 td-sidebar d-print-none">
+            <div id="td-sidebar-menu" class="td-sidebar__inner">
+  <form class="td-sidebar__search d-flex align-items-center">
+    
+    <button class="btn btn-link td-sidebar__toggle" type="button" data-bs-toggle="collapse" data-bs-target="#td-section-nav" aria-controls="td-section-nav" aria-expanded="false" aria-label="Toggle section navigation">
+    </button>
+  </form>
+  <nav class="td-sidebar-nav collapse" id="td-section-nav">
+    <ul class="td-sidebar-nav__section pe-md-3 ul-0">
+      <li class="td-sidebar-nav__section-title td-sidebar-nav__section with-child active-path" id="m-endocs-li">
+    <a href="/en/docs/" title="Documentation" class="align-left ps-0 td-sidebar-link td-sidebar-link__section tree-root" id="m-endocs"><span class="">Docs</span></a>
+    <ul class="ul-1">
+      <li class="td-sidebar-nav__section-title td-sidebar-nav__section with-child" id="m-endocsui-li">
+    <a href="/en/docs/ui/" class="align-left ps-0 td-sidebar-link td-sidebar-link__section" id="m-endocsui"><span class="">User Interface</span></a>
+    <ul class="ul-2 foldable">
+      <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-endocsuisidebar-li">
+    <a href="/en/docs/ui/sidebar/" class="align-left ps-0 td-sidebar-link td-sidebar-link__page" id="m-endocsuisidebar"><span class="">Sidebar</span></a>
+  </li><li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-endocsuimain-screens-li">
+    <a href="/en/docs/ui/main-screens/" class="align-left ps-0 td-sidebar-link td-sidebar-link__page" id="m-endocsuimain-screens"><span class="">Main Screens</span></a>
+  </li>
+    </ul>
+  </li><li class="td-sidebar-nav__section-title td-sidebar-nav__section with-child" id="m-endocsuse-cases-li">
+    <a href="/en/docs/use-cases/" class="align-left ps-0 td-sidebar-link td-sidebar-link__section" id="m-endocsuse-cases"><span class="">Use Cases</span></a>
+    <ul class="ul-2 foldable">
+      <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-endocsuse-casesbig-band-li">
+    <a href="/en/docs/use-cases/big-band/" class="align-left ps-0 td-sidebar-link td-sidebar-link__page" id="m-endocsuse-casesbig-band"><span class="">Big Band</span></a>
+  </li><li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-endocsuse-casescollaboration-li">
+    <a href="/en/docs/use-cases/collaboration/" class="align-left ps-0 td-sidebar-link td-sidebar-link__page" id="m-endocsuse-casescollaboration"><span class="">Collaboration</span></a>
+  </li><li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-endocsuse-casesresearch-li">
+    <a href="/en/docs/use-cases/research/" class="align-left ps-0 td-sidebar-link td-sidebar-link__page" id="m-endocsuse-casesresearch"><span class="">Research</span></a>
+  </li><li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-endocsuse-casestutor-li">
+    <a href="/en/docs/use-cases/tutor/" class="align-left ps-0 td-sidebar-link td-sidebar-link__page" id="m-endocsuse-casestutor"><span class="">Tutor</span></a>
+  </li>
+    </ul>
+  </li><li class="td-sidebar-nav__section-title td-sidebar-nav__section with-child" id="m-endocsfeature-packs-li">
+    <a href="/en/docs/feature-packs/" class="align-left ps-0 td-sidebar-link td-sidebar-link__section" id="m-endocsfeature-packs"><span class="">Feature-Packs</span></a>
+    <ul class="ul-2 foldable">
+      <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-endocsfeature-packsbasic-li">
+    <a href="/en/docs/feature-packs/basic/" class="align-left ps-0 td-sidebar-link td-sidebar-link__page" id="m-endocsfeature-packsbasic"><span class="">Basic Features</span></a>
+  </li><li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-endocsfeature-packslinks-li">
+    <a href="/en/docs/feature-packs/links/" class="align-left ps-0 td-sidebar-link td-sidebar-link__page" id="m-endocsfeature-packslinks"><span class="">Working with Links</span></a>
+  </li><li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-endocsfeature-packsrelated-li">
+    <a href="/en/docs/feature-packs/related/" class="align-left ps-0 td-sidebar-link td-sidebar-link__page" id="m-endocsfeature-packsrelated"><span class="">Related files</span></a>
+  </li><li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-endocsfeature-packsautomation-li">
+    <a href="/en/docs/feature-packs/automation/" class="align-left ps-0 td-sidebar-link td-sidebar-link__page" id="m-endocsfeature-packsautomation"><span class="">Automation</span></a>
+  </li>
+    </ul>
+  </li><li class="td-sidebar-nav__section-title td-sidebar-nav__section with-child" id="m-endocsfeatures-li">
+    <a href="/en/docs/features/" class="align-left ps-0 td-sidebar-link td-sidebar-link__section" id="m-endocsfeatures"><span class="">Features</span></a>
+    <ul class="ul-2 foldable">
+      <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-endocsfeaturesadvanced-links-li">
+    <a href="/en/docs/features/advanced-links/" class="align-left ps-0 td-sidebar-link td-sidebar-link__page" id="m-endocsfeaturesadvanced-links"><span class="">Advanced Links</span></a>
+  </li><li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-endocsfeaturesadvanced-windows-li">
+    <a href="/en/docs/features/advanced-windows/" class="align-left ps-0 td-sidebar-link td-sidebar-link__page" id="m-endocsfeaturesadvanced-windows"><span class="">Advanced Windows</span></a>
+  </li><li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-endocsfeaturesannotations-li">
+    <a href="/en/docs/features/annotations/" class="align-left ps-0 td-sidebar-link td-sidebar-link__page" id="m-endocsfeaturesannotations"><span class="">Annotations</span></a>
+  </li><li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-endocsfeaturesbookmarks-li">
+    <a href="/en/docs/features/bookmarks/" class="align-left ps-0 td-sidebar-link td-sidebar-link__page" id="m-endocsfeaturesbookmarks"><span class="">Bookmarks</span></a>
+  </li><li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-endocsfeaturescall-shortcuts-li">
+    <a href="/en/docs/features/call-shortcuts/" class="align-left ps-0 td-sidebar-link td-sidebar-link__page" id="m-endocsfeaturescall-shortcuts"><span class="">Call Shortcuts</span></a>
+  </li><li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-endocsfeaturesdefault-overlays-li">
+    <a href="/en/docs/features/default-overlays/" class="align-left ps-0 td-sidebar-link td-sidebar-link__page" id="m-endocsfeaturesdefault-overlays"><span class="">Default Overlays</span></a>
+  </li><li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-endocsfeaturesembedded-viewers-li">
+    <a href="/en/docs/features/embedded-viewers/" class="align-left ps-0 td-sidebar-link td-sidebar-link__page" id="m-endocsfeaturesembedded-viewers"><span class="">Embedded File Viewers</span></a>
+  </li><li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-endocsfeaturesfile-browser-li">
+    <a href="/en/docs/features/file-browser/" class="align-left ps-0 td-sidebar-link td-sidebar-link__page" id="m-endocsfeaturesfile-browser"><span class="">File Browser</span></a>
+  </li><li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-endocsfeaturesintents-li">
+    <a href="/en/docs/features/intents/" class="align-left ps-0 td-sidebar-link td-sidebar-link__page" id="m-endocsfeaturesintents"><span class="">Intents</span></a>
+  </li><li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-endocsfeatureslink-actions-li">
+    <a href="/en/docs/features/link-actions/" class="align-left ps-0 td-sidebar-link td-sidebar-link__page" id="m-endocsfeatureslink-actions"><span class="">Link Actions</span></a>
+  </li><li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-endocsfeaturesmetadata-li">
+    <a href="/en/docs/features/metadata/" class="align-left ps-0 td-sidebar-link td-sidebar-link__page" id="m-endocsfeaturesmetadata"><span class="">Metadata</span></a>
+  </li><li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-endocsfeaturesnotes-li">
+    <a href="/en/docs/features/notes/" class="align-left ps-0 td-sidebar-link td-sidebar-link__page" id="m-endocsfeaturesnotes"><span class="">Notes</span></a>
+  </li><li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-endocsfeaturesoverlays-li">
+    <a href="/en/docs/features/overlays/" class="align-left ps-0 td-sidebar-link td-sidebar-link__page" id="m-endocsfeaturesoverlays"><span class="">Overlays</span></a>
+  </li><li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-endocsfeaturesrecents-li">
+    <a href="/en/docs/features/recents/" class="align-left ps-0 td-sidebar-link td-sidebar-link__page" id="m-endocsfeaturesrecents"><span class="">Recents</span></a>
+  </li><li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-endocsfeaturessiblings-li">
+    <a href="/en/docs/features/siblings/" class="align-left ps-0 td-sidebar-link td-sidebar-link__page" id="m-endocsfeaturessiblings"><span class="">Siblings</span></a>
+  </li><li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-endocsfeaturesvirtual-folders-li">
+    <a href="/en/docs/features/virtual-folders/" class="align-left ps-0 td-sidebar-link td-sidebar-link__page" id="m-endocsfeaturesvirtual-folders"><span class="">Virtual Folders</span></a>
+  </li><li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-endocsfeatureswidgets-li">
+    <a href="/en/docs/features/widgets/" class="align-left ps-0 td-sidebar-link td-sidebar-link__page" id="m-endocsfeatureswidgets"><span class="">Widgets</span></a>
+  </li>
+    </ul>
+  </li><li class="td-sidebar-nav__section-title td-sidebar-nav__section with-child active-path" id="m-endocsglossary-li">
+    <a href="/en/docs/glossary/" class="align-left ps-0 td-sidebar-link td-sidebar-link__section" id="m-endocsglossary"><span class="">Glossary</span></a>
+    <ul class="ul-2 foldable">
+      <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child" id="m-endocsglossarybase-file-li">
+    <a href="/en/docs/glossary/base-file/" class="align-left ps-0 td-sidebar-link td-sidebar-link__page" id="m-endocsglossarybase-file"><span class="">Base File</span></a>
+  </li><li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child" id="m-endocsglossarybase-folder-li">
+    <a href="/en/docs/glossary/base-folder/" class="align-left ps-0 td-sidebar-link td-sidebar-link__page" id="m-endocsglossarybase-folder"><span class="">Base Folder</span></a>
+  </li><li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child active-path" id="m-endocsglossaryfoldie-host-li">
+    <a href="/en/docs/glossary/foldie-host/" class="align-left ps-0 active td-sidebar-link td-sidebar-link__page" id="m-endocsglossaryfoldie-host"><span class="td-sidebar-nav-active-item">Foldie Host</span></a>
+  </li><li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child" id="m-endocsglossaryfoldie-link-li">
+    <a href="/en/docs/glossary/foldie-link/" class="align-left ps-0 td-sidebar-link td-sidebar-link__page" id="m-endocsglossaryfoldie-link"><span class="">Foldie Link</span></a>
+  </li><li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child" id="m-endocsglossaryfoldie-web-link-li">
+    <a href="/en/docs/glossary/foldie-web-link/" class="align-left ps-0 td-sidebar-link td-sidebar-link__page" id="m-endocsglossaryfoldie-web-link"><span class="">Foldie Web Link</span></a>
+  </li><li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child" id="m-endocsglossaryoverlay-filesystem-li">
+    <a href="/en/docs/glossary/overlay-filesystem/" class="align-left ps-0 td-sidebar-link td-sidebar-link__page" id="m-endocsglossaryoverlay-filesystem"><span class="">Overlay File System</span></a>
+  </li><li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child" id="m-endocsglossarysecurity-scoped-bookmark-li">
+    <a href="/en/docs/glossary/security-scoped-bookmark/" class="align-left ps-0 td-sidebar-link td-sidebar-link__page" id="m-endocsglossarysecurity-scoped-bookmark"><span class="">Security scoped bookmark</span></a>
+  </li><li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child" id="m-endocsglossaryvirtual-folder-li">
+    <a href="/en/docs/glossary/virtual-folder/" class="align-left ps-0 td-sidebar-link td-sidebar-link__page" id="m-endocsglossaryvirtual-folder"><span class="">Virtual Folder</span></a>
+  </li>
+    </ul>
+  </li>
+    </ul>
+  </li>
+    </ul>
+  </nav>
+</div>
+          </aside>
+          <aside class="d-none d-xl-block col-xl-2 td-sidebar-toc d-print-none">
+            <div class="td-page-meta ms-2 pb-1 pt-2 mb-0">
+<a id="print" href="/en/_print/docs/glossary/"><i class="fa-solid fa-print fa-fw"></i> Print entire section</a>
+
+</div>
+
+            <div class="td-toc" data-proofer-ignore>
+<div class="td-toc-title">
+      <span class="td-toc-title__text">On this page</span>
+      <a class="td-toc-title__link" title="Top of page" href="#"></a>
+    </div>
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#why-host">Why Host?</a></li>
+    <li><a href="#host-resolver">Host Resolver</a></li>
+  </ul>
+</nav>
+  </div>
+
+            
+          </aside>
+          <main class="col-12 col-md-9 col-xl-8 ps-md-5" role="main">
+            
+  
+
+            <nav aria-label="breadcrumb" class="td-breadcrumbs">
+  <ol class="breadcrumb">
+  <li class="breadcrumb-item">
+    <a href="/en/docs/">Docs</a></li>
+  <li class="breadcrumb-item">
+    <a href="/en/docs/glossary/">Glossary</a></li>
+  <li class="breadcrumb-item active" aria-current="page">
+    Foldie Host</li>
+  </ol>
+</nav>
+<div class="td-content">
+	<h1>Foldie Host</h1>
+	<div class="lead">A root for building links.</div>
+	<header class="article-meta">
+		
+  </header>
+	<h2 id="why-host">Why Host?<a class="td-heading-self-link" href="#why-host" aria-label="Heading self-link"></a></h2>
+<p>In a web-URL like <em><a href="https://en.wikipedia.org/wiki/Main_Page">https://en.wikipedia.org/wiki/Main_Page</a></em>, <em>en.wikipedia.org</em> is called the <strong>Host</strong>, because it is the web server that <em>hosts</em> the web content.
+Similarly in a Foldie-URL like <em>foldie://math.school/assignment3/Readme.pdf</em>, <em>math.school</em> is the <strong>Host</strong> part of the URL. Here, the host corresponds to a folder that hosts file system content.</p>
+<p>You define hosts using <strong>Base Folders</strong> and <strong>Virtual Folders</strong> in the <strong>Manage</strong> section of the sidebar.
+Use the host items to quickly browse the contents of the folders and create links to sub-items.
+Use the host list to quickly check if folder references are valid on your device.</p>
+<h2 id="host-resolver">Host Resolver<a class="td-heading-self-link" href="#host-resolver" aria-label="Heading self-link"></a></h2>
+<p>Map a File or Folder to a Foldie-URL</p>
+<p>Drop a file or folder here to find corresponding Hosts and Links.
+Only the location of the file is used, not its content.</p>
+
+	
+</div>
+
+
+          </main>
+        </div>
+      </div>
+      <footer class="td-footer row d-print-none">
+  <div class="container-fluid">
+    <div class="row mx-md-2">
+      <div class="td-footer__left col-6 col-sm-4 order-sm-1">
+        
+      </div><div class="td-footer__right col-6 col-sm-4 order-sm-3">
+        
+      </div><div class="td-footer__center col-12 col-sm-4 py-2 order-sm-2">
+        <span class="td-footer__copyright">&copy;
+    2026
+    <span class="td-footer__authors">Jörg Garbers | All rights reserved. |</span></span><span class="td-footer__all_rights_reserved">All Rights Reserved</span><span class="ms-2"><a href="/en/website-privacy-policy" target="_blank" rel="noopener">Privacy Policy</a></span>
+      </div>
+    </div>
+  </div>
+</footer>
+
+    </div>
+    <script src="/js/main.min.e778e0587cf5fcc08a2ac9579d1ab3aaca7aa1222dc32556c926f045b6b45658.js" integrity="sha256-53jgWHz1/MCKKslXnRqzqsp6oSItwyVWySbwRba0Vlg=" crossorigin="anonymous"></script>
+<script defer src="/js/click-to-copy.min.73478a7d4807698aed7e355eb23f9890ca18fea3158604c8471746d046702bad.js" integrity="sha256-c0eKfUgHaYrtfjVesj&#43;YkMoY/qMVhgTIRxdG0EZwK60=" crossorigin="anonymous"></script>
+<script src='/js/tabpane-persist.js'></script>
+
+  </body>
+</html>

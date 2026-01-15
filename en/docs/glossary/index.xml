@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Glossary on Foldie Links</title>
+    <link>https://foldieapp.webli.de/en/docs/glossary/</link>
+    <description>Recent content in Glossary on Foldie Links</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://foldieapp.webli.de/en/docs/glossary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Base File</title>
+      <link>https://foldieapp.webli.de/en/docs/glossary/base-file/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/glossary/base-file/</guid>
+      <description>&lt;p&gt;A base file is a reference to one of your files. It consists of&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;a &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/security-scoped-bookmark/&#34;&gt;security scoped bookmark&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;a &lt;strong&gt;reference name&lt;/strong&gt;, for use in &lt;a href=&#34;../features/virtual-folder.md&#34;&gt;virtual folder&lt;/a&gt; definitions&lt;/li&gt;&#xA;&lt;li&gt;some identifying information, such as an ID and the path of the file from which it was created.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;A base file is valid, if its bookmark is valid and can be resolved. This is usually the case, if the file is not moved or modified. In some situations the bookmark stays valid, even when you modify or move the underlying file (but not both).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Base Folder</title>
+      <link>https://foldieapp.webli.de/en/docs/glossary/base-folder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/glossary/base-folder/</guid>
+      <description>&lt;p&gt;Base Folders are the fundament of the Foldie experience.&#xA;By adding folders using system dialogs you grant the App permission to access specific folders of your file system.&#xA;The App keeps references to these folders and maps them by (editable) name to Foldie-Links.&lt;/p&gt;&#xA;&lt;p&gt;Please note: The folder access permissions do not transfer to your other devices, so you must set up similar Base Folders on each device.&#xA;Folder references may become invalid, if you move or rename folders.&#xA;While Local and iCloud Folders are supported and Dropbox folders seem to work, most other 3rd party file providers do not allow to create folder references on iOS and can only be used with this app on macOS.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Foldie Host</title>
+      <link>https://foldieapp.webli.de/en/docs/glossary/foldie-host/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/glossary/foldie-host/</guid>
+      <description>&lt;h2 id=&#34;why-host&#34;&gt;Why Host?&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#why-host&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;In a web-URL like &lt;em&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Main_Page&#34;&gt;https://en.wikipedia.org/wiki/Main_Page&lt;/a&gt;&lt;/em&gt;, &lt;em&gt;en.wikipedia.org&lt;/em&gt; is called the &lt;strong&gt;Host&lt;/strong&gt;, because it is the web server that &lt;em&gt;hosts&lt;/em&gt; the web content.&#xA;Similarly in a Foldie-URL like &lt;em&gt;foldie://math.school/assignment3/Readme.pdf&lt;/em&gt;, &lt;em&gt;math.school&lt;/em&gt; is the &lt;strong&gt;Host&lt;/strong&gt; part of the URL. Here, the host corresponds to a folder that hosts file system content.&lt;/p&gt;&#xA;&lt;p&gt;You define hosts using &lt;strong&gt;Base Folders&lt;/strong&gt; and &lt;strong&gt;Virtual Folders&lt;/strong&gt; in the &lt;strong&gt;Manage&lt;/strong&gt; section of the sidebar.&#xA;Use the host items to quickly browse the contents of the folders and create links to sub-items.&#xA;Use the host list to quickly check if folder references are valid on your device.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Foldie Link</title>
+      <link>https://foldieapp.webli.de/en/docs/glossary/foldie-link/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/glossary/foldie-link/</guid>
+      <description>&lt;p&gt;A Foldie Link is a link with a URL that has the &lt;code&gt;foldie:&lt;/code&gt; scheme, such as &lt;a href=&#34;#ZgotmplZ&#34;&gt;foldie://MyHost/mypath/file.txt&lt;/a&gt;.&#xA;The link is only valid on Apple platforms where the Foldie App is installed.&#xA;It is resolved by this app to a file system location.&lt;/p&gt;&#xA;&lt;p&gt;Some apps do not support clickable links with custom schemes.&#xA;You can use &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/foldie-web-link/&#34;&gt;Foldie Web Links&lt;/a&gt; there.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Foldie Web Link</title>
+      <link>https://foldieapp.webli.de/en/docs/glossary/foldie-web-link/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/glossary/foldie-web-link/</guid>
+      <description>&lt;p&gt;A Foldie Web Link is a link with a URL that has the &lt;code&gt;https:&lt;/code&gt; scheme but otherwise functions as a [[Glossary/Foldie Link]].&#xA;The web link &lt;a href=&#34;https://webli.de/foldie/MyHost/mypath/file.txt&#34;&gt;https://webli.de/foldie/MyHost/mypath/file.txt&lt;/a&gt; is handled the same by the Foldie App as &lt;a href=&#34;#ZgotmplZ&#34;&gt;foldie://MyHost/mypath/file.txt&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;When should you use the longer web version?&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Some apps do not support clickable links with custom schemes, but https links.&lt;/li&gt;&#xA;&lt;li&gt;If you install another app that also registers the &lt;code&gt;foldie:&lt;/code&gt; scheme, the OS does not know which app should handle the URL, but the web version is securely linked to this app.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Overlay File System</title>
+      <link>https://foldieapp.webli.de/en/docs/glossary/overlay-filesystem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/glossary/overlay-filesystem/</guid>
+      <description>&lt;p&gt;An overlay file system combines multiple sources (directories and files) into a single virtual directory.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Directories with the same source path are merged - they contain all files from all sources.&lt;/li&gt;&#xA;&lt;li&gt;If there are files with the same path, only one file is shown, depending on the precedence of the sources.&#xA;See also &lt;a href=&#34;https://en.wikipedia.org/wiki/Union_mount&#34;&gt;Wikipedia&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The different sources are like transparent layers in a painting application such as Adobe Photoshop. The non-transparent pixels (files) at a specific point (path) are stacked on top of each other, so that only the top-most opaque pixel is visible.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Security scoped bookmark</title>
+      <link>https://foldieapp.webli.de/en/docs/glossary/security-scoped-bookmark/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/glossary/security-scoped-bookmark/</guid>
+      <description>&lt;p&gt;A security scoped bookmark is a bookmark to one of your files or folders, that can be persisted.&#xA;A bookmark can only be created with direct user interaction in file dialogs or via drag and drop.&#xA;In Foldie you create them in the &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/base-folder/&#34;&gt;Base Folders&lt;/a&gt; and &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/base-file/&#34;&gt;Base Files&lt;/a&gt; section.&lt;/p&gt;&#xA;&lt;p&gt;A bookmark is valid, if it can be resolved. This is usually the case, if the bookmarked file or folder is not moved or modified. In some situations the bookmark stays valid, even when you modify or move the underlying file or folder (but not both).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Virtual Folder</title>
+      <link>https://foldieapp.webli.de/en/docs/glossary/virtual-folder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/glossary/virtual-folder/</guid>
+      <description>&lt;p&gt;A virtual folder is a folder that appears as a normal folder. You can browse it and construct links from items in the folder. However, the content of the folder is actually taken not from a single user directory, but from an &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/overlays/&#34;&gt;overlay&lt;/a&gt;.&#xA;Subfolders within virtual folders are again virtual folders in the general meaning.&lt;/p&gt;&#xA;&lt;p&gt;In the Foldie app, the term &amp;lsquo;virtual folder&amp;rsquo; is mostly used specifically for complex &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/virtual-folders/&#34;&gt;virtual folder definitions&lt;/a&gt;. Sometimes we also mean &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/overlays/&#34;&gt;overlays&lt;/a&gt; (virtual folder definitions or &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/default-overlays/&#34;&gt;default overlays&lt;/a&gt;). And sometimes we mean virtual folder in the sense above.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

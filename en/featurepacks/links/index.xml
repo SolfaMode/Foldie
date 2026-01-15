@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Links on Foldie Links</title>
+    <link>https://foldieapp.webli.de/en/featurepacks/links/</link>
+    <description>Recent content in Links on Foldie Links</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://foldieapp.webli.de/en/featurepacks/links/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Working with Links</title>
+      <link>https://foldieapp.webli.de/en/docs/feature-packs/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/feature-packs/links/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;Links&lt;/strong&gt; feature pack enables improved linking workflows.&lt;/p&gt;&#xA;&lt;h2 id=&#34;revisit-recently-opened-links&#34;&gt;Revisit recently opened Links&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#revisit-recently-opened-links&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Keep track of links that you have opened from other apps. You can later easily re-open them and add the links to &lt;em&gt;Notes&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;bookmark-links-for-later&#34;&gt;Bookmark Links for later&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#bookmark-links-for-later&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;While browsing, you can easily bookmark Links to re-open them later or to add them to &lt;em&gt;Notes&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;add-arbitrary-metadata&#34;&gt;Add arbitrary Metadata&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#add-arbitrary-metadata&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;You can attach arbitrary &lt;strong&gt;Metadata&lt;/strong&gt; to Links in the File Browser. The editor keeps track of used attribute keys and values. Tag your Links, add info-notes, attach related Links. See where the current Link is mentioned in other Metadata.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Advanced Links</title>
+      <link>https://foldieapp.webli.de/en/docs/features/advanced-links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/advanced-links/</guid>
+      <description>&lt;p&gt;Copy your Links to other apps using different title formats. Export compatible Web-Links where necessary. Tapping those Web-Links brings you back to this App.&lt;/p&gt;&#xA;&lt;h2 id=&#34;title-formats&#34;&gt;Title formats&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#title-formats&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;When copying links or appending to a note, Foldie offers to copy the plain link, a formatted version for pasting into a rich text editor and a Markdown version. The latter two require a URL and a title.&lt;/p&gt;&#xA;&lt;p&gt;This title can be customized in &lt;strong&gt;Settings&lt;/strong&gt; and is a dedicated portion of the URL, such as the file name or the file name without extension.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Big Band</title>
+      <link>https://foldieapp.webli.de/en/docs/use-cases/big-band/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/use-cases/big-band/</guid>
+      <description>&lt;p&gt;You play the trumpet in the big band &amp;ldquo;The Reluctant Syncopators&amp;rdquo;.&#xA;Your band has PDFs of the scores stored on an online folder.&#xA;Some PDFs contain all voices (Song.pdf), some are split up into the different voices (Song-trumpet-2.pdf).&lt;/p&gt;&#xA;&lt;h2 id=&#34;preparing-a-playlist-for-a-gig&#34;&gt;Preparing a playlist for a gig&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#preparing-a-playlist-for-a-gig&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;You took over the moderation of the gig, so you do not have much time between the songs.&#xA;Therefore you prepare a &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/notes/&#34;&gt;playlist note&lt;/a&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;You create a new note for the gig and make it the current note.&lt;/li&gt;&#xA;&lt;li&gt;For each song in the gig list:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;You find the relevant PDF score file.&lt;/li&gt;&#xA;&lt;li&gt;You open it with the built-in PDF viewer.&lt;/li&gt;&#xA;&lt;li&gt;Within the score file you find the starting page of the notes for your voice (trumpet 2).&lt;/li&gt;&#xA;&lt;li&gt;You create a link from the current page and add it to the current note.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;During the gig, you just tap the next link from the playlist note to get to the relevant page of the next song.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bookmarks</title>
+      <link>https://foldieapp.webli.de/en/docs/features/bookmarks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/bookmarks/</guid>
+      <description>&lt;p&gt;While browsing, and in other places where links are active, you can bookmark the links.&#xA;You can then later look up the bookmarked links using the side bar.&#xA;Then you can edit the list of bookmarks and mark bookmarks as favorites.&lt;/p&gt;&#xA;&lt;p&gt;You can perform &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/link-actions/&#34;&gt;common actions&lt;/a&gt; with each link in the bookmarks list.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Collaboration</title>
+      <link>https://foldieapp.webli.de/en/docs/use-cases/collaboration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/use-cases/collaboration/</guid>
+      <description>&lt;p&gt;You work in a crative team in the company &amp;ldquo;The fruiters&amp;rdquo;.&#xA;Part of your work is creating, talking about and modifying many design documents.&lt;/p&gt;&#xA;&lt;p&gt;You and your team agree on the following setup and workflow:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;You all share a single iCloud project folder &lt;strong&gt;F&lt;/strong&gt; with subdirectories &lt;strong&gt;Common&lt;/strong&gt;, &lt;strong&gt;Tom&lt;/strong&gt;, &lt;strong&gt;Peter&lt;/strong&gt;, &lt;strong&gt;Anna&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Within the subdirectories, your team create reasonable project-specific subfolders.&lt;/li&gt;&#xA;&lt;li&gt;Tom, Peter and Anna first create different documents in their named folders.&lt;/li&gt;&#xA;&lt;li&gt;Then they discuss the documents in a Facetime call.&lt;/li&gt;&#xA;&lt;li&gt;The team puts documents and resources that all agree upon into &lt;strong&gt;Common&lt;/strong&gt;.&#xA;Now the refinement begins:&lt;/li&gt;&#xA;&lt;li&gt;Tom and Anna each want to work on their own vision for document &lt;strong&gt;D&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Therfore they copy &lt;strong&gt;D&lt;/strong&gt; into their named directory.&lt;/li&gt;&#xA;&lt;li&gt;Then they discuss the documents in a Facetime call,&lt;/li&gt;&#xA;&lt;li&gt;and agree on Anna&amp;rsquo;s version with small modifications.&lt;/li&gt;&#xA;&lt;li&gt;Anna takes some of Tom&amp;rsquo;s changes and copies the result back to the &lt;strong&gt;Common&lt;/strong&gt; folder.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;how-can-foldie-help&#34;&gt;How can Foldie help?&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#how-can-foldie-help&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;To support this workflow, every team member sets up&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Link Actions</title>
+      <link>https://foldieapp.webli.de/en/docs/features/link-actions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/link-actions/</guid>
+      <description>&lt;p&gt;There are many places in Foldie, where a &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/foldie-link/&#34;&gt;Foldie Links&lt;/a&gt; is active:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The current location in the &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/file-browser/&#34;&gt;file browser&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;A selected item in the file browser.&lt;/li&gt;&#xA;&lt;li&gt;A selected item in the &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/recents/&#34;&gt;recents&lt;/a&gt; list.&lt;/li&gt;&#xA;&lt;li&gt;A selected item in the &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/bookmarks/&#34;&gt;bookmark&lt;/a&gt; list.&lt;/li&gt;&#xA;&lt;li&gt;A selected item in the host list.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;In most places you can use the context menu to perform common actions.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;If outside of the file browser: Open the link in the file browser.&lt;/li&gt;&#xA;&lt;li&gt;Create a &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/bookmarks/&#34;&gt;bookmark&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Copy the link to clipboard as a &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/foldie-link/&#34;&gt;Foldie Link&lt;/a&gt; or as a &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/foldie-web-link/&#34;&gt;Foldie Web Link&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Share the link via the system share sheet.&lt;/li&gt;&#xA;&lt;li&gt;Add the link to the &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/notes/&#34;&gt;current note&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/call-shortcuts/&#34;&gt;Perform shortcut actions&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;If the link represents a single file or folder, you can also access the file itself in some places with the following actions:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Metadata</title>
+      <link>https://foldieapp.webli.de/en/docs/features/metadata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/metadata/</guid>
+      <description>&lt;p&gt;Foldie metadata is inspired from the &lt;a href=&#34;https://en.wikipedia.org/wiki/Resource_Description_Framework&#34;&gt;Resource Description Framework&lt;/a&gt; (RDF), but much simpler.&#xA;A Metadata &lt;strong&gt;entry&lt;/strong&gt; is represented by a subject-predicate-object-triple &lt;strong&gt;(Link, Attribute, Value)&lt;/strong&gt;, where &lt;strong&gt;Link&lt;/strong&gt; is a &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/foldie-link/&#34;&gt;Foldie Link URL&lt;/a&gt;, &lt;strong&gt;Attribute&lt;/strong&gt; is a user-defined name such as &amp;ldquo;tag&amp;rdquo;, &amp;ldquo;quality&amp;rdquo;, &amp;ldquo;basedOn&amp;rdquo;, and &lt;strong&gt;Value&lt;/strong&gt; is single- or multiline plain text that may contain other links.&lt;/p&gt;&#xA;&lt;p&gt;A &lt;strong&gt;link property&lt;/strong&gt; is an &lt;strong&gt;(Attribute, Value)&lt;/strong&gt; pair, and a &lt;strong&gt;mention&lt;/strong&gt; of a link is a metadata entry, in which the link occurs in the value field.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Notes</title>
+      <link>https://foldieapp.webli.de/en/docs/features/notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/notes/</guid>
+      <description>&lt;p&gt;In notes you can freely mix plain text, links and basic markup. Use notes to create an ordered list of Links or to tell a story. Select a &lt;strong&gt;Current Note&lt;/strong&gt; and easily add Links to it from context menus.&lt;/p&gt;&#xA;&lt;h2 id=&#34;basic-markup&#34;&gt;Basic Markup&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#basic-markup&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Foldie supports only a small subset of Markdown:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Use &lt;code&gt;**Some text**&lt;/code&gt; to make it bold: &lt;strong&gt;Some text&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;Use &lt;code&gt;*Some text*&lt;/code&gt; to make it italics: &lt;em&gt;Some  text&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;Use &lt;code&gt;[Link Title](https://en.wikipedia.org/wiki/Main_Page)&lt;/code&gt; to create links with arbitrary titles: &lt;a href=&#34;https://en.wikipedia.org/wiki/Main_Page&#34;&gt;Link Title&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;You can use relative paths in links like &lt;code&gt;[Link Title](relative/path.txt)&lt;/code&gt;, if you set a &lt;strong&gt;Base URL&lt;/strong&gt; in the editor.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Additionally, plain text URLs are detected and turned into tappable links.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Recents</title>
+      <link>https://foldieapp.webli.de/en/docs/features/recents/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/recents/</guid>
+      <description>&lt;p&gt;Foldie keeps track of links that you have opened from other apps.&#xA;You can later revisit those links and perform &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/link-actions/&#34;&gt;common link actions&lt;/a&gt; with them.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Widgets</title>
+      <link>https://foldieapp.webli.de/en/docs/features/widgets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/widgets/</guid>
+      <description>&lt;p&gt;This app provides widgets that you can add to your home screen, so that you can open some links directly.&lt;/p&gt;&#xA;&lt;p&gt;A &lt;strong&gt;Hosts&lt;/strong&gt; widget that lists all &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/foldie-host/&#34;&gt;Foldie Hosts&lt;/a&gt; and a &lt;strong&gt;Note&lt;/strong&gt; widget that lists all links of the &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/notes/&#34;&gt;current note&lt;/a&gt;. Both come in different sizes and open the Foldie app, when an item is tapped.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

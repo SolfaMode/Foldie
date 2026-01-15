@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Landungs-Seiten on Foldie Links</title>
+    <link>https://foldieapp.webli.de/de/misc/</link>
+    <description>Recent content in Landungs-Seiten on Foldie Links</description>
+    <generator>Hugo</generator>
+    <language>de</language>
+    <atom:link href="https://foldieapp.webli.de/de/misc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Datenschutzrichtlinie der Foldie-Links App</title>
+      <link>https://foldieapp.webli.de/PrivacyPolicy-de/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/PrivacyPolicy-de/</guid>
+      <description>&lt;h1 id=&#34;datenschutzrichtlinie&#34;&gt;Datenschutzrichtlinie&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#datenschutzrichtlinie&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;Die App &lt;strong&gt;Foldie Links&lt;/strong&gt; ist ein Tool, und die Datenerfassung wird auf ein Minimum beschränkt.&lt;/p&gt;&#xA;&lt;h2 id=&#34;ihre-möglichkeiten&#34;&gt;Ihre Möglichkeiten&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#ihre-m%c3%b6glichkeiten&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Innerhalb der App haben Sie Zugriff auf Ordner, für die Sie explizit Zugriff gewährt haben.&lt;/li&gt;&#xA;&lt;li&gt;Sie können außerdem Daten in Form von Links, Notizen, Metadaten und Einstellungen erstellen.&lt;/li&gt;&#xA;&lt;li&gt;Einige der von Ihnen erstellten Daten werden mithilfe von iCloud geräteübergreifend synchronisiert, um ähnliche Arbeitsabläufe zu ermöglichen.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;ihre-daten-werden-nicht-erfasst&#34;&gt;Ihre Daten werden nicht erfasst&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#ihre-daten-werden-nicht-erfasst&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Es werden keine Nutzerdaten erfasst.&lt;/li&gt;&#xA;&lt;li&gt;Es werden keine Daten über die Nutzung der App erfasst.&lt;/li&gt;&#xA;&lt;li&gt;Es werden keine Dateiinhalte aus Ihrem Dateisystem erfasst.&lt;/li&gt;&#xA;&lt;li&gt;Es werden keine Daten an andere Server als die private iCloud-Datenbank gesendet.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;datenerfassung-durch-dritte&#34;&gt;Datenerfassung durch Dritte&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#datenerfassung-durch-dritte&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Innerhalb der App werden keine Daten von Dritten erfasst.&lt;/li&gt;&#xA;&lt;li&gt;Absturzberichte können von Apple erfasst werden, sofern Sie dies genehmigen.&lt;/li&gt;&#xA;&lt;li&gt;Wenn Sie die App verlassen und Links im Web folgen, können Navigationsdaten von Dritten im Web erfasst werden.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Unterstützung</title>
+      <link>https://foldieapp.webli.de/de/misc/support/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/de/misc/support/</guid>
+      <description>&lt;p&gt;Wenn Sie eine Frage haben, prüfen Sie zunächst die &lt;a href=&#34;https://foldieapp.webli.de/docs/en/faq/&#34;&gt;FAQ&lt;/a&gt;, und andere Informationen auf dieser Webseite.&lt;/p&gt;&#xA;&lt;p&gt;Da die Dokumentation zur Zeit nur auf Englisch angelegt ist, nutzen Sie bitten die Übersetzungsfunktion ihres Browsers.&#xA;In Safari finden Sie diesen Knopf: &lt;img src=&#34;https://foldieapp.webli.de/images/apple-translate.png&#34; alt=&#34;Translate Icon&#34;&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;auf dem Mac: in der Adresszeile des Browsers.&lt;/li&gt;&#xA;&lt;li&gt;auf dem iPhone und iPad: in der Adresszeile des Browsers in linken Menü.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Falls Sie nicht weiterkommen, schreiben Sie bitte eine Email an Foldie &amp;lsquo;at&amp;rsquo; webli &amp;lsquo;dot&amp;rsquo; de.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

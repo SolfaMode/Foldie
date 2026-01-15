@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Related on Foldie Links</title>
+    <link>https://foldieapp.webli.de/en/featurepacks/related/</link>
+    <description>Recent content in Related on Foldie Links</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://foldieapp.webli.de/en/featurepacks/related/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Related files</title>
+      <link>https://foldieapp.webli.de/en/docs/feature-packs/related/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/feature-packs/related/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;Related Files&lt;/strong&gt; feature pack allows you to work with files that are related by file name or path.&lt;/p&gt;&#xA;&lt;h2 id=&#34;construct-virtual-folder-overlays&#34;&gt;Construct Virtual Folder Overlays&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#construct-virtual-folder-overlays&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;You can arrange multiple Base Folders and Base Files into a Virtual Folder. By using the same subfolder names, you get a kind of &lt;strong&gt;Overlay File System&lt;/strong&gt;, that you can browse and link to.&#xA;If you do not have write access to a shared Base Folder, simply create a writable Base Folder and merge both folders into a Virtual Folder.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Annotations</title>
+      <link>https://foldieapp.webli.de/en/docs/features/annotations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/annotations/</guid>
+      <description>&lt;p&gt;When you follow a link to a file, Foldie reminds you about files and folders that are similarly named as the target file.&#xA;For &lt;strong&gt;Name.ext&lt;/strong&gt; and &lt;strong&gt;Name-X.ext&lt;/strong&gt; these are all other files in the same directory that start with &lt;strong&gt;Name&lt;/strong&gt;.&#xA;You can use this feature to add annotation files into the same physical folder or in an &lt;a href=&#34;overlay.md&#34;&gt;overlay&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;In a big band you could put playing instructions for Song.pdf into Song-trumpets.txt.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Big Band</title>
+      <link>https://foldieapp.webli.de/en/docs/use-cases/big-band/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/use-cases/big-band/</guid>
+      <description>&lt;p&gt;You play the trumpet in the big band &amp;ldquo;The Reluctant Syncopators&amp;rdquo;.&#xA;Your band has PDFs of the scores stored on an online folder.&#xA;Some PDFs contain all voices (Song.pdf), some are split up into the different voices (Song-trumpet-2.pdf).&lt;/p&gt;&#xA;&lt;h2 id=&#34;preparing-a-playlist-for-a-gig&#34;&gt;Preparing a playlist for a gig&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#preparing-a-playlist-for-a-gig&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;You took over the moderation of the gig, so you do not have much time between the songs.&#xA;Therefore you prepare a &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/notes/&#34;&gt;playlist note&lt;/a&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;You create a new note for the gig and make it the current note.&lt;/li&gt;&#xA;&lt;li&gt;For each song in the gig list:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;You find the relevant PDF score file.&lt;/li&gt;&#xA;&lt;li&gt;You open it with the built-in PDF viewer.&lt;/li&gt;&#xA;&lt;li&gt;Within the score file you find the starting page of the notes for your voice (trumpet 2).&lt;/li&gt;&#xA;&lt;li&gt;You create a link from the current page and add it to the current note.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;During the gig, you just tap the next link from the playlist note to get to the relevant page of the next song.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Collaboration</title>
+      <link>https://foldieapp.webli.de/en/docs/use-cases/collaboration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/use-cases/collaboration/</guid>
+      <description>&lt;p&gt;You work in a crative team in the company &amp;ldquo;The fruiters&amp;rdquo;.&#xA;Part of your work is creating, talking about and modifying many design documents.&lt;/p&gt;&#xA;&lt;p&gt;You and your team agree on the following setup and workflow:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;You all share a single iCloud project folder &lt;strong&gt;F&lt;/strong&gt; with subdirectories &lt;strong&gt;Common&lt;/strong&gt;, &lt;strong&gt;Tom&lt;/strong&gt;, &lt;strong&gt;Peter&lt;/strong&gt;, &lt;strong&gt;Anna&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Within the subdirectories, your team create reasonable project-specific subfolders.&lt;/li&gt;&#xA;&lt;li&gt;Tom, Peter and Anna first create different documents in their named folders.&lt;/li&gt;&#xA;&lt;li&gt;Then they discuss the documents in a Facetime call.&lt;/li&gt;&#xA;&lt;li&gt;The team puts documents and resources that all agree upon into &lt;strong&gt;Common&lt;/strong&gt;.&#xA;Now the refinement begins:&lt;/li&gt;&#xA;&lt;li&gt;Tom and Anna each want to work on their own vision for document &lt;strong&gt;D&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Therfore they copy &lt;strong&gt;D&lt;/strong&gt; into their named directory.&lt;/li&gt;&#xA;&lt;li&gt;Then they discuss the documents in a Facetime call,&lt;/li&gt;&#xA;&lt;li&gt;and agree on Anna&amp;rsquo;s version with small modifications.&lt;/li&gt;&#xA;&lt;li&gt;Anna takes some of Tom&amp;rsquo;s changes and copies the result back to the &lt;strong&gt;Common&lt;/strong&gt; folder.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;how-can-foldie-help&#34;&gt;How can Foldie help?&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#how-can-foldie-help&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;To support this workflow, every team member sets up&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Default Overlays</title>
+      <link>https://foldieapp.webli.de/en/docs/features/default-overlays/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/default-overlays/</guid>
+      <description>&lt;p&gt;Default overlays provide &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/overlays/&#34;&gt;overlays&lt;/a&gt; for all &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/base-folder/&#34;&gt;base folders&lt;/a&gt; and &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/virtual-folder/&#34;&gt;virtual folders&lt;/a&gt;. You can easily create parallel folder structures for each host and put related files there. (See &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/annotations/&#34;&gt;annotations&lt;/a&gt;.)&lt;/p&gt;&#xA;&lt;p&gt;Go to &lt;strong&gt;Settings/Default Overlays&lt;/strong&gt;. Check one of the default locations (iCloud or local) or use comma-separated base folder names.&lt;/p&gt;&#xA;&lt;p&gt;When you browse at foldie://host/somepath, all the content of DefaultOverlayFolder/host/somepath will also be shown for each of the enabled default overlay folders.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>File Browser</title>
+      <link>https://foldieapp.webli.de/en/docs/features/file-browser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/file-browser/</guid>
+      <description>&lt;p&gt;The Foldie file browser is shown when you open a link from outside of the app or in the many places, where &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/link-actions/&#34;&gt;common link actions&lt;/a&gt; are available.&lt;/p&gt;&#xA;&lt;p&gt;When opening a link, foldie looks up the host in the &lt;a href=&#34;virtual-folder.md&#34;&gt;virtual folder definitions&lt;/a&gt; and in the &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/base-folder/&#34;&gt;base folder&lt;/a&gt; definitions. It then resolves the necessary &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/security-scoped-bookmark/&#34;&gt;security scoped bookmarks&lt;/a&gt; to access the underlying file system. If the link represents a folders, the browser lists its contents. If the link represents a file, the browser shows actions you can perform with the file.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Overlays</title>
+      <link>https://foldieapp.webli.de/en/docs/features/overlays/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/overlays/</guid>
+      <description>&lt;p&gt;Foldie supports creating &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/virtual-folder/&#34;&gt;virtual folder&lt;/a&gt; overlays of directories and files from your file system.&#xA;An overlay can be realized with a &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/virtual-folders/&#34;&gt;Virtual Folder Definition&lt;/a&gt; and via &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/default-overlays/&#34;&gt;Default Overlays&lt;/a&gt;.&#xA;The &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/file-browser/&#34;&gt;file browser&lt;/a&gt; supports to browse these overlays.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-a-folder-overlay&#34;&gt;What is a folder-overlay?&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#what-is-a-folder-overlay&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Overlays are well-known from painting applications, such as Adobe Photoshop. There, an Overlay consists of a list of ordered layers, each of which contains an image with a transparent background. In the overall view, opaque pixels in the upper layers hide opaque pixels in the lower layer, that have the same coordinate.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Siblings</title>
+      <link>https://foldieapp.webli.de/en/docs/features/siblings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/siblings/</guid>
+      <description>&lt;p&gt;When opening a link in the &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/file-browser/&#34;&gt;file browser&lt;/a&gt;, other files and folders with a similar name within the same parent folder are shown. So you can put information about a file &lt;em&gt;MyFile.ext&lt;/em&gt; in a folder called &lt;em&gt;MyFile-Info&lt;/em&gt;. This also works across &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/overlays/&#34;&gt;overlays&lt;/a&gt;. (See also &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/annotations/&#34;&gt;Annotations&lt;/a&gt; feature.)&lt;/p&gt;&#xA;&lt;p&gt;An alternative to sibling files is to use &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/metadata/&#34;&gt;Metadata&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tutor</title>
+      <link>https://foldieapp.webli.de/en/docs/use-cases/tutor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/use-cases/tutor/</guid>
+      <description>&lt;p&gt;You are a private tutor and, because you are not enrolled in an official school, you and your pupils cannot use Apple&amp;rsquo;s Schoolwork app.&lt;/p&gt;&#xA;&lt;p&gt;You have prepared a folder &lt;strong&gt;R&lt;/strong&gt; of resources and assignment documents (PDF, Pages), that your pupils should fill in.&#xA;You have also prepared folder &lt;strong&gt;S&lt;/strong&gt; with solutions.&lt;/p&gt;&#xA;&lt;p&gt;You share &lt;strong&gt;R&lt;/strong&gt; via iCloud with all pupils in read-only mode. Each pupil shares an iCloud folder &lt;strong&gt;F[i]&lt;/strong&gt; with you read-only, in which they put their filled-in assignments and you share an iCloud folder &lt;strong&gt;C[i]&lt;/strong&gt; with each pupil, where you will put corrections and correct solutions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Virtual Folders</title>
+      <link>https://foldieapp.webli.de/en/docs/features/virtual-folders/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/features/virtual-folders/</guid>
+      <description>&lt;p&gt;You can create complex &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/overlays/&#34;&gt;overlay&lt;/a&gt; definitions in the &lt;strong&gt;Virtual Folders&lt;/strong&gt; screen that you can reach from the sidebar.&lt;/p&gt;&#xA;&lt;p&gt;You can combine multiple different &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/base-folder/&#34;&gt;Base Folders&lt;/a&gt; and &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/base-file/&#34;&gt;Base Files&lt;/a&gt; into one &lt;a href=&#34;https://foldieapp.webli.de/en/docs/glossary/virtual-folder/&#34;&gt;Virtual Folder&lt;/a&gt; that behaves as a single directory. The virtual folder contains the underlying files and sub-directories from all sources and the built-in &lt;a href=&#34;https://foldieapp.webli.de/en/docs/features/file-browser/&#34;&gt;file browser&lt;/a&gt; shows all source-files and -folders.&lt;/p&gt;&#xA;&lt;h2 id=&#34;editor&#34;&gt;Editor&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#editor&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;In the &lt;strong&gt;top section&lt;/strong&gt;, you can change the host name that represents the root folder and choose if you want generally want to make the host active. Because the host definition is synced to your other devices, you can choose on each device, if you want to enable the host on that devide. You would not do that on devices, where the base folders are not available that are used in the definition.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

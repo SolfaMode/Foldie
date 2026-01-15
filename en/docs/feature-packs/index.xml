@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feature-Packs on Foldie Links</title>
+    <link>https://foldieapp.webli.de/en/docs/feature-packs/</link>
+    <description>Recent content in Feature-Packs on Foldie Links</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://foldieapp.webli.de/en/docs/feature-packs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basic Features</title>
+      <link>https://foldieapp.webli.de/en/docs/feature-packs/basic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/feature-packs/basic/</guid>
+      <description>&lt;p&gt;Create Links for your files and folders, store them anywhere, and resolve your files and folders when activating the Link. This app is a replacement for „file:“-Links that is designed to work across all of your iPhones, iPads and Macs.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Working with Links</title>
+      <link>https://foldieapp.webli.de/en/docs/feature-packs/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/feature-packs/links/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;Links&lt;/strong&gt; feature pack enables improved linking workflows.&lt;/p&gt;&#xA;&lt;h2 id=&#34;revisit-recently-opened-links&#34;&gt;Revisit recently opened Links&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#revisit-recently-opened-links&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Keep track of links that you have opened from other apps. You can later easily re-open them and add the links to &lt;em&gt;Notes&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;bookmark-links-for-later&#34;&gt;Bookmark Links for later&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#bookmark-links-for-later&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;While browsing, you can easily bookmark Links to re-open them later or to add them to &lt;em&gt;Notes&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;add-arbitrary-metadata&#34;&gt;Add arbitrary Metadata&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#add-arbitrary-metadata&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;You can attach arbitrary &lt;strong&gt;Metadata&lt;/strong&gt; to Links in the File Browser. The editor keeps track of used attribute keys and values. Tag your Links, add info-notes, attach related Links. See where the current Link is mentioned in other Metadata.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Related files</title>
+      <link>https://foldieapp.webli.de/en/docs/feature-packs/related/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/feature-packs/related/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;Related Files&lt;/strong&gt; feature pack allows you to work with files that are related by file name or path.&lt;/p&gt;&#xA;&lt;h2 id=&#34;construct-virtual-folder-overlays&#34;&gt;Construct Virtual Folder Overlays&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#construct-virtual-folder-overlays&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;You can arrange multiple Base Folders and Base Files into a Virtual Folder. By using the same subfolder names, you get a kind of &lt;strong&gt;Overlay File System&lt;/strong&gt;, that you can browse and link to.&#xA;If you do not have write access to a shared Base Folder, simply create a writable Base Folder and merge both folders into a Virtual Folder.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Automation</title>
+      <link>https://foldieapp.webli.de/en/docs/feature-packs/automation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/en/docs/feature-packs/automation/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;Automation&lt;/strong&gt; feature pack allows you to use the Foldie app together with the Shortcuts app.&#xA;Scripting with Shortcuts can enable powerful workflows, but you should take care.&lt;/p&gt;&#xA;&lt;h2 id=&#34;call-shortcut-actions&#34;&gt;Call Shortcut Actions&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#call-shortcut-actions&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Craft custom actions in the Shortcuts app and call those actions with a selected Link. For example, add the selected Link to a note in Apple Notes.&lt;/p&gt;&#xA;&lt;h2 id=&#34;automate&#34;&gt;Automate&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#automate&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Use this app’s actions in the Shortcuts app and elsewhere in the system.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
