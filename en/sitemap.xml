@@ -81,16 +81,6 @@
   </url><url>
     <loc>https://foldieapp.webli.de/en/docs/features/</loc>
     <lastmod>2026-01-14T16:19:30+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://foldieapp.webli.de/de/docs/features/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://foldieapp.webli.de/en/docs/features/"
-                />
   </url><url>
     <loc>https://foldieapp.webli.de/en/docs/glossary/</loc>
     <lastmod>2026-01-14T16:19:30+01:00</lastmod>
@@ -290,7 +280,7 @@
     <lastmod>2026-01-09T12:19:51+01:00</lastmod>
   </url><url>
     <loc>https://foldieapp.webli.de/en/docs/glossary/foldie-link/</loc>
-    <lastmod>2026-01-09T12:19:51+01:00</lastmod>
+    <lastmod>2026-01-16T12:06:47+01:00</lastmod>
   </url><url>
     <loc>https://foldieapp.webli.de/en/</loc>
     <lastmod>2026-01-16T10:42:22+01:00</lastmod>
@@ -306,7 +296,7 @@
                 />
   </url><url>
     <loc>https://foldieapp.webli.de/en/docs/glossary/foldie-web-link/</loc>
-    <lastmod>2026-01-09T12:19:51+01:00</lastmod>
+    <lastmod>2026-01-16T12:06:47+01:00</lastmod>
   </url><url>
     <loc>https://foldieapp.webli.de/en/docs/features/intents/</loc>
     <lastmod>2026-01-16T11:06:28+01:00</lastmod>
