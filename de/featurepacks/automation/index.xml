@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Automation on Foldie Links</title>
+    <link>https://foldieapp.webli.de/de/featurepacks/automation/</link>
+    <description>Recent content in Automation on Foldie Links</description>
+    <generator>Hugo</generator>
+    <language>de</language>
+    <atom:link href="https://foldieapp.webli.de/de/featurepacks/automation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automatisierung</title>
+      <link>https://foldieapp.webli.de/de/docs/feature-packs/automation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/de/docs/feature-packs/automation/</guid>
+      <description>&lt;p&gt;Das &lt;strong&gt;Automatisierungs-Funktionspaket&lt;/strong&gt; ermöglicht die Verwendung der Foldie-App zusammen mit der Kurzbefehle-App.&#xA;Skripte mit Kurzbefehlen ermöglichen leistungsstarke Arbeitsabläufe, jedoch ist Vorsicht geboten.&lt;/p&gt;&#xA;&lt;h2 id=&#34;kurzbefehl-aktionen-aufrufen&#34;&gt;Kurzbefehl-Aktionen aufrufen&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#kurzbefehl-aktionen-aufrufen&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Erstellen Sie benutzerdefinierte Aktionen in der Kurzbefehle-App und rufen Sie diese mit einem ausgewählten Link auf. Fügen Sie beispielsweise den ausgewählten Link einer Notiz in Apple Notizen hinzu.&lt;/p&gt;&#xA;&lt;h2 id=&#34;automatisieren&#34;&gt;Automatisieren&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#automatisieren&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Verwenden Sie die Aktionen dieser App in der Kurzbefehle-App und an anderen Stellen im System.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

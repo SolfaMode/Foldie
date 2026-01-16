@@ -301,7 +301,7 @@ template site.</p>
 	<p>A base file is a reference to one of your files. It consists of</p>
 <ul>
 <li>a <a href="/en/docs/glossary/security-scoped-bookmark/">security scoped bookmark</a></li>
-<li>a <strong>reference name</strong>, for use in <a href="../features/virtual-folder.md">virtual folder</a> definitions</li>
+<li>a <strong>reference name</strong>, for use in <a href="/en/docs/features/virtual-folders/">virtual folder</a> definitions</li>
 <li>some identifying information, such as an ID and the path of the file from which it was created.</li>
 </ul>
 <p>A base file is valid, if its bookmark is valid and can be resolved. This is usually the case, if the file is not moved or modified. In some situations the bookmark stays valid, even when you modify or move the underlying file (but not both).</p>
@@ -346,7 +346,7 @@ While Local and iCloud Folders are supported and Dropbox folders seem to work, m
 	<h1 id="pg-6e799d46b30d4689c08cd9738ebc3d66">3 - Foldie Host</h1>
     <div class="lead">A root for building links.</div>
 	<h2 id="why-host">Why Host?<a class="td-heading-self-link" href="#why-host" aria-label="Heading self-link"></a></h2>
-<p>In a web-URL like <em><a href="https://en.wikipedia.org/wiki/Main_Page">https://en.wikipedia.org/wiki/Main_Page</a></em>, <em>en.wikipedia.org</em> is called the <strong>Host</strong>, because it is the web server that <em>hosts</em> the web content.
+<p>In a web-URL like <em><a href="https://en.wikipedia.org/wiki/Main_Page" rel="external">https://en.wikipedia.org/wiki/Main_Page</a></em>, <em>en.wikipedia.org</em> is called the <strong>Host</strong>, because it is the web server that <em>hosts</em> the web content.
 Similarly in a Foldie-URL like <em>foldie://math.school/assignment3/Readme.pdf</em>, <em>math.school</em> is the <strong>Host</strong> part of the URL. Here, the host corresponds to a folder that hosts file system content.</p>
 <p>You define hosts using <strong>Base Folders</strong> and <strong>Virtual Folders</strong> in the <strong>Manage</strong> section of the sidebar.
 Use the host items to quickly browse the contents of the folders and create links to sub-items.
@@ -372,7 +372,7 @@ Only the location of the file is used, not its content.</p>
     
 	<h1 id="pg-bf56c5c1f30786ddde7f89454f3f1279">4 - Foldie Link</h1>
     <div class="lead">A foldie:// URL with an optional title.</div>
-	<p>A Foldie Link is a link with a URL that has the <code>foldie:</code> scheme, such as <a href="#ZgotmplZ">foldie://MyHost/mypath/file.txt</a>.
+	<p>A Foldie Link is a link with a URL that has the <code>foldie:</code> scheme, such as <a href="foldie://MyHost/mypath/file.txt" rel="external">foldie://MyHost/mypath/file.txt</a>.
 The link is only valid on Apple platforms where the Foldie App is installed.
 It is resolved by this app to a file system location.</p>
 <p>Some apps do not support clickable links with custom schemes.
@@ -395,7 +395,7 @@ You can use <a href="/en/docs/glossary/foldie-web-link/">Foldie Web Links</a> th
 	<h1 id="pg-c14c06d457cfd7992ad55189882091a9">5 - Foldie Web Link</h1>
     <div class="lead">A special https:// URL with an optional title.</div>
 	<p>A Foldie Web Link is a link with a URL that has the <code>https:</code> scheme but otherwise functions as a [[Glossary/Foldie Link]].
-The web link <a href="https://webli.de/foldie/MyHost/mypath/file.txt">https://webli.de/foldie/MyHost/mypath/file.txt</a> is handled the same by the Foldie App as <a href="#ZgotmplZ">foldie://MyHost/mypath/file.txt</a>.</p>
+The web link <a href="https://webli.de/foldie/MyHost/mypath/file.txt" rel="external">https://webli.de/foldie/MyHost/mypath/file.txt</a> is handled the same by the Foldie App as <a href="foldie://MyHost/mypath/file.txt" rel="external">foldie://MyHost/mypath/file.txt</a>.</p>
 <p>When should you use the longer web version?</p>
 <ul>
 <li>Some apps do not support clickable links with custom schemes, but https links.</li>
@@ -422,7 +422,7 @@ The web link <a href="https://webli.de/foldie/MyHost/mypath/file.txt">https://we
 <ul>
 <li>Directories with the same source path are merged - they contain all files from all sources.</li>
 <li>If there are files with the same path, only one file is shown, depending on the precedence of the sources.
-See also <a href="https://en.wikipedia.org/wiki/Union_mount">Wikipedia</a>.</li>
+See also <a href="https://en.wikipedia.org/wiki/Union_mount" rel="external">Wikipedia</a>.</li>
 </ul>
 <p>The different sources are like transparent layers in a painting application such as Adobe Photoshop. The non-transparent pixels (files) at a specific point (path) are stacked on top of each other, so that only the top-most opaque pixel is visible.</p>
 <p>In Foldie, you can create, host <a href="/en/docs/features/overlays/">overlays</a> and browse them like an overlay file system.</p>

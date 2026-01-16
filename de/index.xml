@@ -6,42 +6,69 @@
     <description>Recent content on Foldie Links</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 15 Jan 2026 22:00:00 +0100</lastBuildDate>
     <atom:link href="https://foldieapp.webli.de/de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basis-Features</title>
+      <link>https://foldieapp.webli.de/de/docs/feature-packs/basic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/de/docs/feature-packs/basic/</guid>
+      <description>&lt;p&gt;Erstellen Sie Verknüpfungen zu Ihren Dateien und Ordnern, speichern Sie diese an einem beliebigen Ort und öffnen Sie die Verknüpfungen automatisch. Diese App ersetzt „file:“-Links und ist für alle Ihre iPhones, iPads und Macs geeignet.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Arbeiten mit Links</title>
+      <link>https://foldieapp.webli.de/de/docs/feature-packs/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/de/docs/feature-packs/links/</guid>
+      <description>&lt;p&gt;Das Funktionspaket „Links“ ermöglicht optimierte Workflows beim Verlinken.&lt;/p&gt;&#xA;&lt;h2 id=&#34;kürzlich-geöffnete-links-wieder-aufrufen&#34;&gt;Kürzlich geöffnete Links wieder aufrufen&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#k%c3%bcrzlich-ge%c3%b6ffnete-links-wieder-aufrufen&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Behalten Sie den Überblick über Links, die Sie aus anderen Apps geöffnet haben. Sie können diese später einfach wieder öffnen und zu Ihren Notizen hinzufügen.&lt;/p&gt;&#xA;&lt;h2 id=&#34;links-für-später-speichern&#34;&gt;Links für später speichern&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#links-f%c3%bcr-sp%c3%a4ter-speichern&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Beim Durchsuchen können Sie Links ganz einfach als Lesezeichen speichern, um sie später wieder zu öffnen oder zu Ihren Notizen hinzuzufügen.&lt;/p&gt;&#xA;&lt;h2 id=&#34;beliebige-metadaten-hinzufügen&#34;&gt;Beliebige Metadaten hinzufügen&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#beliebige-metadaten-hinzuf%c3%bcgen&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Sie können Links im Dateibrowser beliebige Metadaten hinzufügen. Der Editor speichert die verwendeten Attribute und -werte. Taggen Sie Ihre Links, fügen Sie Info-Notizen hinzu und verknüpfen Sie verwandte Links. Sehen Sie, wo der aktuelle Link in anderen Metadaten erwähnt wird.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zugehörige Dateien</title>
+      <link>https://foldieapp.webli.de/de/docs/feature-packs/related/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/de/docs/feature-packs/related/</guid>
+      <description>&lt;p&gt;Das Funktionspaket &lt;strong&gt;Verwandte Dateien&lt;/strong&gt; ermöglicht das Arbeiten mit Dateien, die über Dateinamen oder Pfad miteinander verbunden sind.&lt;/p&gt;&#xA;&lt;h2 id=&#34;virtuelle-ordner-overlays-erstellen&#34;&gt;Virtuelle Ordner-Overlays erstellen&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#virtuelle-ordner-overlays-erstellen&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Sie können mehrere Basisordner und Basisdateien in einem virtuellen Ordner zusammenfassen. Durch die Verwendung gleicher Unterordnernamen erhalten Sie eine Art &lt;strong&gt;Overlay-Dateisystem&lt;/strong&gt;, das Sie durchsuchen und verlinken können.&#xA;Wenn Sie keine Schreibrechte für einen freigegebenen Basisordner haben, erstellen Sie einfach einen beschreibbaren Basisordner und führen Sie beide Ordner zu einem virtuellen Ordner zusammen.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Automatisierung</title>
+      <link>https://foldieapp.webli.de/de/docs/feature-packs/automation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/de/docs/feature-packs/automation/</guid>
+      <description>&lt;p&gt;Das &lt;strong&gt;Automatisierungs-Funktionspaket&lt;/strong&gt; ermöglicht die Verwendung der Foldie-App zusammen mit der Kurzbefehle-App.&#xA;Skripte mit Kurzbefehlen ermöglichen leistungsstarke Arbeitsabläufe, jedoch ist Vorsicht geboten.&lt;/p&gt;&#xA;&lt;h2 id=&#34;kurzbefehl-aktionen-aufrufen&#34;&gt;Kurzbefehl-Aktionen aufrufen&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#kurzbefehl-aktionen-aufrufen&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Erstellen Sie benutzerdefinierte Aktionen in der Kurzbefehle-App und rufen Sie diese mit einem ausgewählten Link auf. Fügen Sie beispielsweise den ausgewählten Link einer Notiz in Apple Notizen hinzu.&lt;/p&gt;&#xA;&lt;h2 id=&#34;automatisieren&#34;&gt;Automatisieren&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#automatisieren&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Verwenden Sie die Aktionen dieser App in der Kurzbefehle-App und an anderen Stellen im System.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Feature Dokumentation</title>
       <link>https://foldieapp.webli.de/de/blog/2026/01/15/feature-dokumentation/</link>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://foldieapp.webli.de/de/blog/2026/01/15/feature-dokumentation/</guid>
-      <description>&lt;p&gt;Siehe &lt;a href=&#34;https://foldieapp.webli.de/de/docs/&#34;&gt;Doku&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Aktuell ist die Dokumentation nur auf &lt;a href=&#34;https://foldieapp.webli.de/en/docs/&#34;&gt;Englisch&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Video Leitfäden</title>
       <link>https://foldieapp.webli.de/de/blog/2025/12/15/video-leitf%C3%A4den/</link>
       <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://foldieapp.webli.de/de/blog/2025/12/15/video-leitf%C3%A4den/</guid>
-      <description>&lt;p&gt;Wir haben damit gestartet, ein paar Tutorials zu machen. Siehe &lt;a href=&#34;https://foldieapp.webli.de/de/videos&#34;&gt;hier&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Wir haben damit gestartet, ein paar Tutorials zu machen. Siehe &lt;a href=&#34;https://foldieapp.webli.de/de/videos/&#34;&gt;hier&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Foldie Links Version 1.0 für iOS and macOS.</title>
       <link>https://foldieapp.webli.de/de/blog/2025/11/21/foldie-links-version-1.0-f%C3%BCr-ios-and-macos./</link>
       <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://foldieapp.webli.de/de/blog/2025/11/21/foldie-links-version-1.0-f%C3%BCr-ios-and-macos./</guid>
-      <description>&lt;p&gt;Die &lt;a href=&#34;https://apps.apple.com/de/app/foldie-links/id6754844583&#34;&gt;App&lt;/a&gt; ist jetzt verfügbar.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Die &lt;a href=&#34;https://apps.apple.com/de/app/foldie-links/id6754844583&#34; rel=&#34;external&#34;&gt;App&lt;/a&gt; ist jetzt verfügbar.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Foldie Links App jetzt erhältlich</title>
       <link>https://foldieapp.webli.de/de/blog/2025/11/21/foldie-links-app-jetzt-erh%C3%A4ltlich/</link>
       <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://foldieapp.webli.de/de/blog/2025/11/21/foldie-links-app-jetzt-erh%C3%A4ltlich/</guid>
-      <description>&lt;p&gt;Die &lt;a href=&#34;https://apps.apple.com/de/app/foldie-links/id6754844583&#34;&gt;App&lt;/a&gt; is jetzt erhältlich.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Die &lt;a href=&#34;https://apps.apple.com/de/app/foldie-links/id6754844583&#34; rel=&#34;external&#34;&gt;App&lt;/a&gt; is jetzt erhältlich.&lt;/p&gt;</description>
     </item>
     <item>
       <title>App</title>
       <link>https://foldieapp.webli.de/de/app/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://foldieapp.webli.de/de/app/</guid>
-      <description>&lt;p&gt;Für iPhone, iPad und Mac.&#xA;&lt;a href=&#34;https://apps.apple.com/de/app/foldie-links/id6754844583&#34;&gt;Im App Store laden&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;img src=&#34;https://foldieapp.webli.de/images/Foldie-All-Devices-de.png&#34; width=&#34;100%&#34;&gt;</description>
+      <description>&lt;p&gt;Für iPhone, iPad und Mac.&#xA;&lt;a href=&#34;https://apps.apple.com/de/app/foldie-links/id6754844583&#34; rel=&#34;external&#34;&gt;Im App Store laden&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;img src=&#34;https://foldieapp.webli.de/images/Foldie-All-Devices-de.png&#34; width=&#34;100%&#34;&gt;</description>
     </item>
     <item>
       <title>Datenschutzrichtlinie der Foldie-Links App</title>
@@ -55,7 +82,7 @@
       <link>https://foldieapp.webli.de/de/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://foldieapp.webli.de/de/faq/</guid>
-      <description>&lt;h1 id=&#34;häufige-fragen&#34;&gt;Häufige Fragen&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#h%c3%a4ufige-fragen&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;Finden Sie Antworten für ihre dringenden Fragen.&lt;/p&gt;&#xA;&lt;h2 id=&#34;links&#34;&gt;Links&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#links&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;app-store-links&#34;&gt;App Store Links&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#app-store-links&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://apps.apple.com/us/app/foldie-links/id6754844583&#34;&gt;Foldie Links (english)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://apps.apple.com/de/app/foldie-links/id6754844583&#34;&gt;Foldie Links (deutsch)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;english-support&#34;&gt;English Support&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#english-support&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://foldieapp.webli.de/PrivacyPolicy-en/&#34;&gt;Privacy Policy of the app&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://foldieapp.webli.de/Support-en/&#34;&gt;Support page of the app&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;deutsche-unterstützung&#34;&gt;Deutsche Unterstützung&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#deutsche-unterst%c3%bctzung&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://foldieapp.webli.de/PrivacyPolicy-de/&#34;&gt;Datenschutzrichtlinie der App&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://foldieapp.webli.de/Support-de/&#34;&gt;App-Unterstützung&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;test-daten&#34;&gt;Test Daten&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#test-daten&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/SolfaMode/FoldieTest&#34;&gt;FoldieTest&lt;/a&gt; Daten.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;fragen&#34;&gt;Fragen&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#fragen&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h4 id=&#34;ist-die-dokumentation-in-anderen-sprachen-als-englisch-verfügbar-&#34;&gt;Ist die Dokumentation in anderen Sprachen als Englisch verfügbar ?&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#ist-die-dokumentation-in-anderen-sprachen-als-englisch-verf%c3%bcgbar-&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;p&gt;Wir übersetzen die englische Dokumentation vielleicht in der Zukunft. In der Zwischenzeit nutzten Sie bitte den Übersetzen-Knopf in der Navigationsleiste ihres Browsers um automatische Übersetzungen zu bekommen. Freuen Sie sich auf lustige Übersetzungen.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;häufige-fragen&#34;&gt;Häufige Fragen&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#h%c3%a4ufige-fragen&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;Finden Sie Antworten für ihre dringenden Fragen.&lt;/p&gt;&#xA;&lt;h2 id=&#34;links&#34;&gt;Links&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#links&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;app-store-links&#34;&gt;App Store Links&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#app-store-links&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://apps.apple.com/us/app/foldie-links/id6754844583&#34; rel=&#34;external&#34;&gt;Foldie Links (english)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://apps.apple.com/de/app/foldie-links/id6754844583&#34; rel=&#34;external&#34;&gt;Foldie Links (deutsch)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;english-support&#34;&gt;English Support&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#english-support&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://foldieapp.webli.de/PrivacyPolicy-en/&#34;&gt;Privacy Policy of the app&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://foldieapp.webli.de/Support-en/&#34;&gt;Support page of the app&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;deutsche-unterstützung&#34;&gt;Deutsche Unterstützung&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#deutsche-unterst%c3%bctzung&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://foldieapp.webli.de/PrivacyPolicy-de/&#34;&gt;Datenschutzrichtlinie der App&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://foldieapp.webli.de/Support-de/&#34;&gt;App-Unterstützung&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;test-daten&#34;&gt;Test Daten&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#test-daten&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/SolfaMode/FoldieTest&#34; rel=&#34;external&#34;&gt;FoldieTest&lt;/a&gt; Daten.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;fragen&#34;&gt;Fragen&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#fragen&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h4 id=&#34;ist-die-dokumentation-in-anderen-sprachen-als-englisch-verfügbar-&#34;&gt;Ist die Dokumentation in anderen Sprachen als Englisch verfügbar ?&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#ist-die-dokumentation-in-anderen-sprachen-als-englisch-verf%c3%bcgbar-&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;p&gt;Wir übersetzen die englische Dokumentation vielleicht in der Zukunft. In der Zwischenzeit nutzten Sie bitte den Übersetzen-Knopf in der Navigationsleiste ihres Browsers um automatische Übersetzungen zu bekommen. Freuen Sie sich auf lustige Übersetzungen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Suchergebnisse</title>
@@ -69,14 +96,14 @@
       <link>https://foldieapp.webli.de/de/misc/support/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://foldieapp.webli.de/de/misc/support/</guid>
-      <description>&lt;p&gt;Wenn Sie eine Frage haben, prüfen Sie zunächst die &lt;a href=&#34;https://foldieapp.webli.de/docs/en/faq/&#34;&gt;FAQ&lt;/a&gt;, und andere Informationen auf dieser Webseite.&lt;/p&gt;&#xA;&lt;p&gt;Da die Dokumentation zur Zeit nur auf Englisch angelegt ist, nutzen Sie bitten die Übersetzungsfunktion ihres Browsers.&#xA;In Safari finden Sie diesen Knopf: &lt;img src=&#34;https://foldieapp.webli.de/images/apple-translate.png&#34; alt=&#34;Translate Icon&#34;&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;auf dem Mac: in der Adresszeile des Browsers.&lt;/li&gt;&#xA;&lt;li&gt;auf dem iPhone und iPad: in der Adresszeile des Browsers in linken Menü.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Falls Sie nicht weiterkommen, schreiben Sie bitte eine Email an Foldie &amp;lsquo;at&amp;rsquo; webli &amp;lsquo;dot&amp;rsquo; de.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Wenn Sie eine Frage haben, prüfen Sie zunächst die &lt;a href=&#34;https://foldieapp.webli.de/de/faq/&#34;&gt;FAQ&lt;/a&gt;, und andere Informationen auf dieser Webseite.&lt;/p&gt;&#xA;&lt;p&gt;Da die Dokumentation zur Zeit nur auf Englisch angelegt ist, nutzen Sie bitten die Übersetzungsfunktion ihres Browsers.&#xA;In Safari finden Sie diesen Knopf: &lt;img src=&#34;https://foldieapp.webli.de/images/apple-translate.png&#34; alt=&#34;Translate Icon&#34;&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;auf dem Mac: in der Adresszeile des Browsers.&lt;/li&gt;&#xA;&lt;li&gt;auf dem iPhone und iPad: in der Adresszeile des Browsers in linken Menü.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Falls Sie nicht weiterkommen, schreiben Sie bitte eine Email an Foldie &amp;lsquo;at&amp;rsquo; webli &amp;lsquo;dot&amp;rsquo; de.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Videos</title>
       <link>https://foldieapp.webli.de/de/videos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://foldieapp.webli.de/de/videos/</guid>
-      <description>&lt;h1 id=&#34;videos&#34;&gt;Videos&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#videos&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;Sehen Sie sich &amp;ldquo;Foldie Links&amp;rdquo; auf YouTube an.&lt;/p&gt;&#xA;&#xA;&#xA;&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;&#xA;&lt;p&gt;Achtung: Die Links führen von dieser Seite zur YouTube Webseite, auf der andere Datenschutzregeln gelten.&lt;/p&gt;&#xA;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;!-- embedding videos can be disabled in hugo.yaml --&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLlYMXwjat1CDtioIv1ri1Vy2FLgginlQ9&#34;&gt;Foldie YouTube Kanal&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://youtu.be/vH0-ZeZzpUc&#34;&gt;Foldie Einführung&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://youtu.be/xcqsQgHBpAg&#34;&gt;Foldie Links: Dateien ansehen und editieren&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+      <description>&lt;h1 id=&#34;videos&#34;&gt;Videos&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#videos&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;Sehen Sie sich &amp;ldquo;Foldie Links&amp;rdquo; auf YouTube an.&lt;/p&gt;&#xA;&#xA;&#xA;&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;&#xA;&lt;p&gt;Achtung: Die Links führen von dieser Seite zur YouTube Webseite, auf der andere Datenschutzregeln gelten.&lt;/p&gt;&#xA;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;!-- embedding videos can be disabled in hugo.yaml --&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLlYMXwjat1CDtioIv1ri1Vy2FLgginlQ9&#34; rel=&#34;external&#34;&gt;Foldie YouTube Kanal&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://youtu.be/vH0-ZeZzpUc&#34; rel=&#34;external&#34;&gt;Foldie Einführung&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://youtu.be/xcqsQgHBpAg&#34; rel=&#34;external&#34;&gt;Foldie Links: Dateien ansehen und editieren&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feature-Packs on Foldie Links</title>
+    <link>https://foldieapp.webli.de/de/docs/feature-packs/</link>
+    <description>Recent content in Feature-Packs on Foldie Links</description>
+    <generator>Hugo</generator>
+    <language>de</language>
+    <atom:link href="https://foldieapp.webli.de/de/docs/feature-packs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basis-Features</title>
+      <link>https://foldieapp.webli.de/de/docs/feature-packs/basic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/de/docs/feature-packs/basic/</guid>
+      <description>&lt;p&gt;Erstellen Sie Verknüpfungen zu Ihren Dateien und Ordnern, speichern Sie diese an einem beliebigen Ort und öffnen Sie die Verknüpfungen automatisch. Diese App ersetzt „file:“-Links und ist für alle Ihre iPhones, iPads und Macs geeignet.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Arbeiten mit Links</title>
+      <link>https://foldieapp.webli.de/de/docs/feature-packs/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/de/docs/feature-packs/links/</guid>
+      <description>&lt;p&gt;Das Funktionspaket „Links“ ermöglicht optimierte Workflows beim Verlinken.&lt;/p&gt;&#xA;&lt;h2 id=&#34;kürzlich-geöffnete-links-wieder-aufrufen&#34;&gt;Kürzlich geöffnete Links wieder aufrufen&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#k%c3%bcrzlich-ge%c3%b6ffnete-links-wieder-aufrufen&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Behalten Sie den Überblick über Links, die Sie aus anderen Apps geöffnet haben. Sie können diese später einfach wieder öffnen und zu Ihren Notizen hinzufügen.&lt;/p&gt;&#xA;&lt;h2 id=&#34;links-für-später-speichern&#34;&gt;Links für später speichern&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#links-f%c3%bcr-sp%c3%a4ter-speichern&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Beim Durchsuchen können Sie Links ganz einfach als Lesezeichen speichern, um sie später wieder zu öffnen oder zu Ihren Notizen hinzuzufügen.&lt;/p&gt;&#xA;&lt;h2 id=&#34;beliebige-metadaten-hinzufügen&#34;&gt;Beliebige Metadaten hinzufügen&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#beliebige-metadaten-hinzuf%c3%bcgen&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Sie können Links im Dateibrowser beliebige Metadaten hinzufügen. Der Editor speichert die verwendeten Attribute und -werte. Taggen Sie Ihre Links, fügen Sie Info-Notizen hinzu und verknüpfen Sie verwandte Links. Sehen Sie, wo der aktuelle Link in anderen Metadaten erwähnt wird.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zugehörige Dateien</title>
+      <link>https://foldieapp.webli.de/de/docs/feature-packs/related/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/de/docs/feature-packs/related/</guid>
+      <description>&lt;p&gt;Das Funktionspaket &lt;strong&gt;Verwandte Dateien&lt;/strong&gt; ermöglicht das Arbeiten mit Dateien, die über Dateinamen oder Pfad miteinander verbunden sind.&lt;/p&gt;&#xA;&lt;h2 id=&#34;virtuelle-ordner-overlays-erstellen&#34;&gt;Virtuelle Ordner-Overlays erstellen&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#virtuelle-ordner-overlays-erstellen&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Sie können mehrere Basisordner und Basisdateien in einem virtuellen Ordner zusammenfassen. Durch die Verwendung gleicher Unterordnernamen erhalten Sie eine Art &lt;strong&gt;Overlay-Dateisystem&lt;/strong&gt;, das Sie durchsuchen und verlinken können.&#xA;Wenn Sie keine Schreibrechte für einen freigegebenen Basisordner haben, erstellen Sie einfach einen beschreibbaren Basisordner und führen Sie beide Ordner zu einem virtuellen Ordner zusammen.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Automatisierung</title>
+      <link>https://foldieapp.webli.de/de/docs/feature-packs/automation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://foldieapp.webli.de/de/docs/feature-packs/automation/</guid>
+      <description>&lt;p&gt;Das &lt;strong&gt;Automatisierungs-Funktionspaket&lt;/strong&gt; ermöglicht die Verwendung der Foldie-App zusammen mit der Kurzbefehle-App.&#xA;Skripte mit Kurzbefehlen ermöglichen leistungsstarke Arbeitsabläufe, jedoch ist Vorsicht geboten.&lt;/p&gt;&#xA;&lt;h2 id=&#34;kurzbefehl-aktionen-aufrufen&#34;&gt;Kurzbefehl-Aktionen aufrufen&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#kurzbefehl-aktionen-aufrufen&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Erstellen Sie benutzerdefinierte Aktionen in der Kurzbefehle-App und rufen Sie diese mit einem ausgewählten Link auf. Fügen Sie beispielsweise den ausgewählten Link einer Notiz in Apple Notizen hinzu.&lt;/p&gt;&#xA;&lt;h2 id=&#34;automatisieren&#34;&gt;Automatisieren&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#automatisieren&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Verwenden Sie die Aktionen dieser App in der Kurzbefehle-App und an anderen Stellen im System.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

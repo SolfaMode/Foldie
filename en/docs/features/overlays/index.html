@@ -52,11 +52,11 @@
   <meta property="og:locale" content="en">
   <meta property="og:type" content="article">
     <meta property="article:section" content="docs">
-    <meta property="article:modified_time" content="2026-01-13T19:00:07+01:00">
+    <meta property="article:modified_time" content="2026-01-16T11:20:49+01:00">
 
   <meta itemprop="name" content="Overlays">
   <meta itemprop="description" content="List files from multiple sources.">
-  <meta itemprop="dateModified" content="2026-01-13T19:00:07+01:00">
+  <meta itemprop="dateModified" content="2026-01-16T11:20:49+01:00">
   <meta itemprop="wordCount" content="666">
   <meta itemprop="keywords" content="Related">
   <meta name="twitter:card" content="summary">
@@ -342,7 +342,7 @@ An overlay can be realized with a <a href="/en/docs/features/virtual-folders/">V
 The <a href="/en/docs/features/file-browser/">file browser</a> supports to browse these overlays.</p>
 <h2 id="what-is-a-folder-overlay">What is a folder-overlay?<a class="td-heading-self-link" href="#what-is-a-folder-overlay" aria-label="Heading self-link"></a></h2>
 <p>Overlays are well-known from painting applications, such as Adobe Photoshop. There, an Overlay consists of a list of ordered layers, each of which contains an image with a transparent background. In the overall view, opaque pixels in the upper layers hide opaque pixels in the lower layer, that have the same coordinate.</p>
-<p>For the sake of simplicity we assume that every layer <strong>L[i]</strong> in a folder-overlay is backed by a physical source folder <strong>F[i]</strong>, that recursively contains items (files and folders) - the &lsquo;pixels&rsquo;. The coordinate of an item within a layer is given by its relative path from <strong>F[i]</strong>. Items with the same relative path but different source folders are stacked on top of each other in the order of their layers. The overall view on a folder-overlay is like an <a href="/en/docs/glossary/overlay-filesystem/">overlay file system</a>.</p>
+<p>For the sake of simplicity we assume that every layer <code>L[i]</code> in a folder-overlay is backed by a physical source folder <code>F[i]</code>, that recursively contains items (files and folders) - the &lsquo;pixels&rsquo;. The coordinate of an item within a layer is given by its relative path from <code>F[i]</code>. Items with the same relative path but different source folders are stacked on top of each other in the order of their layers. The overall view on a folder-overlay is like an <a href="/en/docs/glossary/overlay-filesystem/">overlay file system</a>.</p>
 <h2 id="consequences">Consequences<a class="td-heading-self-link" href="#consequences" aria-label="Heading self-link"></a></h2>
 <p>Facts:</p>
 <ul>
@@ -377,16 +377,16 @@ The <a href="/en/docs/features/file-browser/">file browser</a> supports to brows
 <li>A folder that you want to publish. You want to keep it clean of personal annotation files.</li>
 </ul>
 <h2 id="technique-writing-over-a-read-only-folder">Technique: Writing over a read-only folder<a class="td-heading-self-link" href="#technique-writing-over-a-read-only-folder" aria-label="Heading self-link"></a></h2>
-<p>If you have a read-only folder <strong>R</strong> and a writable folder <strong>W</strong>, you can stack <strong>W</strong> on top of <strong>R</strong> in an overlay <strong>O</strong>.</p>
+<p>If you have a read-only folder <code>R</code> and a writable folder <code>W</code>, you can stack <code>W</code> on top of <code>R</code> in an overlay <code>O</code>.</p>
 <h3 id="virtually-editing-a-file">Virtually editing a file<a class="td-heading-self-link" href="#virtually-editing-a-file" aria-label="Heading self-link"></a></h3>
-<p>If you take a file <strong>F</strong> with path <strong>P</strong> in <strong>R</strong>, edit and save it to the same path <strong>P</strong> in <strong>W</strong>, the edited version hides the unmodified version of <strong>F</strong> in <strong>O</strong>. This way you can virtually replace <strong>F</strong> without touching <strong>R</strong>. Foldie&rsquo;s <a href="/en/docs/features/file-browser/">file browser</a> supports copying <strong>F</strong> from <strong>R</strong> to <strong>W</strong>, so that you can edit that version with an external app afterwards.</p>
+<p>If you take a file <code>F</code> with path <code>P</code> in <code>R</code>, edit and save it to the same path <code>P</code> in <code>W</code>, the edited version hides the unmodified version of <code>F</code> in <code>O</code>. This way you can virtually replace <code>F</code> without touching <code>R</code>. Foldie&rsquo;s <a href="/en/docs/features/file-browser/">file browser</a> supports copying <code>F</code> from <code>R</code> to <code>W</code>, so that you can edit that version with an external app afterwards.</p>
 <h3 id="adding-sibling-files">Adding sibling files<a class="td-heading-self-link" href="#adding-sibling-files" aria-label="Heading self-link"></a></h3>
-<p>For file <strong>F</strong> with path <strong>somepath/filename.ext</strong> in <strong>R</strong>, you can put an edited version at <strong>somepath/filename-version.ext</strong> or an annotation file at <strong>somepath/filename.txt</strong>. These files show up as sibling files next to <strong>F</strong> in the file browser.</p>
+<p>For file <code>F</code> with path <code>somepath/filename.ext</code> in <code>R</code>, you can put an edited version at <code>somepath/filename-version.ext</code> or an annotation file at <code>somepath/filename.txt</code>. These files show up as sibling files next to <code>F</code> in the file browser.</p>
 <h2 id="technique-merging-multiple-sources">Technique: Merging multiple sources<a class="td-heading-self-link" href="#technique-merging-multiple-sources" aria-label="Heading self-link"></a></h2>
-<p>You can merge information not just from two folders, but from multiple sources. Assume you are working together with multiple colleagues on a shared folder <strong>R</strong> and every colleague <strong>C</strong> shares his overlay folder <strong>CW</strong>, then you can construct an overlay, in which all contributions are visible.</p>
+<p>You can merge information not just from two folders, but from multiple sources. Assume you are working together with multiple colleagues on a shared folder <code>R</code> and every colleague <code>C</code> shares his overlay folder <code>CW</code>, then you can construct an overlay, in which all contributions are visible.</p>
 <p>Sibling files with a naming convention including the colleage&rsquo;s name are visible.
 Files from different sources with the same path can also be made visible by choosing a browsing mode that just merges directories but not files.</p>
-<p>See also the <a href="../use-cases/school.md">school</a> use cases.</p>
+<p>See also the <a href="/en/docs/use-cases/tutor/">tutor</a> use cases.</p>
 
 	
 </div>
